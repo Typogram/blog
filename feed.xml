@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://staging.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://staging.typogram.co/blog" />
-    <updated>2022-02-10T16:48:59-05:00</updated>
+    <updated>2022-02-10T17:00:51-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,15 +17,19 @@
         <link href="https://staging.typogram.co/blog/how-to-choose-branding-color-palette/"/>
         <id>https://staging.typogram.co/blog/how-to-choose-branding-color-palette/</id>
 
-        <updated>2022-02-10T16:48:59-05:00</updated>
+        <updated>2022-02-10T17:00:51-05:00</updated>
             <summary>
                 <![CDATA[
-                    Colors in Art History Color is one of the essential elements in&hellip;
+                        <img src="https://staging.typogram.co/blog/media/posts/4/BrandingColorCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
+                    If you are looking for weekly dose of design tips and inspirations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1 id="colors-in-art-history">Colors in Art History</h1>
+                    <img src="https://staging.typogram.co/blog/media/posts/4/BrandingColorCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
+                <p><em>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">Fontdiscovery newsletter</a>!</em></p>
+<hr>
+<h1 id="colors-in-art-history">Colors in Art History</h1>
 <p>Color is one of the essential elements in art and design. Throughout history, it has been used to depict emotions, delight audiences, and change how we see the world. Artist Pablo Picasso used different colors intentionally and exclusively to express feelings. Painter Paul Cezanne led the Post-Impressionist art movement by reinventing how color is used in landscape paintings.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/Fzj9dg_qsjSq9StT_ar5uEuROdk007kgidxAa_uwzwT0pqhtmXjuQCwkJnsmWKf5H3qryhnX-UjnSvKCwD8aGNyGbdkV1YSPJHGesVuMDbZzS-h5JEAAeMSZyEmZgFbeUevH8CgY=s0" data-is-external-image="true"  alt="paulCezzaneColorUse" /></figure></p>
 <p>img: Paul Cezanne’s impressionist landscape paintings had a revolutionary way of using color. Source: <a href="https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne">wikipedia</a></p>
@@ -96,7 +100,7 @@
 <p>img: do and don’t for color usage</p>
 <hr>
 <p>And that’s it for our guide on choosing colors! Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
-<p>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">Fontdiscovery newsletter</a>!</p>
+<p><a href="https://fontdiscovery.typogram.co/">Subscribe Fontdiscovery</a> newsletter for weekly doses of design tips and inspiration!</p>
 
             ]]>
         </content>
