@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/",
+            "url": "https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/",
+            "title": "Essential Typography Terms You Must Know to Boost Your Design Skills, Part 1",
+            "summary": "Typography Art of arranging pieces of text via typefaces to make information&hellip;",
+            "content_html": "<h3 id=\"typography\">Typography</h3>\n<p>Art of arranging pieces of text via typefaces to make information legible, readable and pleasing to the eye.</p>\n<h3 id=\"typeface\">Typeface</h3>\n<p>A typeface is a set of glyphs or characters like (alphabet) that share a common design. For example, Helvetica</p>\n<h3 id=\"font\">Font</h3>\n<p>A font was a particular size, weight and style of a typeface. For example, 12 point Helvetica bold.</p>\n<h3 id=\"font-family\">Font Family</h3>\n<p>A set of fonts that shared design styles. For example, Helvetica Bold and Helvetica Regular, both of these are in the Helvetica Family.</p>\n<h3 id=\"font-weight\">Font Weight</h3>\n<p>The weight of a particular font is the thickness of the character relative to their height.</p>\n<h3 id=\"font-style\">Font Style</h3>\n<p>Normal, italicized, oblique style of the font.</p>\n<p><strong>Normal</strong> </p>\n<ul>\n<li>Also called Roman, where the text is upright.</li>\n</ul>\n<p><strong>Italic</strong></p>\n<p>Italicized and oblique are both ways to create a slant typeface(usually for emphasis).</p>\n<ul>\n<li>A true italic font is cursive and slanted.\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://staging.typogram.co/blog/media/posts/9/italic.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://staging.typogram.co/blog/media/posts/9/responsive/italic-xs.png 300w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-sm.png 480w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-md.png 768w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-lg.png 1024w\"  alt=\"trueItalic\" width=\"1848\" height=\"924\" /></figure></li>\n</ul>\n<p>img: a true italic has little curved tails around its letters, signaling its a cursive. True italic works well, even better for emphasis, so if the font you are using has both “italic” and “oblique”, use italic!</p>\n<p><strong>Oblique</strong></p>\n<ul>\n<li>Another way to create a slant typeface. An italic font slants slightly to the right.\n<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://staging.typogram.co/blog/media/posts/9/oblique.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://staging.typogram.co/blog/media/posts/9/responsive/oblique-xs.png 300w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-sm.png 480w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-md.png 768w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-lg.png 1024w\"  alt=\"oblicqueItalic\" width=\"1848\" height=\"924\" /></figure></li>\n</ul>\n",
+            "image": "https://staging.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png",
+            "author": {
+                "name": "Wenting Zhang"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-03-09T23:47:46-05:00",
+            "date_modified": "2022-03-09T23:51:01-05:00"
+        },
+        {
             "id": "https://staging.typogram.co/blog/business-pitch-presentation-design-tips/",
             "url": "https://staging.typogram.co/blog/business-pitch-presentation-design-tips/",
             "title": "Create a Stellar Pitch Presentation with These Five Tips",

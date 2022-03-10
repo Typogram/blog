@@ -3,12 +3,62 @@
     <title>Typogram Blog</title>
     <link href="https://staging.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://staging.typogram.co/blog" />
-    <updated>2022-03-09T23:12:49-05:00</updated>
+    <updated>2022-03-09T23:51:01-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://staging.typogram.co/blog</id>
 
+    <entry>
+        <title>Essential Typography Terms You Must Know to Boost Your Design Skills, Part 1</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/"/>
+        <id>https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/</id>
+
+        <updated>2022-03-09T23:51:01-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://staging.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
+                    Typography Art of arranging pieces of text via typefaces to make information&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://staging.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
+                <h3 id="typography">Typography</h3>
+<p>Art of arranging pieces of text via typefaces to make information legible, readable and pleasing to the eye.</p>
+<h3 id="typeface">Typeface</h3>
+<p>A typeface is a set of glyphs or characters like (alphabet) that share a common design. For example, Helvetica</p>
+<h3 id="font">Font</h3>
+<p>A font was a particular size, weight and style of a typeface. For example, 12 point Helvetica bold.</p>
+<h3 id="font-family">Font Family</h3>
+<p>A set of fonts that shared design styles. For example, Helvetica Bold and Helvetica Regular, both of these are in the Helvetica Family.</p>
+<h3 id="font-weight">Font Weight</h3>
+<p>The weight of a particular font is the thickness of the character relative to their height.</p>
+<h3 id="font-style">Font Style</h3>
+<p>Normal, italicized, oblique style of the font.</p>
+<p><strong>Normal</strong> </p>
+<ul>
+<li>Also called Roman, where the text is upright.</li>
+</ul>
+<p><strong>Italic</strong></p>
+<p>Italicized and oblique are both ways to create a slant typeface(usually for emphasis).</p>
+<ul>
+<li>A true italic font is cursive and slanted.
+<figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/9/italic.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/9/responsive/italic-xs.png 300w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-sm.png 480w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-md.png 768w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-lg.png 1024w"  alt="trueItalic" width="1848" height="924" /></figure></li>
+</ul>
+<p>img: a true italic has little curved tails around its letters, signaling its a cursive. True italic works well, even better for emphasis, so if the font you are using has both “italic” and “oblique”, use italic!</p>
+<p><strong>Oblique</strong></p>
+<ul>
+<li>Another way to create a slant typeface. An italic font slants slightly to the right.
+<figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/9/oblique.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/9/responsive/oblique-xs.png 300w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-sm.png 480w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-md.png 768w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-lg.png 1024w"  alt="oblicqueItalic" width="1848" height="924" /></figure></li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Create a Stellar Pitch Presentation with These Five Tips</title>
         <author>
