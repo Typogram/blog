@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://staging.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://staging.typogram.co/blog" />
-    <updated>2022-03-09T23:51:01-05:00</updated>
+    <updated>2022-03-18T18:11:17-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -16,8 +16,10 @@
         </author>
         <link href="https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/"/>
         <id>https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/</id>
+            <category term="Typography &amp; Fonts"/>
+            <category term="Branding"/>
 
-        <updated>2022-03-09T23:51:01-05:00</updated>
+        <updated>2022-03-18T18:11:17-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staging.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
@@ -66,8 +68,9 @@
         </author>
         <link href="https://staging.typogram.co/blog/business-pitch-presentation-design-tips/"/>
         <id>https://staging.typogram.co/blog/business-pitch-presentation-design-tips/</id>
+            <category term="Branding"/>
 
-        <updated>2022-03-09T23:12:49-05:00</updated>
+        <updated>2022-03-18T17:49:13-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staging.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
@@ -150,8 +153,9 @@
         </author>
         <link href="https://staging.typogram.co/blog/small-business-marketing-ideas/"/>
         <id>https://staging.typogram.co/blog/small-business-marketing-ideas/</id>
+            <category term="Branding"/>
 
-        <updated>2022-03-09T23:07:03-05:00</updated>
+        <updated>2022-03-18T17:50:31-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staging.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
@@ -206,8 +210,9 @@ How do I get started?  I don’t have any ideas.</p>
         </author>
         <link href="https://staging.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/"/>
         <id>https://staging.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
+            <category term="Branding"/>
 
-        <updated>2022-03-03T15:00:38-05:00</updated>
+        <updated>2022-03-18T17:50:38-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staging.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
@@ -264,8 +269,9 @@ How do I get started?  I don’t have any ideas.</p>
         </author>
         <link href="https://staging.typogram.co/blog/startup-branding/"/>
         <id>https://staging.typogram.co/blog/startup-branding/</id>
+            <category term="Branding"/>
 
-        <updated>2022-03-06T21:10:01-05:00</updated>
+        <updated>2022-03-18T17:50:44-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staging.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
@@ -314,8 +320,9 @@ How do I get started?  I don’t have any ideas.</p>
         </author>
         <link href="https://staging.typogram.co/blog/how-to-choose-branding-color-palette/"/>
         <id>https://staging.typogram.co/blog/how-to-choose-branding-color-palette/</id>
+            <category term="Branding"/>
 
-        <updated>2022-03-06T21:10:15-05:00</updated>
+        <updated>2022-03-18T17:50:51-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://staging.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
