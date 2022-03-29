@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Typogram Blog</title>
-    <link href="https://staging.typogram.co/blog/feed.xml" rel="self" />
-    <link href="https://staging.typogram.co/blog" />
+    <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
+    <link href="https://www.typogram.co/blog" />
     <updated>2022-03-18T18:11:17-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
-    <id>https://staging.typogram.co/blog</id>
+    <id>https://www.typogram.co/blog</id>
 
     <entry>
         <title>Essential Typography Terms You Must Know to Boost Your Design Skills, Part 1</title>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/"/>
-        <id>https://staging.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/</id>
+        <link href="https://www.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/"/>
+        <id>https://www.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/</id>
             <category term="Typography &amp; Fonts"/>
             <category term="Branding"/>
 
         <updated>2022-03-18T18:11:17-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://staging.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
+                        <img src="https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
                     Typography Art of arranging pieces of text via typefaces to make information&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://staging.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
+                    <img src="https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
                 <h3 id="typography">Typography</h3>
 <p>Art of arranging pieces of text via typefaces to make information legible, readable and pleasing to the eye.</p>
 <h3 id="typeface">Typeface</h3>
@@ -49,13 +49,13 @@
 <p>Italicized and oblique are both ways to create a slant typeface(usually for emphasis).</p>
 <ul>
 <li>A true italic font is cursive and slanted.
-<figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/9/italic.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/9/responsive/italic-xs.png 300w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-sm.png 480w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-md.png 768w ,https://staging.typogram.co/blog/media/posts/9/responsive/italic-lg.png 1024w"  alt="trueItalic" width="1848" height="924" /></figure></li>
+<figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/9/italic.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/9/responsive/italic-xs.png 300w ,https://www.typogram.co/blog/media/posts/9/responsive/italic-sm.png 480w ,https://www.typogram.co/blog/media/posts/9/responsive/italic-md.png 768w ,https://www.typogram.co/blog/media/posts/9/responsive/italic-lg.png 1024w"  alt="trueItalic" width="1848" height="924" /></figure></li>
 </ul>
 <p>img: a true italic has little curved tails around its letters, signaling its a cursive. True italic works well, even better for emphasis, so if the font you are using has both “italic” and “oblique”, use italic!</p>
 <p><strong>Oblique</strong></p>
 <ul>
 <li>Another way to create a slant typeface. An italic font slants slightly to the right.
-<figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/9/oblique.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/9/responsive/oblique-xs.png 300w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-sm.png 480w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-md.png 768w ,https://staging.typogram.co/blog/media/posts/9/responsive/oblique-lg.png 1024w"  alt="oblicqueItalic" width="1848" height="924" /></figure></li>
+<figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/9/oblique.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/9/responsive/oblique-xs.png 300w ,https://www.typogram.co/blog/media/posts/9/responsive/oblique-sm.png 480w ,https://www.typogram.co/blog/media/posts/9/responsive/oblique-md.png 768w ,https://www.typogram.co/blog/media/posts/9/responsive/oblique-lg.png 1024w"  alt="oblicqueItalic" width="1848" height="924" /></figure></li>
 </ul>
 
             ]]>
@@ -66,20 +66,20 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://staging.typogram.co/blog/business-pitch-presentation-design-tips/"/>
-        <id>https://staging.typogram.co/blog/business-pitch-presentation-design-tips/</id>
+        <link href="https://www.typogram.co/blog/business-pitch-presentation-design-tips/"/>
+        <id>https://www.typogram.co/blog/business-pitch-presentation-design-tips/</id>
             <category term="Branding"/>
 
         <updated>2022-03-18T17:49:13-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://staging.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
+                        <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
                     If you are looking for weekly dose of design tips and inspirations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://staging.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
+                    <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
                 <p><em>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>!</em></p>
 <hr>
 <h1 id="presentation-counts">Presentation Counts</h1>
@@ -104,13 +104,13 @@
 </ul>
 <p>Once you figure out these questions, start searching for images. images that tell story about processes, illustrate pivotal moments, and associate with specific emotions are particularly helpful to presentations. If you want to learn more about how to visualize ideas, check out this <a href="https://www.notion.so/How-to-Visualize-Ideas-for-Your-Brand-5850c7cfc3184f98a240687505678594">post</a>.</p>
 <p>A good tactic is using full bleed (edge to edge) images to illustrating pivotal moments, visions, impressive examples. It is more effective if the images are in high resolution.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/8/blogPost5Presentation1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-xs.png 300w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-sm.png 480w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-md.png 768w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-lg.png 1024w"  alt="leftCentervsFullBleed" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-lg.png 1024w"  alt="leftCentervsFullBleed" width="2024" height="1012" /></figure></p>
 <p>img: left- centered image on a slide; right- full bleed image. The full bleed image on the right will usually work better than on the left. It pulls in the audience a lot more since it is bigger in scale.</p>
 <hr>
 <h1 id="use-appropriate-fonts">Use appropriate fonts</h1>
 <p>If you have a brand typography system, this can be an excellent place to use it. If you don’t know what font to use, choose Helvetica or a neutral serif, like <a href="https://fontdiscovery.typogram.co/p/fontdiscovery-13-plex-a-font-family">Plex Sans</a> or <a href="https://fontdiscovery.typogram.co/p/fow-no4-libre-franklin-a-versatile?s=w">Libre Franklin</a>.</p>
 <p>When you do a presentation, you want people to take you seriously. Display fonts generally are too decorative and distracting to use in a formal setting. You probably want to save your scripts and handwriting fonts for the presentation most of the time.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/8/blogPost5Presentation2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-xs.png 300w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-sm.png 480w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-md.png 768w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-lg.png 1024w"  alt="appropriateFont" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-lg.png 1024w"  alt="appropriateFont" width="2024" height="1012" /></figure></p>
 <p>img: left- handwriting font is not appropriate for formal presentation. right- a fairly neutral sans serif is better suited and more clear.</p>
 <hr>
 <h1 id="improve-readability-by-adding-white-space">Improve readability by adding white space</h1>
@@ -122,12 +122,12 @@
 </ul>
 <p>If your text can breathe, the reader’s eyes can breathe.</p>
 <p>If a reader’s eyes can breathe, they will have an easier time understand and remember your story.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/8/blogPost5Presentation3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-xs.png 300w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-sm.png 480w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-md.png 768w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-lg.png 1024w"  alt="InformationWhitespace" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-lg.png 1024w"  alt="InformationWhitespace" width="2024" height="1012" /></figure></p>
 <p>img: left- too much information and overcrowding. right- concise information with lots of white space create better readability.</p>
 <hr>
 <h1 id="use-scale-to-help-with-delivery">Use scale to help with delivery</h1>
 <p>Scale is one of the most effective tools you can use to create dramatic visual imageries. If you want to emphasize a statement, consider making the sentence bigger on a separate slide because this creates anticipation and grabs attention. It is like a punch line.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/8/blogPost5Presentation4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-xs.png 300w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-sm.png 480w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-md.png 768w ,https://staging.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-lg.png 1024w"  alt="typographyHierachy" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-lg.png 1024w"  alt="typographyHierachy" width="2024" height="1012" /></figure></p>
 <p>img: bigger text feels more impactful to audience.</p>
 <hr>
 <h1 id="create-lasting-impression-by-being-consistent-visually">Create lasting impression by being consistent visually</h1>
@@ -151,20 +151,20 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://staging.typogram.co/blog/small-business-marketing-ideas/"/>
-        <id>https://staging.typogram.co/blog/small-business-marketing-ideas/</id>
+        <link href="https://www.typogram.co/blog/small-business-marketing-ideas/"/>
+        <id>https://www.typogram.co/blog/small-business-marketing-ideas/</id>
             <category term="Branding"/>
 
         <updated>2022-03-18T17:50:31-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://staging.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
+                        <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
                     If you are looking for weekly dose of design tips and inspirations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://staging.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
+                    <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
                 <p><em>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>!</em></p>
 <hr>
 <blockquote>
@@ -208,52 +208,52 @@ How do I get started?  I don’t have any ideas.</p>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://staging.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/"/>
-        <id>https://staging.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
+        <link href="https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/"/>
+        <id>https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
             <category term="Branding"/>
 
         <updated>2022-03-18T17:50:38-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://staging.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
+                        <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
                     If you are looking for weekly dose of design tips and inspirations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://staging.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
+                    <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
                 <p><em>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>!</em></p>
 <hr>
 <p>When you design your brand, it may be helpful to know some key concepts. Here is a list of relevant terms and ideas for branding and design that could be helpful as you work through your design and marketing projects.</p>
 <h2 id="brand-identity">Brand Identity</h2>
 <p>Brand identity is the visual aspect of a brand. Brand identity includes your logo, imagery, typography, colors, and creative assets. Together, these elements make your brand recognizable to your customers. Your brand identity is one of the most important parts when it comes to creating your brand.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/brandIdentity.gif" alt="Brand Identity" width="1600" height="796" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/brandIdentity.gif" alt="Brand Identity" width="1600" height="796" /></figure></p>
 <h2 id="logo">Logo</h2>
 <p>The logo is the piece of artwork that represents your brand. While a logo is only a single piece of artwork, it is used everywhere on your brand, like landing pages, social media for marketing, and ads. That’s why when you create your logo, you should think about its usability in different environments. There are times when you may have to display your logo in a small size. There might be times when your logo will end up in a dark background. Keeping those restrictions in mind at the beginning will save you troubles later on.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/logo.gif" alt="Logo" width="1600" height="796" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/logo.gif" alt="Logo" width="1600" height="796" /></figure></p>
 <h2 id="brand-color">Brand Color</h2>
 <p>Brand color is the primary color associated with your brand. It can be on logos, business cards, decks, social media posts, websites, and other branding materials.</p>
 <p>It’s also the color your audience will associate your brand with. For example, Home Depot’s brand color is orange.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/brandColor.gif" alt="Brand Color" width="1600" height="796" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/brandColor.gif" alt="Brand Color" width="1600" height="796" /></figure></p>
 <h2 id="white-spacenegative-space">White Space/Negative Space</h2>
 <p>White space, also called negative space, is the area that is left empty in design. It could be around the content or artwork(like a photo),  inside the content, or in-between two pieces of content. White space is crucial because it gives the elements in your design breathing room and provides ease for the viewer when they look at the information. Good use of white space also guides the audience’s eyes from one piece of content to the next, creating a hierarchy of information.</p>
 <h2 id="positive-space">Positive Space</h2>
 <p>Positive space is the counterpart of negative space. The positive space is the space that the subject (this can be the content, or artwork) takes up.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/twitterNegativePositve.gif" alt="Positive Space" width="2222" height="1108" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/twitterNegativePositve.gif" alt="Positive Space" width="2222" height="1108" /></figure></p>
 <h2 id="design-composition">Design Composition</h2>
 <p>Design composition is how design elements are placed on a page. Since elements are positive space and the unused space is negative space, we can also say that composition is the overall distribution of positive and negative spaces in the design.</p>
 <p>A general rule for creating good composition is to find balance between negative and positive space. When there is a lack of balance between negative and positive, there is tension. However, tension can also be explored to create powerful compositions. </p>
 <h2 id="design-grid">Design Grid</h2>
 <p>Grids in design are systems for creating and organizing layouts. The layouts can be for print or screen. In design, “form follows function,” and layout is the perfect example of this. Different grids(layouts) suit different purposes.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/twitterDesignGrids.gif" alt="Design Grid" width="2222" height="1108" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/twitterDesignGrids.gif" alt="Design Grid" width="2222" height="1108" /></figure></p>
 <p>img: Different grids have different uses. </p>
 <h2 id="typography-system">Typography System</h2>
 <p>Typography System is the combination of fonts and font styles that create your visual branding system. For example, you typically have corresponding fonts and font styles for headers, subheads, and body copy on the landing page. For branding, we will normally use the same typography system across most of the branding assets to create a consistent message.</p>
 <h2 id="typographic-hierarchy">Typographic Hierarchy</h2>
 <p>Typographic hierarchy is the visual cue of scale and spatial relationship between the specific font styles. Typography hierarchy is crucial. It shows the audience which information is the most important and which is the least. For example, on your landing page, you probably want to capture the customers’ attention by first guiding them to the product’s unique value, then offer them a detailed description.</p>
 <p>To achieve this visually, you can make the header containing the copy for values of the product to be bigger and bolder in style than the detailed description of the product. That way, the eyes traveled to the header first, then to the description of the project.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/typographySystem.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/6/responsive/typographySystem-xs.png 300w ,https://staging.typogram.co/blog/media/posts/6/responsive/typographySystem-sm.png 480w ,https://staging.typogram.co/blog/media/posts/6/responsive/typographySystem-md.png 768w ,https://staging.typogram.co/blog/media/posts/6/responsive/typographySystem-lg.png 1024w"  alt="Typography System" width="2024" height="1012" /></figure></p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/6/typographyHierachy.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/6/responsive/typographyHierachy-xs.png 300w ,https://staging.typogram.co/blog/media/posts/6/responsive/typographyHierachy-sm.png 480w ,https://staging.typogram.co/blog/media/posts/6/responsive/typographyHierachy-md.png 768w ,https://staging.typogram.co/blog/media/posts/6/responsive/typographyHierachy-lg.png 1024w"  alt="Typography Hierachy" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/typographySystem.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-xs.png 300w ,https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-sm.png 480w ,https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-md.png 768w ,https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-lg.png 1024w"  alt="Typography System" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/typographyHierachy.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-xs.png 300w ,https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-sm.png 480w ,https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-md.png 768w ,https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-lg.png 1024w"  alt="Typography Hierachy" width="2024" height="1012" /></figure></p>
 <p>img: Information hierarchy is establish through scale relationship using fonts and font pairing.</p>
 <p><strong>Hopefully these can help you as you work on design projects for your startup!</strong> </p>
 <hr>
@@ -267,20 +267,20 @@ How do I get started?  I don’t have any ideas.</p>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://staging.typogram.co/blog/startup-branding/"/>
-        <id>https://staging.typogram.co/blog/startup-branding/</id>
+        <link href="https://www.typogram.co/blog/startup-branding/"/>
+        <id>https://www.typogram.co/blog/startup-branding/</id>
             <category term="Branding"/>
 
         <updated>2022-03-18T17:50:44-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://staging.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
+                        <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
                     If you are looking for weekly dose of design tips and inspirations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://staging.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
+                    <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
                 <p><em>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>!</em></p>
 <hr>
 <h1 id="why-branding">Why Branding?</h1>
@@ -294,7 +294,7 @@ How do I get started?  I don’t have any ideas.</p>
 <ol>
 <li><strong>Who are you trying to reach?</strong></li>
 <li><strong>How do you want to come across to your customers?</strong>
-<figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/5/whyBranding.gif" alt="Image description" width="1206" height="600" /></figure></li>
+<figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/5/whyBranding.gif" alt="Image description" width="1206" height="600" /></figure></li>
 </ol>
 <p>img: who are your customers? and how will your brand come across to them?</p>
 <p><strong>Both questions will require you to understand:</strong></p>
@@ -306,7 +306,7 @@ How do I get started?  I don’t have any ideas.</p>
 <p>Answers from these two questions can be the guiding light for you to visualize your brand. You can answer the first question by researching your customers. The second question you can answer by using what you know about your customers and communicating your product’s unique values.</p>
 <h1 id="brand-identity-system">Brand Identity System</h1>
 <p>Creative collaterals like logos, brand color, brand typeface are known as brand identity systems. The brand identity system is one of the essential parts of the branding process. It helps you think creatively and intentionally about communicating your brand visually to your customers while setting up a visual system for your brand message to stay consistent, trustworthy, and memorable.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://staging.typogram.co/blog/media/posts/5/uber-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://staging.typogram.co/blog/media/posts/5/responsive/uber-4-xs.png 300w ,https://staging.typogram.co/blog/media/posts/5/responsive/uber-4-sm.png 480w ,https://staging.typogram.co/blog/media/posts/5/responsive/uber-4-md.png 768w ,https://staging.typogram.co/blog/media/posts/5/responsive/uber-4-lg.png 1024w"  alt="Image description" width="2000" height="1125" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/5/uber-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/5/responsive/uber-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-md.png 768w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-lg.png 1024w"  alt="Image description" width="2000" height="1125" /></figure></p>
 <hr>
 <p>Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
 
@@ -318,20 +318,20 @@ How do I get started?  I don’t have any ideas.</p>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://staging.typogram.co/blog/how-to-choose-branding-color-palette/"/>
-        <id>https://staging.typogram.co/blog/how-to-choose-branding-color-palette/</id>
+        <link href="https://www.typogram.co/blog/how-to-choose-branding-color-palette/"/>
+        <id>https://www.typogram.co/blog/how-to-choose-branding-color-palette/</id>
             <category term="Branding"/>
 
         <updated>2022-03-18T17:50:51-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://staging.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
+                        <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
                     If you are looking for weekly dose of design tips and inspirations,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://staging.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
+                    <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
                 <p><em>If you are looking for weekly dose of design tips and inspirations, check out our <a href="https://fontdiscovery.typogram.co/">FontDiscovery newsletter</a>!</em></p>
 <hr>
 <h1 id="colors-in-art-history">Colors in Art History</h1>
