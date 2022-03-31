@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-03-31T02:07:02-04:00</updated>
+    <updated>2022-03-31T02:13:25-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Typography &amp; Fonts"/>
             <category term="Branding"/>
 
-        <updated>2022-03-31T02:07:02-04:00</updated>
+        <updated>2022-03-31T02:12:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
@@ -80,7 +80,7 @@
         <id>https://www.typogram.co/blog/business-pitch-presentation-design-tips/</id>
             <category term="Branding"/>
 
-        <updated>2022-03-31T02:06:41-04:00</updated>
+        <updated>2022-03-31T02:12:56-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
@@ -116,7 +116,7 @@
 <li>How can this specific slide help you in getting that message across?</li>
 <li>How can the image on that particular slide maximize this role?</li>
 </ul>
-<p>Once you figure out these questions, start searching for images. images that tell story about processes, illustrate pivotal moments, and associate with specific emotions are particularly helpful to presentations. If you want to learn more about how to visualize ideas, check out this <a href="https://www.notion.so/How-to-Visualize-Ideas-for-Your-Brand-5850c7cfc3184f98a240687505678594">post</a>.</p>
+<p>Once you figure out these questions, start searching for images. images that tell story about processes, illustrate pivotal moments, and associate with specific emotions are particularly helpful to presentations. If you want to learn more about how to visualize ideas, check out this <a href="https://www.typogram.co/blog/small-business-marketing-ideas/">post</a>.</p>
 <p>A good tactic is using full bleed (edge to edge) images to illustrating pivotal moments, visions, impressive examples. It is more effective if the images are in high resolution.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-lg.png 1024w"  alt="leftCentervsFullBleed" width="2024" height="1012" /></figure></p>
 <p>img: left- centered image on a slide; right- full bleed image. The full bleed image on the right will usually work better than on the left. It pulls in the audience a lot more since it is bigger in scale.</p>
@@ -172,7 +172,7 @@
         <id>https://www.typogram.co/blog/small-business-marketing-ideas/</id>
             <category term="Branding"/>
 
-        <updated>2022-03-31T01:54:15-04:00</updated>
+        <updated>2022-03-31T02:13:02-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
@@ -236,7 +236,7 @@ How do I get started?  I don’t have any ideas.</p>
         <id>https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
             <category term="Branding"/>
 
-        <updated>2022-03-31T01:54:31-04:00</updated>
+        <updated>2022-03-31T02:13:11-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
@@ -302,7 +302,7 @@ How do I get started?  I don’t have any ideas.</p>
         <id>https://www.typogram.co/blog/startup-branding/</id>
             <category term="Branding"/>
 
-        <updated>2022-03-31T01:54:38-04:00</updated>
+        <updated>2022-03-31T02:13:16-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
@@ -360,7 +360,7 @@ How do I get started?  I don’t have any ideas.</p>
         <id>https://www.typogram.co/blog/how-to-choose-branding-color-palette/</id>
             <category term="Branding"/>
 
-        <updated>2022-03-31T02:01:32-04:00</updated>
+        <updated>2022-03-31T02:13:25-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
@@ -447,7 +447,6 @@ How do I get started?  I don’t have any ideas.</p>
 <p>img: do and don’t for color usage</p>
 <hr>
 <p>And that’s it for our guide on choosing colors! Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
-<p><a href="https://fontdiscovery.typogram.co/">Subscribe Fontdiscovery</a> newsletter for weekly doses of design tips and inspiration!</p>
 <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow" align = "center">
 <p><em>Subscribe to get updates from our blog for doses of design tips and inspirations!</em></p>
 <p><input id="bd-email" name="email" type="email"> <input type="submit" value="Subscribe"></p>
