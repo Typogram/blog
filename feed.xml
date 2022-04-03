@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-04-03T01:25:22-04:00</updated>
+    <updated>2022-04-03T01:28:46-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/"/>
         <id>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
+            <category term="Startups"/>
 
-        <updated>2022-04-03T01:25:22-04:00</updated>
+        <updated>2022-04-03T01:28:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/11/ourJourney.png" alt="we launched typogram" />
