@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-04-03T19:19:49-04:00</updated>
+    <updated>2022-04-03T19:23:11-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
             <category term="Inside Typogram"/>
 
-        <updated>2022-04-03T19:19:49-04:00</updated>
+        <updated>2022-04-03T19:23:11-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/11/ourJourney-3.png" alt="we launched typogram" />
@@ -29,7 +29,7 @@
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/11/ourJourney-3.png" alt="we launched typogram" />
                 <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p><em>Subscribe to get updates from our blog for doses of design tips and inspirations</em></p>
+<p><em>Subscribe to get updates from our blog for doses of design tips and inspirations!</em></p>
 <p class="align-center"><label for="bd-email">Enter your email</label> <input id="bd-email" name="email" type="email"> <input type="submit" value="Subscribe"></p>
 </form><hr>
 <p>Hi There! You might be reading this because we just launched our preorder page for our app, <a href="https://www.typogram.co/">Typogram</a>. Typogram is a design tool that we have been working on. Specifically, it’s a beginner-friendly logo design and editing tool for non-designers. <strong><em>Today, we are launching our pre-order. We are offering one brand lifetime license for $49.99, at 60% discount. You can create your brand inside our app and update it forever.</em></strong></p>
