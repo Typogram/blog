@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-04-05T14:36:24-04:00</updated>
+    <updated>2022-04-05T14:38:53-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -135,7 +135,7 @@
         <id>https://www.typogram.co/blog/business-pitch-presentation-design-tips/</id>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:36:12-04:00</updated>
+        <updated>2022-04-05T14:38:53-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
@@ -213,7 +213,7 @@
 <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
-</form><hr>
+</form>
             ]]>
         </content>
     </entry>
