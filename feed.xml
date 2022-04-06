@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-04-05T14:38:53-04:00</updated>
+    <updated>2022-04-06T13:36:17-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
             <category term="Inside Typogram"/>
 
-        <updated>2022-04-05T14:36:24-04:00</updated>
+        <updated>2022-04-06T13:21:43-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/11/ourJourney-3.png" alt="we launched typogram" />
@@ -28,9 +28,9 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/11/ourJourney-3.png" alt="we launched typogram" />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 <p>Hi There! You might be reading this because we just launched our preorder page for our app, <a href="https://www.typogram.co/">Typogram</a>. Typogram is a design tool that we have been working on. Specifically, it’s a beginner-friendly logo design and editing tool for non-designers. <strong><em>Today, we are launching our pre-order. We are offering one brand lifetime license for $49.99, at 60% discount. You can create your brand inside our app and update it forever.</em></strong></p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7PHHaLh1zNU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
@@ -59,9 +59,9 @@
 <li>Are you a Blogger? Maybe we can do a guest blog? </li>
 <li>Thank you so much! It means a lot to small indie business owners like us!</li>
 </ul>
-<hr><form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
             ]]>
         </content>
@@ -76,7 +76,7 @@
             <category term="Typography &amp; Fonts"/>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:36:16-04:00</updated>
+        <updated>2022-04-06T13:22:11-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
@@ -86,9 +86,9 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 
 <h3 id="typography">Typography</h3>
@@ -119,9 +119,9 @@
 <li>Another way to create a slant typeface. An italic font slants slightly to the right.
 <figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/9/oblique.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/9/responsive/oblique-xs.png 300w ,https://www.typogram.co/blog/media/posts/9/responsive/oblique-sm.png 480w ,https://www.typogram.co/blog/media/posts/9/responsive/oblique-md.png 768w ,https://www.typogram.co/blog/media/posts/9/responsive/oblique-lg.png 1024w"  alt="oblicqueItalic" width="1848" height="924" /></figure></li>
 </ul>
-<hr><form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
             ]]>
         </content>
@@ -135,7 +135,7 @@
         <id>https://www.typogram.co/blog/business-pitch-presentation-design-tips/</id>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:38:53-04:00</updated>
+        <updated>2022-04-06T13:26:23-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
@@ -145,9 +145,9 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 
 <h1 id="presentation-counts">Presentation Counts</h1>
@@ -210,9 +210,9 @@
 <hr>
 <h1 id="phew-that-was-it">Phew. That was it.</h1>
 <p>I hope this is helpful if you need to fundraise, or create presentations for work. Presentation is storytelling. If you master this well, it is a powerful skill that translates into many other areas.</p>
-<form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
             ]]>
         </content>
@@ -226,7 +226,7 @@
         <id>https://www.typogram.co/blog/small-business-marketing-ideas/</id>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:36:10-04:00</updated>
+        <updated>2022-04-06T13:36:17-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
@@ -236,9 +236,9 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 
 <blockquote>
@@ -263,20 +263,21 @@ How do I get started?  I don’t have any ideas.</p>
 </ul>
 <p>Search on these terms on Pinterest and see what kind of images will come up.</p>
 <p><strong>You might see:</strong></p>
-<p><em>Serious</em> → dark colors?</p>
-<p><em>Happiness</em> → pictures of smiling people,</p>
-<p><em>Warmth</em> → sunshine? Yellow, orange, warm colors?</p>
-<p><em>Protest</em> → protest poster art, bold fonts</p>
+<ul>
+<li><em>Serious</em> → dark colors?</li>
+<li><em>Happiness</em> → pictures of smiling people,</li>
+<li><em>Warmth</em> → sunshine? Yellow, orange, warm colors?</li>
+<li><em>Protest</em> → protest poster art, bold fonts</li>
+</ul>
 <p>It could be images of people displaying emotions, landscapes, a specific texture, a particular color, a particular event that resonates with you. Choose the images you like and try to pin down the reason you choose a specific image.</p>
 <p>You can do this for a few terms. It’s good to have a collection of images (more than 20) for each board. That way, you can identify a running theme among images of within a board, like colors, styles, or aesthetics. This will give you some directions on color palettes, or look and feel of your brand.</p>
 <hr>
 <h2 id="collect-inspirations-and-turn-them-into-value">Collect inspirations and turn them into value</h2>
 <p>Mood boards are an excellent resource for inspiration. In addition, it can serve as a collection of resources for your other visual content, such as blog posts, newsletter graphics, or social media posts. It is also a great reference document to hand off to a freelancer or an agency if you are working with one. When I worked at an agency, we feel relieved when clients give us mood boards because it shows us what they are thinking.</p>
 <p>Of course, this is my process. You can always do something different that works for you!</p>
-<hr>
-<form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
             ]]>
         </content>
@@ -290,22 +291,21 @@ How do I get started?  I don’t have any ideas.</p>
         <id>https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:36:03-04:00</updated>
+        <updated>2022-04-06T13:31:00-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
-                     Subscribe to get updates from our blog for doses of design&hellip;
+                     If you enjoyed this post, subscribe to get updates from our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow" align = "center">
-<p><em>Subscribe to get updates from our blog for doses of design tips and inspirations!</em></p>
-<p><label for="bd-email">Enter your email</label> <input id="bd-email" name="email" type="email"> <input type="submit" value="Subscribe"></p>
-</form>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
 
-<hr>
 <p>When you design your brand, it may be helpful to know some key concepts. Here is a list of relevant terms and ideas for branding and design that could be helpful as you work through your design and marketing projects.</p>
 <h2 id="brand-identity">Brand Identity</h2>
 <p>Brand identity is the visual aspect of a brand. Brand identity includes your logo, imagery, typography, colors, and creative assets. Together, these elements make your brand recognizable to your customers. Your brand identity is one of the most important parts when it comes to creating your brand.</p>
@@ -340,9 +340,9 @@ How do I get started?  I don’t have any ideas.</p>
 <p><strong>Hopefully these can help you as you work on design projects for your startup!</strong> </p>
 <hr>
 <p>Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
-<form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow" align = "center">
-<p><em>Subscribe to get updates from our blog for doses of design tips and inspirations!</em></p>
-<p><input id="bd-email" name="email" type="email"> <input type="submit" value="Subscribe"></p>
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
             ]]>
         </content>
@@ -356,7 +356,7 @@ How do I get started?  I don’t have any ideas.</p>
         <id>https://www.typogram.co/blog/startup-branding/</id>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:36:01-04:00</updated>
+        <updated>2022-04-06T13:31:56-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
@@ -366,9 +366,9 @@ How do I get started?  I don’t have any ideas.</p>
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 
 <h1 id="why-branding">Why Branding?</h1>
@@ -396,9 +396,9 @@ How do I get started?  I don’t have any ideas.</p>
 <p>Creative collaterals like logos, brand color, brand typeface are known as brand identity systems. The brand identity system is one of the essential parts of the branding process. It helps you think creatively and intentionally about communicating your brand visually to your customers while setting up a visual system for your brand message to stay consistent, trustworthy, and memorable.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/5/uber-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/5/responsive/uber-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-md.png 768w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-lg.png 1024w"  alt="Image description" width="2000" height="1125" /></figure></p>
 <p>Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
-<hr><form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
             ]]>
         </content>
@@ -412,7 +412,7 @@ How do I get started?  I don’t have any ideas.</p>
         <id>https://www.typogram.co/blog/how-to-choose-branding-color-palette/</id>
             <category term="Branding"/>
 
-        <updated>2022-04-05T14:35:58-04:00</updated>
+        <updated>2022-04-06T13:35:19-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
@@ -422,9 +422,9 @@ How do I get started?  I don’t have any ideas.</p>
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
-                <form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 
 <h1 id="colors-in-art-history">Colors in Art History</h1>
@@ -497,9 +497,9 @@ How do I get started?  I don’t have any ideas.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/jXVESRUyXaymh4vL8a8T__o7dZ9x-P_gYsLvgc5EfBmylngveXalFUOIIb8koNH687MMHNn6f5XybCD1Qzxl0-DHO68HFsG_OYH4YrIGweCLH_ckO3fTqL9jQFpSuYy97fhWIBx4=s0" data-is-external-image="true"  alt="doanddontofBrandColors2" /></figure></p>
 <p>img: do and don’t for color usage</p>
 <p>And that’s it for our guide on choosing colors! Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
-<hr><form class="embeddable-buttondown-form" action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<hr><form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p class="align-center"><input id="bd-email" name="email" type="email" placeholder="Enter your email"> <input type="submit" value="Subscribe"></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form>
 
             ]]>
