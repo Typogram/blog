@@ -8,7 +8,7 @@
 <loc>https://www.typogram.co/blog/about-us/</loc>
 <lastmod>2022-03-31T02:09:45-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\10/AboutUs.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/10/AboutUs.png</image:loc>
 <image:title><![CDATA[wenting and hua ]]></image:title>
 </image:image>
 </url>
@@ -16,7 +16,7 @@
 <loc>https://www.typogram.co/blog/business-pitch-presentation-design-tips/</loc>
 <lastmod>2022-04-07T22:04:50-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\8/new_blogPost5PresentationCover.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -24,7 +24,7 @@
 <loc>https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</loc>
 <lastmod>2022-04-07T22:05:23-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\6/BrandingTermsCover.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -32,7 +32,7 @@
 <loc>https://www.typogram.co/blog/essential-typography-terms-you-must-know-to-boost-your-design-skills-part-1/</loc>
 <lastmod>2022-04-07T22:04:34-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\9/new_blogPost5PresentationCover_2.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -40,19 +40,19 @@
 <loc>https://www.typogram.co/blog/how-to-choose-branding-color-palette/</loc>
 <lastmod>2022-04-07T22:06:02-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\4/colorGuideCover.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/4/colorGuideCover.png</image:loc>
 <image:title><![CDATA[How to Choose Branding Color Palettes for Your Business]]></image:title>
 </image:image>
 </url>
 <url>
 <loc>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</loc>
-<lastmod>2022-04-07T22:02:20-04:00</lastmod>
+<lastmod>2022-04-17T23:41:05-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\11/ourJourney-3.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/11/ourPreorderCover.png</image:loc>
 <image:title><![CDATA[we launched typogram]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\11/emotionalJourney.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/11/emotionalJourney.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -60,7 +60,7 @@
 <loc>https://www.typogram.co/blog/small-business-marketing-ideas/</loc>
 <lastmod>2022-04-07T22:05:11-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\7/brandingCover-2.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/7/brandingCover-2.png</image:loc>
 <image:title><![CDATA[visualize branding ideas ]]></image:title>
 </image:image>
 </url>
@@ -68,7 +68,7 @@
 <loc>https://www.typogram.co/blog/startup-branding/</loc>
 <lastmod>2022-04-07T22:05:45-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\5/whyBrandingCover.png</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
@@ -76,7 +76,15 @@
 <loc>https://www.typogram.co/blog/subscription-success/</loc>
 <lastmod>2022-03-31T02:10:10-04:00</lastmod>
 <image:image>
-<image:loc>https://www.typogram.co/blog/media\posts\12/thanksforsubscring.gif</image:loc>
+<image:loc>https://www.typogram.co/blog/media/posts/12/thanksforsubscring.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.typogram.co/blog/what-we-learned-from-launching-typograms-pre-order-on-product-hunt/</loc>
+<lastmod>2022-04-17T23:53:04-04:00</lastmod>
+<image:image>
+<image:loc>https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
