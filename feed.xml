@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-04-17T23:53:04-04:00</updated>
+    <updated>2022-04-18T00:01:07-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,17 +18,21 @@
         <id>https://www.typogram.co/blog/what-we-learned-from-launching-typograms-pre-order-on-product-hunt/</id>
             <category term="Startups"/>
 
-        <updated>2022-04-17T23:53:04-04:00</updated>
+        <updated>2022-04-18T00:01:07-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder.png" alt="" />
-                    Two weeks ago we launched Typogram Pre-Order. Today we want to share&hellip;
+                     If you enjoyed this post, subscribe to get updates from our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder.png" alt="" />
-                <p><span style="font-weight: 400;">Two weeks ago we launched <a href="https://www.typogram.co/" title="typogramco preorder" target="_blank" rel="noopener noreferrer">Typogram Pre-Order</a>. Today we want to share our stats on the launch and reflect on how it went.</span></p>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<p><span style="font-weight: 400;">Two weeks ago we launched <a href="https://www.typogram.co/" title="typogramco preorder" target="_blank" rel="noopener noreferrer">Typogram Pre-Order</a>. Today we want to share our stats on the launch and reflect on how it went.</span></p>
 <h4><strong>Stats for Two Weeks Since Launch:</strong></h4>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">16 pre-orders, and a potential “bulk order” in-coming</span></li>
@@ -40,7 +44,8 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">243 upvotes on </span><a href="https://www.producthunt.com/posts/typogram"><span style="font-weight: 400;">Product Hunt</span></a><span style="font-weight: 400;">, ranking at the 10th spot</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">15 upvotes on </span><a href="https://news.ycombinator.com/item?id=30847121"><span style="font-weight: 400;">Hacker News</span></a><span style="font-weight: 400;">, get on the front page of </span><a href="https://news.ycombinator.com/show"><span style="font-weight: 400;">Show HN</span></a><span style="font-weight: 400;">, on page 5 or 6 on the regular Hacker News.</span></li>
 </ul>
-<h4><strong>What We Did to Prepare for Our Launch:</strong></h4>
+<h4><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://www.typogram.co/blog/media/posts/13/stat.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/13/responsive/stat-xs.png 300w ,https://www.typogram.co/blog/media/posts/13/responsive/stat-sm.png 480w ,https://www.typogram.co/blog/media/posts/13/responsive/stat-md.png 768w ,https://www.typogram.co/blog/media/posts/13/responsive/stat-lg.png 1024w"  alt="" width="843" height="431"></figure></h4>
+<h4><strong>What We Did to Prepare for Our Launch</strong></h4>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A few days before the launch, we started sharing snippets of Typogram on Twitter </span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">We shared a teaser in our newsletter, Twitter and Reddit.</span></li>
@@ -86,7 +91,7 @@
         <id>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
             <category term="Inside Typogram"/>
 
-        <updated>2022-04-17T23:41:05-04:00</updated>
+        <updated>2022-04-17T23:54:45-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
