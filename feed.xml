@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-04-18T00:16:50-04:00</updated>
+    <updated>2022-04-21T14:32:42-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.typogram.co/blog/what-we-learned-from-launching-our-startup-on-product-hunt/</id>
             <category term="Startups"/>
 
-        <updated>2022-04-18T00:16:50-04:00</updated>
+        <updated>2022-04-18T00:19:51-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder-2.png" alt="" />
@@ -91,7 +91,7 @@
         <id>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
             <category term="Inside Typogram"/>
 
-        <updated>2022-04-17T23:54:45-04:00</updated>
+        <updated>2022-04-21T14:32:42-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
@@ -105,7 +105,7 @@
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
-<p>Hi There! You might be reading this because we just launched our preorder page for our app, <a href="https://www.typogram.co/">Typogram</a>. Typogram is a design tool that we have been working on. Specifically, it’s a beginner-friendly logo design and editing tool for non-designers. <strong><em>Today, we are launching our pre-order. We are offering one brand lifetime license for $49.99, at 60% discount. You can create your brand inside our app and update it forever.</em></strong></p>
+<p>Hi There! You might be reading this because we just launched our preorder page for our app, <a href="https://www.typogram.co/">Typogram</a>. Typogram is a design tool that we have been working on. Specifically, it’s a beginner-friendly logo design and editing tool for non-designers. <strong><em>Today, we are launching our pre-order. We are offering one brand lifetime license for $49.99, at 60% discount. You can create your brand inside our app and update it forever. </em></strong>👉  <strong><a href="https://checkout.stripe.com/pay/cs_live_a1mf71IX9SIQ44cVZMTgrX1lFXbnUNqTCYtKn8hqNxOyvjuaeDgl36Nxtm#fidkdWxOYHwnPyd1blppbHNgWkJxbVxKUUJpcmpOMlJCU2lCMD1jZ2x1fTU1T052ampSRm4nKSd1aWxrbkB9dWp2YGFMYSc%2FJ2FXM2NfZjNgV2M2STZwNTU1NCcpJ3dgY2B3d2B3Jz8nbXFxdXY%2FKipxfHVqYndkaCtmaioneCUl" title="stripe pre-order">Pre-order Now</a></strong></p>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/7PHHaLh1zNU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h2>Why did we launch this? </h2>
 <p>First of all, a brief introduction: We are Hua and Wenting, and we are the makers behind this app. Before Typogram, we have collaborated on several other projects, like<a href="https://typogram.github.io/Anicons/"> Anicons.</a></p>
