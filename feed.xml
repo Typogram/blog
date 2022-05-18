@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-05-18T17:49:09-04:00</updated>
+    <updated>2022-05-18T17:58:36-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/"/>
         <id>https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/</id>
 
-        <updated>2022-05-18T17:49:09-04:00</updated>
+        <updated>2022-05-18T17:58:36-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
@@ -143,7 +143,7 @@
 			link.id = cssId;
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1652910513/typogram-blog/TypographyGlossary/jargon-buster-part1-essential-terms_1_o72bdu.css';
+			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1652911094/typogram-blog/TypographyGlossary/jargon-buster-part1-essential-terms_1_vc34je.css';
 			link.media = 'all';
 			head.appendChild(link);
 		}
