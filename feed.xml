@@ -3,12 +3,283 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-05-10T01:56:58-04:00</updated>
+    <updated>2022-05-18T17:33:41-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://www.typogram.co/blog</id>
 
+    <entry>
+        <title>Essential Terms You Must Know About Typography</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/"/>
+        <id>https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/</id>
+
+        <updated>2022-05-18T17:33:41-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<h2><span style="font-weight: 400;">Typography</span></h2>
+<p>Typography is the art of arranging pieces of text via typefaces to make information legible, readable, and pleasing to the eye. Typography is important more than ever because information today is more readily available than ever. Typography shapes language and helps us communicate a clear message. </p>
+<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/typography-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/typography-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-lg.png 1024w"  alt="Typography helps information become clear and readable " width="2912" height="1522">
+<figcaption >Typography helps information become clear and readable </figcaption>
+</figure>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Typeface</span></h2>
+<p>A typeface is a set of glyphs or characters sharing a common and cohesive design. For example, the Helvetica typeface shares the visual commonalities of lacking a serif, a stroke attached at the end of a larger stroke in a letter, and having little to no variation between stroke width. </p>
+<h2><span style="font-weight: 400;">Font</span></h2>
+<p>A font is the digital, graphic representation of a typeface. It includes the particular size, weight, and style of a typeface that makes up the displayable set of characters. Nowadays, Fonts and typefaces are often used interchangeably. </p>
+<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/typefacevsfont-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-lg.png 1024w"  alt="Typeface describes style, while font describes digital, graphic representation of a typeface. " width="2184" height="1142">
+<figcaption >Typeface describes style, while font describes digital, graphic representation of a typeface</figcaption>
+</figure>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Font Family</span></h2>
+<p><span style="font-weight: 400;">Font Family is several fonts sharing a broader design characteristic. Each font within the same family can differ in font weight, the thickness of the characters, font style, such as being normal or slanted, font width, the width of letterforms being condensed or extended, and more. </span><span style="font-weight: 400;">In CSS (code provides visual styles to web pages), font-family defines the font applied to a selected HTML (code giving structure and content to web pages)element for the web page. </span></p>
+<div class="font-family-preview" data-value="idle_sticker_2">
+<div class="font-family-flex-container">
+<div id="idle_sticker_2" class="sticker">
+<div>interact with me!</div>
+</div>
+<div class="font-family-flex-items letter-box ff-lb"><span id="previewFontFamily" class="letter">A</span></div>
+<div class="font-family-flex-items control-panel ff-cp"><label class="ui-label">Font Family</label>
+<div class="select font-family-select"><select id="fontFamilySelect">
+<option selected="selected" value="Recursive">Recursive</option>
+<option value="Monoton">Monoton</option>
+<option value="Cinzel">Cinzel</option>
+<option value="Courgette">Courgette</option>
+</select></div>
+</div>
+</div>
+</div>
+<div class="figcaption">Select a font to explore different font families</div>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Font Weight</span></h2>
+<p><span style="font-weight: 400;">Font weight is the overall thickness of the character relative to their height. Font weight can come in Thin, Light, Regular, Roman, Medium, Semi-Bold, Bold, Black, and Ultra Black. Thin is usually the lightest weight, while Ultra Black is the heaviest. </span></p>
+<div class="font-family-preview" data-value="idle_sticker_3">
+<div class="font-family-flex-container">
+<div id="idle_sticker_3" class="sticker">
+<div>interact with me!</div>
+</div>
+<div class="font-family-flex-items letter-box fw-lb"><span id="fontWeightPreview" class="font-weight-preview">Hello</span></div>
+<div class="font-family-flex-items control-panel fw-cp"><label class="ui-label">Font Weight</label>
+<div id="fontWeightSelect" class="select input font-weight-select"><span class="font-weight-option"> <label> <input class="font-weight-radio" checked="checked" name="font_weight" type="radio" value="300"> <span class="fontweight">Light </span></label> </span> <span class="font-weight-option"> <label> <input class="font-weight-radio" name="font_weight" type="radio" value="400"> <span class="fontweight">Regular</span> </label> </span> <span class="font-weight-option"> <label> <input class="font-weight-radio" name="font_weight" type="radio" value="600"> <span class="fontweight">SemiBold</span> </label> </span> <span class="font-weight-option"> <label> <input class="font-weight-radio" name="font_weight" type="radio" value="700"> <span class="fontweight">Bold</span> </label> </span></div>
+</div>
+</div>
+</div>
+<div class="figcaption">Select a weight option to explore font weights</div>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Font Style</span></h2>
+<p>Font style is a particular style of font within a font family. For example, usually, there is the italic style within a font family - a group of letters with a degree of slant. Font style can come in normal, italic, and oblique. The Normal style is when the text is upright. The italic style is usually calligraphic, cursive-influenced, and slanted. The Oblique style is slanted version of the Normal style. </p>
+<h2><span style="font-weight: 400;">Faux Font Style</span></h2>
+<p><span style="font-weight: 400;">Faux Styles happen when text editors or web browsers fake a font style because the original font does not have one. For example, a faux italic, or a “fake” italic, is created by browsers when the web fonts used lack italic styles. Avoid Faux versions if the appropriate styles are available. </span></p>
+<div class="font-family-preview" data-value="idle_sticker_1">
+<div class="font-family-flex-container">
+<div id="idle_sticker_1" class="sticker">
+<div>interact with me!</div>
+</div>
+<div class="font-family-flex-items letter-box fs-lb"><span id="previewFontStyle" class="letter-preview">a</span></div>
+<div class="font-family-flex-items control-panel fs-cp"><label class="ui-label">Font Style</label>
+<div class="select font-style-select">
+<div id="normal" class="font-style-option font-style-active" data-value="normal">normal</div>
+<div id="faux italic" class="font-style-option" data-value="normal">Faux Italic</div>
+<div id="true italic" class="font-style-option" data-value="italic">True Italic</div>
+</div>
+</div>
+</div>
+</div>
+<div class="figcaption">Hover on the dropdown to explore font styles</div>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Ligature </span></h2>
+<p><span style="font-weight: 400;">Ligatures are unique characters created from multiple letters of common letter combinations to improve readability in a font.  For example, the letter "f" has a high frequency of occurring with "i" and "l", as in words like “figure” and “flower.” To improve the readability in these specific cases,  "fi" and "fl", would be combined to create a unique character that would replace the two letters when typed together.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/ligature-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-lg.png 1024w"  alt="ligature" width="2184" height="1142">
+<figcaption >Words with and without ligature</figcaption>
+</figure>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Font Classification </span></h2>
+<p><span style="font-weight: 400;">Fonts are commonly classified into four main categories based on their appearances. These categories are –– fonts with serifs (Serif), fonts without serifs (Sans Serif), fonts with highly decorative characteristics (Display), and font that looks like handwriting (Script).</span></p>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/16/classifications-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-lg.png 1024w"  alt="Four general font classification categories: serif, sans serif, display, script" width="2184" height="1142"></figure>
+<figcaption >Four general font classification categories: serif, sans serif, display, script</figcaption>
+</figure>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Serif </span></h2>
+<p><span style="font-weight: 400;">Serifs are letterforms with small lines or strokes, or “serifs,” attached at the end of larger strokes. Serifs originated from inscriptional lettering: Words were first painted with a brush, then carved into stones in Roman antiquity. Serifs are classified into several smaller categories: Old Style, Transitional, Modern, and Slab Serif.</span></p>
+<h2><span style="font-weight: 400;">Sans Serif </span></h2>
+<p><span style="font-weight: 400;">Sans means “without.” Sans Serifs do not have serifs extending at the end of strokes. Sans Serifs were invented long after Serif. In 1816, William Caslon IV created the first official sans serif typeface, Caslon, for commercial use. Though Caslon didn’t become popular right away, Sans Serif boomed in popularity decades later. Sans Serifs are also further broken down into smaller style categories: Grotesque, Neo Grotesque, Humanist, and Geometric.</span></p>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/16/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-lg.png 1024w"  alt="Serif and Sans Serif" width="1456" height="761"></figure>
+<figcaption >Serif and Sans Serif</figcaption>
+</figure>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Display </span></h2>
+<p><span style="font-weight: 400;">Display fonts are often fonts with unrestrained, decorative details. They look more visually stimulating than restrained, simple fonts used for paragraph text. Display fonts are used at header sizes, grabbing people’s attention right away. Many display fonts do not have good readability in small sizes because of their more ornate shapes. Their font details get lost in small sizes, thus decreasing their legibility. </span></p>
+<h2><span style="font-weight: 400;">Script</span></h2>
+<p><span style="font-weight: 400;">Scripts are fonts mimicking handwriting. Influenced by cursives and calligraphy, scripts can be considered formal or casual. Formal scripts tend to be highly decorative, with swashes and exaggerated curls. Casual scripts are more subdued with less exuberant details.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/scriptDisplay.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-lg.png 1024w"  alt="Display and Script" width="2184" height="1142">
+<figcaption >Display and Script</figcaption>
+</figure>
+<hr class="section-break">
+<h2><span style="font-weight: 400;">Monospace Fonts</span></h2>
+<p><span style="font-weight: 400;">Most fonts are proportional, where each character takes as much width as it needs. Monospaced fonts are fixed width: all characters have the same letter width and occupy the same horizontal space. They were customary on typewriters and computer terminals. Nowadays, they live in code editors and science periodicals. They are perfect for displaying code and data.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/normalMonospaced-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-lg.png 1024w"  alt="Proportional and Monospaced fonts" width="2184" height="1142">
+<figcaption >Proportional and Monospaced fonts</figcaption>
+</figure>
+<p>
+<script>
+		var cssId = 'myCss'; // you could encode the css path itself to generate id..
+		if (!document.getElementById(cssId)) {
+			var head = document.getElementsByTagName('head')[0];
+			var link = document.createElement('link');
+			link.id = cssId;
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1652905557/typogram-blog/TypographyGlossary/jargon-buster-part1-essential-terms_1_qgwhqx.css';
+			link.media = 'all';
+			head.appendChild(link);
+		}
+		var fontStyleOptions = document.getElementsByClassName("font-style-option");
+		for (
+			let fontStyleOption = 0; fontStyleOption < fontStyleOptions.length; fontStyleOption++
+		) {
+			fontStyleOptions[fontStyleOption].addEventListener("mouseover", function(e) {
+				var fontStylePreview = document.getElementById("previewFontStyle");
+				let chosenFontStyle = document
+					.getElementById(e.target.id)
+					.getAttribute("data-value");
+				fontStyleOptions[0].classList.remove("font-style-active");
+				fontStylePreview.style.transform = "skew(0deg)";
+				if (e.target.id == "faux italic") {
+					fontStylePreview.style.transform = "skew(-11deg)";
+				}
+				fontStylePreview.style.fontStyle = chosenFontStyle;
+			});
+		}
+
+		document
+			.getElementById("fontFamilySelect")
+			.addEventListener("change", function() {
+				console.log(this.value);
+				document.getElementById("previewFontFamily").style.fontFamily = this.value;
+			});
+
+		var fontWeightPreview = document.getElementById("fontWeightPreview");
+
+		document
+			.getElementById("fontWeightSelect")
+			.addEventListener("change", function(font_weight) {
+				let fontWeightSelection = document.getElementById("fontWeightPreview");
+				fontWeightSelection.style.fontWeight = font_weight.target.value;
+			});
+
+
+		let previewWindows = document.getElementsByClassName("font-family-preview");
+
+		for (w = 0; w < previewWindows.length; w++) {
+			previewWindows[w].addEventListener("mouseenter", function(event) {
+				event.target.style.backgroundColor = "#013662";
+				var stickerID = event.target.getAttribute('data-value');
+				var sticker = document.getElementById(stickerID);
+				sticker.style.display = "none";
+			}, false);
+		}
+	</script>
+</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Why Do All Tech Logos Look the Same?</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://www.typogram.co/blog/tech-startup-logos/"/>
+        <id>https://www.typogram.co/blog/tech-startup-logos/</id>
+
+        <updated>2022-05-11T12:04:09-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.typogram.co/blog/media/posts/15/whydoalltechlogoslookthesame.png" alt="" />
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.typogram.co/blog/media/posts/15/whydoalltechlogoslookthesame.png" alt="" />
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<p data-pm-slice="1 1 []">In the last post, we talked about commonalities found in <a href="https://www.typogram.co/blog/luxury-brand-logos/" target="_blank" rel="nofollow noopener noreferrer">luxury fashion brands.</a> This time, we’ll turn our attention to brandings of startups and tech companies. Find a couple of tech companies or start logos and branding around you, you’ll notice that they are sporting similar looks. Oftentimes, it is a friendly sans serif with brightly colored illustrations. Sounds familiar? </p>
+<p>In this post, we’ll attempt to find some reasons that explain this trend. </p>
+<h1> </h1>
+<h1>Trust at First Sight</h1>
+<div class="captioned-image-container">
+<figure><a class="image-link image2" target="_blank" rel="nofollow noopener" href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png"><figure class="sizing-normal"><img loading="lazy"  title="tech logo examples" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png 1456w" alt="tech logo examples" width="1012" height="506" data-attrs="{&quot;src&quot;:&quot;https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/4cc8311e-732f-4392-899e-6921e3e61003_1012x506.png&quot;,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:506,&quot;width&quot;:1012,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;tech logo examples&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null}"></figure></a></figure>
+</div>
+<p>Since the 2010s, consumers are becoming increasingly more educated about issues like data security and user privacy. Over time, they feel more and more uneasy and distrustful regarding tech companies. According to <a href="https://www.techrepublic.com/article/data-privacy-is-a-growing-concern-for-more-consumers/#:~:text=A%20full%2086%25%20of%20the,even%20trust%20their%20own%20employers." target="_blank" rel="noopener noreferrer">KPMG</a>, </p>
+<blockquote>
+<p>A full 86% of the respondents said they feel a growing concern about data privacy, while 78% expressed fears about the amount of data being collected. Some 40% of the consumers surveyed don't trust companies to use their data ethically, and 13% don't even trust their own employers.</p>
+</blockquote>
+<p>This uneasiness didn't occur overnight. It was a chronic issue that became more painful as more scandals about data abuse and privacy infringement broke out in the last decade. Many consumers are more reluctant to try new products and tech. I know I am, and I'm not alone. </p>
+<p>Therefore, it became essential for tech companies to show they are friendly and cheerful — an important way to make a good impression and gain users' trust. Many tech companies choose humanist or geometric sans serifs to communicate these tones, a bright color palette, cheerful illustrations, and quirky animations. Since there is already mistrust, it is more important than ever to have trust at first sight. </p>
+<p>Here are a few quotes from startups and tech companies themselves to illustrate the importance of being friendly and delightful.</p>
+<div class="captioned-image-container">
+<figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/15//google_before_after.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-xs.png 300w ,https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-sm.png 480w ,https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-md.png 768w ,https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-lg.png 1024w"  alt="" width="1012" height="506"></figure>
+<a class="image-link image2" target="_blank" rel="nofollow noopener" href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c2160c-d40e-4522-9238-44c75c15df90_1012x506.png"><picture></picture></a></figure>
+</div>
+<p>Google on their rebranding logo, 2015</p>
+<blockquote>
+<p><em>We think we’ve taken the best of Google (simple, uncluttered, colorful, friendly), and recast it not just for the Google of today, but for the Google of the future. –<a href="https://www.wired.co.uk/article/google-new-logo" target="null" rel="nofollow">Wired</a></em></p>
+</blockquote>
+<div class="captioned-image-container">
+<figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/15//robinhood.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/15//responsive/robinhood-xs.png 300w ,https://www.typogram.co/blog/media/posts/15//responsive/robinhood-sm.png 480w ,https://www.typogram.co/blog/media/posts/15//responsive/robinhood-md.png 768w ,https://www.typogram.co/blog/media/posts/15//responsive/robinhood-lg.png 1024w"  alt="" width="697" height="453"></figure>
+</figure>
+</div>
+<p>Robinhood on introducing new illustration styles and typefaces as part of their rebrand, 2020</p>
+<blockquote>
+<p>A new illustration style: delightful and future-focused. Two new typefaces: Capsule Sans, a warm, highly legible sans serif embodying simplicity and precision; and Nib, a unique, welcoming, and whimsical serif full of personality. –<em><a href="https://blog.robinhood.com/news/2020/8/5/a-visual-identity-that-better-reflects-our-vision" target="_blank" rel="nofollow noopener noreferrer">Robinhood Blog)</a></em></p>
+</blockquote>
+<p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;%%share_url%%&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}"> </p>
+<h1>Branding Defined by User Experience </h1>
+<p>Since the 2010s, branding is increasingly designed around user experience. The arrival of smartphones introduced a groundbreaking idea: a product can exist in multiple workspaces, most conveniently, on our phones.  Startup branding and user experience had now been tied more than ever.</p>
+<p>By being a completely different device with a new interaction model, the mobile platform made designing a product more complex. People use the product and interact with the brand at screens much smaller than desktops. Companies must think about user experience across different devices when it comes to how consumers experience their brands.</p>
+<p>Google on their rebranding, 2015</p>
+<blockquote>
+<p>...You expect Google to help you whenever and wherever you need it, whether it’s on your mobile phone, TV, watch, the dashboard in your car, and yes, even a desktop! –<em><a href="https://www.wired.co.uk/article/google-new-logo" target="_blank" rel="nofollow noopener noreferrer">Wired</a></em></p>
+</blockquote>
+<p>Robinhood on their rebranding, 2020</p>
+<blockquote>
+<p>A bold evolution of our brand — an inspiring and imaginative new visual identity — to complement the interface you love from your Robinhood account. –<em><a href="https://blog.robinhood.com/news/2020/8/5/a-visual-identity-that-better-reflects-our-vision" target="_blank" rel="nofollow noopener noreferrer">Robinhood Blog</a></em></p>
+</blockquote>
+<p>Mobile awareness made startups and tech companies favor simple sans serif wordmark logos, which is way more screen-friendly due to better readability. Sans serif has simpler letter shapes from lack of serifs and stroke contrasts than its serif counterpart or a logo with ornate iconography.</p>
+<h1> </h1>
+<h1>Parallel Between History of Sans Serif &amp; Brand Visions </h1>
+<p>Lastly, there is an interesting parallel between the history of sans serif and the Brand visions offered by startup and tech companies. </p>
+<p>When sans serif typefaces first came around, people hated how they looked compared to the more classic calligraphy-inspired serifs. They eliminated the serif's ornate, elegant letter shapes and preferred straight lines and simpler forms. They were considered ... grotesque( <em>remember</em> <a href="https://fontdiscovery.typogram.co/p/designindex?s=w" target="_blank" rel="nofollow noopener noreferrer"><em>grotesque</em></a><em> sans serif?).</em></p>
+<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/15//grotesque.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/15//responsive/grotesque-xs.png 300w ,https://www.typogram.co/blog/media/posts/15//responsive/grotesque-sm.png 480w ,https://www.typogram.co/blog/media/posts/15//responsive/grotesque-md.png 768w ,https://www.typogram.co/blog/media/posts/15//responsive/grotesque-lg.png 1024w"  alt="" width="1456" height="761">
+<figcaption >Grotesque sans serif was considered ugly</figcaption>
+</figure>
+<p>What sans serif stands for — simplicity and reduction— match what most tech companies promise: better, more efficient results through a simplified process that significantly improves the original (traditional) methods. This is perhaps one of the key reasons why many agencies love to use sans serif for tech rebrands in addition to user experience and a "friendly" brand image. </p>
+<h1> </h1>
+<h1>Cross-Pollinating Between Industries</h1>
+<p>Is it possible that this trend comes from fashion companies? </p>
+<p>As noted in our <a href="https://fontdiscovery.typogram.co/p/luxurybrandlogos?s=w" target="_blank" rel="nofollow noopener noreferrer">previous post,</a> fashion companies are also rebranding to sans serif. Is it possible that tech companies looked to fashion industries for some tips on how to elevate their brand images and give it a hip makeover? I think it’s very likely. </p>
+<h1> </h1>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title> Uncover Affluence: How to Create a Luxury Brand Logo</title>
         <author>
@@ -20,11 +291,11 @@
             <category term="Startups"/>
             <category term="Branding"/>
 
-        <updated>2022-05-10T01:56:58-04:00</updated>
+        <updated>2022-05-11T12:03:46-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/14/HowtoCreateLuxuryBrand-2.png" alt="" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -98,7 +369,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder-2.png" alt="" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -171,7 +442,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -225,7 +496,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/9/new_blogPost5PresentationCover_2.png" alt="" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -281,7 +552,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -369,7 +640,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -397,8 +668,12 @@ How do I get started?  I don’t have any ideas.</p>
 <p>Consider each word from different angles (customer side, the business side, and so on).</p>
 <p><strong>Take the word <em>empowering</em>,  for example:</strong></p>
 <ul>
-<li>What are some emotions associated with empowering?  Maybe Serious? Happiness? Warmth?</li>
-<li>What are actions associated with empowering?  Maybe Protest? Diversity? Inclusion? Support Groups?</li>
+<li><p>What are some emotions associated with empowering?</p>
+<p>  Maybe Serious? Happiness? Warmth?</p>
+</li>
+<li><p>What are actions associated with empowering?</p>
+<p>  Maybe Protest? Diversity? Inclusion? Support Groups?</p>
+</li>
 </ul>
 <p>Search on these terms on Pinterest and see what kind of images will come up.</p>
 <p><strong>You might see:</strong></p>
@@ -431,7 +706,7 @@ How do I get started?  I don’t have any ideas.</p>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -493,7 +768,7 @@ How do I get started?  I don’t have any ideas.</p>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -529,104 +804,6 @@ How do I get started?  I don’t have any ideas.</p>
 <p>Creative collaterals like logos, brand color, brand typeface are known as brand identity systems. The brand identity system is one of the essential parts of the branding process. It helps you think creatively and intentionally about communicating your brand visually to your customers while setting up a visual system for your brand message to stay consistent, trustworthy, and memorable.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/5/uber-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/5/responsive/uber-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-md.png 768w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-lg.png 1024w"  alt="Image description" width="2000" height="1125" /></figure></p>
 <p>Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How to Choose Branding Color Palettes for Your Startup</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://www.typogram.co/blog/how-to-choose-branding-color-palette/"/>
-        <id>https://www.typogram.co/blog/how-to-choose-branding-color-palette/</id>
-            <category term="Branding"/>
-
-        <updated>2022-04-07T22:06:02-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
-                     If you enjoyed this post, subscribe to get updates from our&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
-                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
-</form><hr>
-
-<h1 id="colors-in-art-history">Colors in Art History</h1>
-<p>Color is one of the essential elements in art and design. Throughout history, it has been used to depict emotions, delight audiences, and change how we see the world. Artist Pablo Picasso used different colors intentionally and exclusively to express feelings. Painter Paul Cezanne led the Post-Impressionist art movement by reinventing how color is used in landscape paintings.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/Fzj9dg_qsjSq9StT_ar5uEuROdk007kgidxAa_uwzwT0pqhtmXjuQCwkJnsmWKf5H3qryhnX-UjnSvKCwD8aGNyGbdkV1YSPJHGesVuMDbZzS-h5JEAAeMSZyEmZgFbeUevH8CgY=s0" data-is-external-image="true"  alt="paulCezzaneColorUse" /></figure></p>
-<p>img: Paul Cezanne’s impressionist landscape paintings had a revolutionary way of using color. Source: <a href="https://en.wikipedia.org/wiki/Paul_C%C3%A9zanne">wikipedia</a></p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh6.googleusercontent.com/Dc_rOIpiJbTTlahhauGgh0Dg-a3BdwBC9BTuCecvgUfpDgkYWnhA86B9k3qaa4HrZ9DRvCJBVvHHLuCLDWL6wMiI1HfmIMKu-jlhBUjZp2EZrnANIdW9y6drO4JcArSDSumG_ZX4=s0" data-is-external-image="true"  alt="PicassonColorUse" /></figure></p>
-<p>img: left–Picasso’s blue period; right–Picasso’s rose period; Source: <a href="https://en.wikipedia.org/wiki/Pablo_Picasso">wikipedia</a> </p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh3.googleusercontent.com/vnK1dSfd8J6Ni_KsvEwr1_pR67dx_5ArlX3v4kd_fXfN7B3TLFHDutp9jSYi5VN3RJp7IU2Wb7yKNtO2xmX08dhjGD9LsA_RN37ELtUIflyrDoKEPGt-Vld2PUQaznIqn5lsDXjb=s0" data-is-external-image="true"  alt="YvesKleinColorUse" /></figure></p>
-<p>img: Artist Yves Klein invented his own shade of blue called <a href="https://en.wikipedia.org/wiki/International_Klein_Blue">IK Blue.</a> Many brands later started using this blue and It became a popular fashion trend. Source: <a href="https://www.invaluable.com/">invaluable</a></p>
-<p>If it hasn’t crossed your mind, different colors have different meanings. Whether it’s landing pages, products, branding, social posts, choosing and using colors effectively can help your audience recognize and remember your brand.</p>
-<hr>
-<h1 id="primary-branding-color">Primary Branding Color</h1>
-<h2 id="what-is-a-primary-color">What is a primary color?</h2>
-<p>Primary color is the main color that is used on marketing graphics, website, signage. Typically, this is the main color that is associated with your brand. For example, the primary brand color for Coca cola is red.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh6.googleusercontent.com/pXDOlFKHsgDpJgBZorhNIy3wLXjtP2GsGSFLFpJag_ZOoIdR1IGSfdgSIo-JLxZWXwdCnj4dpncAbG6LQ7Jlxu4hM_Dk8vpNrwLhoOzSR0ygcvshWaUL43AKiZkQfvxShWKRe2Ud=s0" data-is-external-image="true"  alt="cocaColaBrand" /></figure></p>
-<p>img: you will find this classic red in alot of coca cola’s branding. Source: <a href="https://www.fastcompany.com/3043308/coke-experiments-with-new-universal-branding">Fastco</a> </p>
-<h2 id="how-do-you-find-the-right-color">How do you find the right color?</h2>
-<p>You can find the right colors through research color palette usage and inspirations. There are a couple of approaches you can take:</p>
-<ol>
-<li>Look at what similar brands in your niche are doing.</li>
-<li>Research about what values colors are associated with.</li>
-<li>Create mood boards of things or values inspired or associated with your brand. I wrote more about this process <a href="https://blog.typogram.co/How-to-Visualize-Ideas-for-Your-Brand-ffad9dc7d0704bfb8e45f23db4c420a9">here.</a> You can then sample colors from images in your mood boards.</li>
-</ol>
-<p><figure class="post__image"><img loading="lazy" src="https://lh6.googleusercontent.com/DrfmgNzxb2FOPF4AoSqvGyZgOJQjYPjTeqr_UYomKDk_rq2ukmx9niDihwtJsNjwDrkINbB6FnFgn9ix8c3LMQwUu3gwxHdy8dFQBMU5iT49F6xyTeCHq8YBC1-NkUNpbjJJXj_t=s0" data-is-external-image="true"  alt="colorthemeInspirationChart" /></figure></p>
-<p>img: a simple chart I made of colors with their common associations.</p>
-<p>Once you find a color that resonates, it is essential to test it in the environments you will be using. You also want to test how this specific color performs on black and white backgrounds. This test tells you if the color you are using is too vibrant or too dark. You want to make sure it is legible and visible. If you are using it in product packaging, test it out printed. Checking colors is simple, and it saves you time down the line.</p>
-<hr>
-<h1 id="secondary-color">Secondary Color</h1>
-<p>Some brands have a few colors they use consistently along with the primary brand color. These colors are called secondary colors. A secondary color is not a requirement for branding. However, it is nice to have to highlight or complement a primary color. It provides more ways to add recognition and distinguishment to your brands. While there isn’t a rule on how many secondary colors you can have, you should try to limit yourself to about three or four so the brand remains recognizable, and the message remains clear. Having too many colors can be distracting and confusing. You should always use one color as the primary.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh3.googleusercontent.com/jtbBYGaiGSjHfFFAS_F0XmEUyKhuhZw-B9zRMQkaVvy5wYLDKuyTSf2_1CtnayMnSKWQCa66L2Tp1Kba-ezKBasEWgGd1bnuaNk3Hm2RrM4n5dGqyzI3GX-dduKMDHIffdi37aUa=s0" data-is-external-image="true"  alt="iKeaColorPalette" /></figure></p>
-<p>img: Ikea’s color palettes using blue as the primary color, yellow as as secondary color; source: dazeen</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh6.googleusercontent.com/Djzv2gbDHu8dlVoLWbuyaBM7XqhLx39_X21Nj5EKZr4HcHWjcx1Y43HLu8YFC5YcxBmvAr0-5MHRavBikazN19q39HW9gS7_k5YlQv4wr8R4gHmGTnHsKGF2ekgmM6gQN8IJQrxB=s0" data-is-external-image="true"  alt="mcDonaldColorPalette" /></figure></p>
-<p>img: McDonald’s color palettes using red as the primary color, yellow as as secondary color; source: <a href="https://adage.com/creativity/work/mcdonalds-new-visual-identity/2184596">AdAge</a> </p>
-<h2 id="how-to-pick-a-secondary-color">How to pick a secondary color?</h2>
-<p>There are several ways you can pick your secondary colors.</p>
-<p>As a starting point, you can think about:</p>
-<ul>
-<li>Is there another color you liked when you picked the primary color?</li>
-<li>Is there a color that pairs well with the primary color?</li>
-</ul>
-<h2 id="color-pairing">Color Pairing</h2>
-<p>Combining color can be tricky. Consider these ideas when you are combining color for your projects.</p>
-<h3 id="monochrome">Monochrome</h3>
-<p>You can get various shades of a color by playing with the saturation and lightness of a color.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh3.googleusercontent.com/WHmzHADixZdDvUTf3BWuuPLM2G4Ft8jM6iufvFWA2MuDPQz5A8Kgnx8sAxZRZBch6k9fXHbO8DWkOUViZZFHhLG5G2vd0TF1F_hgKYUX6eLDHWDqFhtnLJo4stmMQwQ02CKjvijm=s0" data-is-external-image="true"  alt="monoChromeWebDesign" /></figure></p>
-<p>img: monochrome web design; source: <a href="https://onextrapixel.com/40-beautiful-examples-of-monochromatic-website-design/">onextrapixel</a></p>
-<h3 id="accent">Accent</h3>
-<p>An accent color is a color used in small amounts to highlight or add visual punch to the primary color. An accent color is usually a bright color.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/ogNlqNf-tSWok-Mf1qNtgpT-A9Ebm3FbcaLGd_nkzc7vAo8fJ-FrPeEV2vM9Ml77NwseIfYhztsafuMGI0lv9RwKvYLiCSqCJuiU9DhA9Mi4_K9cJaAm5xmxT3HiS7gci3v42Thn=s0" data-is-external-image="true"  alt="accentWebDesign" /></figure></p>
-<p>img: light yellow is  used as an accent color in this Nike packaging; source: <a href="https://nirvanacph.com/project/nikegreenspeed/">NirvanaCph</a></p>
-<h3 id="grayscale">Grayscale</h3>
-<p>Grayscale is the range of shades of gray. The highest level of grayscale is black, and the lightest level is white. Grayscale is useful because gray shades work well as complementary colors and make the colors pop.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/FXYJuqMCXaIRkjGOmlv5ZSpEmH6ZS2h_quKKN_YUgAiieD5G4iTYfAIRzobhIdStJughYLWh6tFftxdftrX7oq_fgLsW4VkAcSESCb86tIoaUtlO78vzqiG5jHBDwWwn6Hdfwhu2=s0" data-is-external-image="true"  alt="greyscaleWebDesign" /></figure></p>
-<p>img: greyscale is used in this museum website; source: <a href="https://www.inselhombroich.de/de">inselhombroich</a></p>
-<hr>
-<h1 id="additional-tips">Additional Tips</h1>
-<h2 id="1-stick-to-your-logo-colors">1. Stick to your logo colors</h2>
-<h3 id="do">Do</h3>
-<p>Having a primary color people associate with your brand is a good idea.</p>
-<h3 id="dont">Don’t</h3>
-<p>change your brand colors</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/G53B_2x_XJoz8_hhosoqJTRbxFxOBprMMKB5A_ZRlcecEOBgkDZFZ6l4gay-uCUX86lqFI-5c3N9MK65iFIilmm9DrKO_OYsJUriLrpPNJApbMCi-BsNI7PRBBW61lCeb52QfjWi=s0" data-is-external-image="true"  alt="doanddontofBrandColors" /></figure></p>
-<p>img: do and don’t for logo color</p>
-<h2 id="2-make-up-a-system-for-using-colors--stick-to-it">2. Make up a system for using colors &amp; stick to it</h2>
-<h3 id="do-1">Do</h3>
-<p>Be consistent about which colors to use and for what</p>
-<h3 id="dont-1">Don’t</h3>
-<p>Wing it- use colors randomly and have no rules</p>
-<p><figure class="post__image"><img loading="lazy" src="https://lh4.googleusercontent.com/jXVESRUyXaymh4vL8a8T__o7dZ9x-P_gYsLvgc5EfBmylngveXalFUOIIb8koNH687MMHNn6f5XybCD1Qzxl0-DHO68HFsG_OYH4YrIGweCLH_ckO3fTqL9jQFpSuYy97fhWIBx4=s0" data-is-external-image="true"  alt="doanddontofBrandColors2" /></figure></p>
-<p>img: do and don’t for color usage</p>
-<p>And that’s it for our guide on choosing colors! Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
 
             ]]>
         </content>
