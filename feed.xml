@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
     <link href="https://www.typogram.co/blog" />
-    <updated>2022-05-23T01:16:45-04:00</updated>
+    <updated>2022-05-23T01:26:37-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-05-23T01:16:45-04:00</updated>
+        <updated>2022-05-23T01:26:37-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
@@ -33,7 +33,7 @@
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 <h1><span style="font-weight: 400;">Typography</span><a id="Typography"></a></h1>
-<p>Typography is the art of arranging pieces of text via typefaces to make information legible, readable, and pleasing to the eye. Typography is important more than ever because information today is more readily available than ever. Typography shapes language and helps us communicate a clear message. </p>
+<p>Typography is the art of arranging pieces of text via typefaces to make information legible, readable, and pleasing to the eye. Typography is more important than ever because information today is more readily available. Typography shapes language and helps us communicate a clear message. </p>
 <figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/typography-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/typography-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-lg.png 1024w"  alt="Typography helps information become clear and readable " width="2912" height="1522">
 <figcaption >Typography helps information become clear and readable </figcaption>
 </figure>
