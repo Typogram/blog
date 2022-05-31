@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Typogram Blog</title>
-    <link href="https://www.typogram.co/blog/feed.xml" rel="self" />
-    <link href="https://www.typogram.co/blog" />
+    <link href="https://typogram.co/blog/feed.xml" rel="self" />
+    <link href="https://typogram.co/blog" />
     <updated>2022-05-31T17:45:23-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
-    <id>https://www.typogram.co/blog</id>
+    <id>https://typogram.co/blog</id>
 
     <entry>
         <title>Essential Terms You Must Know About Typography</title>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/"/>
-        <id>https://www.typogram.co/blog/essential-terms-you-must-know-about-typography/</id>
+        <link href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/"/>
+        <id>https://typogram.co/blog/essential-terms-you-must-know-about-typography/</id>
             <category term="Typography &amp; Fonts"/>
 
         <updated>2022-05-31T17:45:23-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
+                        <img src="https://typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
+                    <img src="https://typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 <h1><span style="font-weight: 400;">Typography</span><a id="Typography"></a></h1>
 <p>Typography is the art of arranging pieces of text via typefaces to make information legible, readable, and pleasing to the eye. Typography is more important than ever because information today is more readily available. Typography shapes language and helps us communicate a clear message. </p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/typography-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/typography-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/typography-4-lg.png 1024w"  alt="Typography helps information become clear and readable " width="2912" height="1522">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/16/typography-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/typography-4-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/typography-4-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/typography-4-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/typography-4-lg.png 1024w"  alt="Typography helps information become clear and readable " width="2912" height="1522">
 <figcaption >Typography helps information become clear and readable </figcaption>
 </figure>
 <hr class="section-break">
@@ -43,7 +43,7 @@
 <h1> </h1>
 <h1><span style="font-weight: 400;">Font</span><a id="Font"></a></h1>
 <p>A font is the digital, graphic representation of a typeface. It includes the particular size, weight, and style of a typeface that makes up the displayable set of characters. Nowadays, Fonts and typefaces are often used interchangeably. </p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/typefacevsfont-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-lg.png 1024w"  alt="Typeface describes style, while font describes digital, graphic representation of a typeface. " width="2184" height="1142">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/16/typefacevsfont-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/typefacevsfont-2-lg.png 1024w"  alt="Typeface describes style, while font describes digital, graphic representation of a typeface. " width="2184" height="1142">
 <figcaption >Typeface describes style, while font describes digital, graphic representation of a typeface</figcaption>
 </figure>
 <hr class="section-break">
@@ -106,13 +106,13 @@
 <hr class="section-break">
 <h1><span style="font-weight: 400;">Ligature </span><a id="Ligature"></a></h1>
 <p><span style="font-weight: 400;">Ligatures are unique characters created from multiple letters of common letter combinations to improve readability in a font.  For example, the letter "f" has a high frequency of occurring with "i" and "l", as in words like “figure” and “flower.” To improve the readability in these specific cases,  "fi" and "fl", would be combined to create a unique character that would replace the two letters when typed together.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/ligature-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/ligature-2-lg.png 1024w"  alt="ligature" width="2184" height="1142">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/16/ligature-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/ligature-2-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/ligature-2-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/ligature-2-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/ligature-2-lg.png 1024w"  alt="ligature" width="2184" height="1142">
 <figcaption >Words with and without ligature</figcaption>
 </figure>
 <hr class="section-break">
 <h1><span style="font-weight: 400;">Font Classification </span><a id="FontClassification"></a></h1>
 <p><span style="font-weight: 400;">Fonts are commonly classified into four main categories based on their appearances. These categories are –– fonts with serifs (Serif), fonts without serifs (Sans Serif), fonts with highly decorative characteristics (Display), and font that looks like handwriting (Script).</span></p>
-<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/16/classifications-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/classifications-3-lg.png 1024w"  alt="Four general font classification categories: serif, sans serif, display, script" width="2184" height="1142"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/16/classifications-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/classifications-3-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/classifications-3-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/classifications-3-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/classifications-3-lg.png 1024w"  alt="Four general font classification categories: serif, sans serif, display, script" width="2184" height="1142"></figure>
 <figcaption >Four general font classification categories: serif, sans serif, display, script</figcaption>
 </figure>
 <hr class="section-break">
@@ -121,7 +121,7 @@
 <h1> </h1>
 <h1><span style="font-weight: 400;">Sans Serif </span><a id="SansSerif"></a></h1>
 <p><span style="font-weight: 400;">Sans means “without.” Sans Serifs do not have serifs extending at the end of strokes. Sans Serifs were invented long after Serif. In 1816, William Caslon IV created the first official sans serif typeface, Caslon, for commercial use. Though Caslon didn’t become popular right away, Sans Serif boomed in popularity decades later. Sans Serifs are also further broken down into smaller style categories: Grotesque, Neo Grotesque, Humanist, and Geometric.</span></p>
-<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/16/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/serifSanserif-2-lg.png 1024w"  alt="Serif and Sans Serif" width="1456" height="761"></figure>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/16/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/serifSanserif-2-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/serifSanserif-2-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/serifSanserif-2-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/serifSanserif-2-lg.png 1024w"  alt="Serif and Sans Serif" width="1456" height="761"></figure>
 <figcaption >Serif and Sans Serif</figcaption>
 </figure>
 <hr class="section-break">
@@ -130,13 +130,13 @@
 <h1> </h1>
 <h1><span style="font-weight: 400;">Script</span><a id="Script"></a></h1>
 <p><span style="font-weight: 400;">Scripts are fonts mimicking handwriting. Influenced by cursives and calligraphy, scripts can be considered formal or casual. Formal scripts tend to be highly decorative, with swashes and exaggerated curls. Casual scripts are more subdued with less exuberant details.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/scriptDisplay.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/scriptDisplay-lg.png 1024w"  alt="Display and Script" width="2184" height="1142">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/16/scriptDisplay.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/scriptDisplay-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/scriptDisplay-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/scriptDisplay-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/scriptDisplay-lg.png 1024w"  alt="Display and Script" width="2184" height="1142">
 <figcaption >Display and Script</figcaption>
 </figure>
 <hr class="section-break">
 <h1><span style="font-weight: 400;">Monospaced Fonts</span><a id="MonospacedFonts"></a></h1>
 <p><span style="font-weight: 400;">Most fonts are proportional, where each character takes as much width as it needs. Monospaced fonts are fixed width: all characters have the same letter width and occupy the same horizontal space. They were customary on typewriters and computer terminals. Nowadays, they live in code editors and science periodicals. They are perfect for displaying code and data.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/16/normalMonospaced-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-md.png 768w ,https://www.typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-lg.png 1024w"  alt="Proportional and Monospaced fonts" width="2184" height="1142">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/16/normalMonospaced-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-xs.png 300w ,https://typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-sm.png 480w ,https://typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-md.png 768w ,https://typogram.co/blog/media/posts/16/responsive/normalMonospaced-2-lg.png 1024w"  alt="Proportional and Monospaced fonts" width="2184" height="1142">
 <figcaption >Proportional and Monospaced fonts</figcaption>
 </figure>
 <p>
@@ -207,26 +207,26 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/tech-startup-logos/"/>
-        <id>https://www.typogram.co/blog/tech-startup-logos/</id>
+        <link href="https://typogram.co/blog/tech-startup-logos/"/>
+        <id>https://typogram.co/blog/tech-startup-logos/</id>
             <category term="Startups"/>
             <category term="Branding"/>
 
         <updated>2022-05-18T18:13:44-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/15/whydoalltechlogoslookthesame.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/15/whydoalltechlogoslookthesame.png" alt="" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/15/whydoalltechlogoslookthesame.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/15/whydoalltechlogoslookthesame.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
-<p data-pm-slice="1 1 []">In the last post, we talked about commonalities found in <a href="https://www.typogram.co/blog/luxury-brand-logos/" target="_blank" rel="nofollow noopener noreferrer">luxury fashion brands.</a> This time, we’ll turn our attention to brandings of startups and tech companies. Find a couple of tech companies or start logos and branding around you, you’ll notice that they are sporting similar looks. Oftentimes, it is a friendly sans serif with brightly colored illustrations. Sounds familiar? </p>
+<p data-pm-slice="1 1 []">In the last post, we talked about commonalities found in <a href="https://typogram.co/blog/luxury-brand-logos/" target="_blank" rel="nofollow noopener noreferrer">luxury fashion brands.</a> This time, we’ll turn our attention to brandings of startups and tech companies. Find a couple of tech companies or start logos and branding around you, you’ll notice that they are sporting similar looks. Oftentimes, it is a friendly sans serif with brightly colored illustrations. Sounds familiar? </p>
 <p>In this post, we’ll attempt to find some reasons that explain this trend. </p>
 <h1> </h1>
 <h1>Trust at First Sight</h1>
@@ -242,7 +242,7 @@
 <p>Here are a few quotes from startups and tech companies themselves to illustrate the importance of being friendly and delightful.</p>
 <div class="captioned-image-container">
 <figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/15//google_before_after.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-xs.png 300w ,https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-sm.png 480w ,https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-md.png 768w ,https://www.typogram.co/blog/media/posts/15//responsive/google_before_after-lg.png 1024w"  alt="" width="1012" height="506"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/15//google_before_after.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/15//responsive/google_before_after-xs.png 300w ,https://typogram.co/blog/media/posts/15//responsive/google_before_after-sm.png 480w ,https://typogram.co/blog/media/posts/15//responsive/google_before_after-md.png 768w ,https://typogram.co/blog/media/posts/15//responsive/google_before_after-lg.png 1024w"  alt="" width="1012" height="506"></figure>
 <a class="image-link image2" target="_blank" rel="nofollow noopener" href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2c2160c-d40e-4522-9238-44c75c15df90_1012x506.png"><picture></picture></a></figure>
 </div>
 <p>Google on their rebranding logo, 2015</p>
@@ -251,7 +251,7 @@
 </blockquote>
 <div class="captioned-image-container">
 <figure>
-<figure class="post__image align-center"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/15//robinhood.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/15//responsive/robinhood-xs.png 300w ,https://www.typogram.co/blog/media/posts/15//responsive/robinhood-sm.png 480w ,https://www.typogram.co/blog/media/posts/15//responsive/robinhood-md.png 768w ,https://www.typogram.co/blog/media/posts/15//responsive/robinhood-lg.png 1024w"  alt="" width="697" height="453"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://typogram.co/blog/media/posts/15//robinhood.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/15//responsive/robinhood-xs.png 300w ,https://typogram.co/blog/media/posts/15//responsive/robinhood-sm.png 480w ,https://typogram.co/blog/media/posts/15//responsive/robinhood-md.png 768w ,https://typogram.co/blog/media/posts/15//responsive/robinhood-lg.png 1024w"  alt="" width="697" height="453"></figure>
 </figure>
 </div>
 <p>Robinhood on introducing new illustration styles and typefaces as part of their rebrand, 2020</p>
@@ -275,7 +275,7 @@
 <h1>Parallel Between History of Sans Serif &amp; Brand Visions </h1>
 <p>Lastly, there is an interesting parallel between the history of sans serif and the Brand visions offered by startup and tech companies. </p>
 <p>When sans serif typefaces first came around, people hated how they looked compared to the more classic calligraphy-inspired serifs. They eliminated the serif's ornate, elegant letter shapes and preferred straight lines and simpler forms. They were considered ... grotesque( <em>remember</em> <a href="https://fontdiscovery.typogram.co/p/designindex?s=w" target="_blank" rel="nofollow noopener noreferrer"><em>grotesque</em></a><em> sans serif?).</em></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/15//grotesque.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/15//responsive/grotesque-xs.png 300w ,https://www.typogram.co/blog/media/posts/15//responsive/grotesque-sm.png 480w ,https://www.typogram.co/blog/media/posts/15//responsive/grotesque-md.png 768w ,https://www.typogram.co/blog/media/posts/15//responsive/grotesque-lg.png 1024w"  alt="" width="1456" height="761">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/15//grotesque.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/15//responsive/grotesque-xs.png 300w ,https://typogram.co/blog/media/posts/15//responsive/grotesque-sm.png 480w ,https://typogram.co/blog/media/posts/15//responsive/grotesque-md.png 768w ,https://typogram.co/blog/media/posts/15//responsive/grotesque-lg.png 1024w"  alt="" width="1456" height="761">
 <figcaption >Grotesque sans serif was considered ugly</figcaption>
 </figure>
 <p>What sans serif stands for — simplicity and reduction— match what most tech companies promise: better, more efficient results through a simplified process that significantly improves the original (traditional) methods. This is perhaps one of the key reasons why many agencies love to use sans serif for tech rebrands in addition to user experience and a "friendly" brand image. </p>
@@ -292,8 +292,8 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/luxury-brand-logos/"/>
-        <id>https://www.typogram.co/blog/luxury-brand-logos/</id>
+        <link href="https://typogram.co/blog/luxury-brand-logos/"/>
+        <id>https://typogram.co/blog/luxury-brand-logos/</id>
             <category term="Typography &amp; Fonts"/>
             <category term="Startups"/>
             <category term="Branding"/>
@@ -301,13 +301,13 @@
         <updated>2022-05-11T12:03:46-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/14/HowtoCreateLuxuryBrand-2.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/14/HowtoCreateLuxuryBrand-2.png" alt="" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/14/HowtoCreateLuxuryBrand-2.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/14/HowtoCreateLuxuryBrand-2.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -326,36 +326,36 @@
 <hr>
 <h2>Use a High Contrast Serif</h2>
 <p><span style="font-weight: 400;">Burberry is a luxurious fashion brand. Its most well-recognized logo had an editorial-looking high contrast serif logo with an equestrian graphic, emphasizing its roots in traditions as a British luxury brand.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/14//burberry-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/burberry-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/burberry-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/burberry-4-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/burberry-4-lg.png 1024w"  alt="" width="1074" height="694"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/14//burberry-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/burberry-4-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/burberry-4-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/burberry-4-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/burberry-4-lg.png 1024w"  alt="" width="1074" height="694"></figure>
 <p><span style="font-weight: 400;">Serif typefaces are considered classic and traditional. High contrast serifs, like the one used in Burberry, are called</span><a href="https://fontdiscovery.typogram.co/p/designindex" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">modern serifs.</span></a><span style="font-weight: 400;"> Modern serifs are popular in editorial settings because their high contrast strokes have always been visually pleasing and elegant on glossy, large-format publications. They were great for advertisements and naturally became popular among fashion brands ( More about modern serifs in this</span><a href="https://fontdiscovery.typogram.co/p/fontdiscovery-29-grab-attention-with" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;"> post</span></a><span style="font-weight: 400;">). </span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/14//vogue-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/vogue-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/vogue-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/vogue-4-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/vogue-4-lg.png 1024w"  alt="" width="1074" height="694"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/14//vogue-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/vogue-4-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/vogue-4-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/vogue-4-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/vogue-4-lg.png 1024w"  alt="" width="1074" height="694"></figure>
 <p><span style="font-weight: 400;">Modern Serif is a popular choice for luxury brands to communicate their connection to couture, elegance, and the editorial world. High contrast serifs can be combined with another visual element to create additional flares that give a brand extra pizzaz. The Prada logo uses high contrast serif with more angles and sharpness in the letterforms, giving a hint of edginess in its brand DNA. (Fun fact,</span><a href="https://fashion.luxury/brands/history-of-prada/" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">Prada started as a leather store</span></a><span style="font-weight: 400;">).</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/14//prada-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/prada-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/prada-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/prada-4-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/prada-4-lg.png 1024w"  alt="" width="1074" height="694"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/14//prada-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/prada-4-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/prada-4-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/prada-4-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/prada-4-lg.png 1024w"  alt="" width="1074" height="694"></figure>
 <hr>
 <h2>Think about White Spaces</h2>
 <p><span style="font-weight: 400;">On most</span><a href="https://www.ysl.com/en-us" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">luxury brand websites</span></a><span style="font-weight: 400;">, you’ll notice one thing: vast amounts of white spaces. </span></p>
 <p><span style="font-weight: 400;">Space is luxury. </span></p>
 <p><span style="font-weight: 400;">When visiting a gallery, expensive paintings are hung far apart on white walls. The more physical spaces you have when buying a home, the more expensive the price tag is. </span><span style="font-weight: 400;">White space is a common technique used in luxury branding for logos and websites. Looking at logos and the websites of fashion brands, you will notice that there are large amounts of white spaces. Having less is having more - more room to emphasize and elevate the message, brand, and products.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/14//yslWeb.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/yslWeb-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/yslWeb-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/yslWeb-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/yslWeb-lg.png 1024w"  alt="source: ysl website" width="2552" height="1194">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/14//yslWeb.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/yslWeb-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/yslWeb-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/yslWeb-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/yslWeb-lg.png 1024w"  alt="source: ysl website" width="2552" height="1194">
 <figcaption >source: <a href="https://www.ysl.com/en-us" target="_blank" rel="noopener noreferrer">ysl website</a></figcaption>
 </figure>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/14//chanelWeb-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/chanelWeb-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/chanelWeb-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/chanelWeb-2-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/chanelWeb-2-lg.png 1024w"  alt="source: chanel website" width="1074" height="503">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/14//chanelWeb-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/chanelWeb-2-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/chanelWeb-2-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/chanelWeb-2-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/chanelWeb-2-lg.png 1024w"  alt="source: chanel website" width="1074" height="503">
 <figcaption >source: <a href="https://www.chanel.com/us/" target="_blank" rel="noopener noreferrer">chanel website</a></figcaption>
 </figure>
 <hr>
 <h2>Is Monogram Right for You?</h2>
 <p><span style="font-weight: 400;">Another common theme that emerges across luxury brands is the use of monograms. Monograms are combinations of letters or characters in names. </span><span style="font-weight: 400;">As signatures representing authority and status throughout history, monograms were used for official insignia and royal emblems. The earliest monogram was found on</span> <a href="https://en.wikipedia.org/wiki/Monogram" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">Greek Coins</span></a><span style="font-weight: 400;">, appearing as early as 350 BC. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/14//albertduer.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/albertduer-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/albertduer-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/albertduer-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/albertduer-lg.png 1024w"  alt="" width="1074" height="694">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/14//albertduer.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/albertduer-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/albertduer-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/albertduer-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/albertduer-lg.png 1024w"  alt="" width="1074" height="694">
 <figcaption ><span style="font-weight: 400;">Monogram of artist Albert Durer</span></figcaption>
 </figure>
 <p><span style="font-weight: 400;">Many luxury brand logos with monograms, like Coco Chanel and Gucci, started as a family business, owning one local shop. Using monograms in their brands implied the luxury experiences and the statuses offered and represented.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/14//monogram-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/monogram-2-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/monogram-2-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/monogram-2-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/monogram-2-lg.png 1024w"  alt="" width="1074" height="694"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/14//monogram-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/monogram-2-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/monogram-2-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/monogram-2-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/monogram-2-lg.png 1024w"  alt="" width="1074" height="694"></figure>
 <hr>
 <h2>Use Sans Serif to Update &amp; Attract Younger Demographics</h2>
 <p><span style="font-weight: 400;">In recent years, luxury brands are rebranding with sans serif logos to modernize themselves and attract younger followings. More and more companies are sporting minimalism and sans serif logos. </span></p>
 <p><span style="font-weight: 400;">A clean sans serif with plenty of white space communicates simplicity, space(luxury), and boldness. It speaks to a younger audience, whether the sans serif is</span><a href="https://fontdiscovery.typogram.co/p/designindex" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">grotesque, geometric</span></a><span style="font-weight: 400;"> or</span><a href="https://fontdiscovery.typogram.co/p/designindex" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">humanist.</span></a><span style="font-weight: 400;"> Both Burberry and Saint Laurent took this route, and</span><a href="https://www.marketingdive.com/news/hugo-boss-shifts-gears-with-major-rebranding/617793/" target="_blank" rel="noopener noreferrer"> <span style="font-weight: 400;">Hugo Boss recently rebranded</span></a><span style="font-weight: 400;"> again to attract GenZ. </span></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/14//burberrysans-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/burberrysans-3-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/burberrysans-3-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/burberrysans-3-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/burberrysans-3-lg.png 1024w"  alt="" width="1074" height="694"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://www.typogram.co/blog/media/posts/14//ysl-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/14//responsive/ysl-3-xs.png 300w ,https://www.typogram.co/blog/media/posts/14//responsive/ysl-3-sm.png 480w ,https://www.typogram.co/blog/media/posts/14//responsive/ysl-3-md.png 768w ,https://www.typogram.co/blog/media/posts/14//responsive/ysl-3-lg.png 1024w"  alt="" width="1074" height="694"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/14//burberrysans-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/burberrysans-3-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/burberrysans-3-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/burberrysans-3-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/burberrysans-3-lg.png 1024w"  alt="" width="1074" height="694"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/14//ysl-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/14//responsive/ysl-3-xs.png 300w ,https://typogram.co/blog/media/posts/14//responsive/ysl-3-sm.png 480w ,https://typogram.co/blog/media/posts/14//responsive/ysl-3-md.png 768w ,https://typogram.co/blog/media/posts/14//responsive/ysl-3-lg.png 1024w"  alt="" width="1074" height="694"></figure>
 <hr>
 <h2>Future Design Trend…Maximalism? </h2>
 <p><span style="font-weight: 400;">The brand design trend is still primarily “less is more.” however, I think “more and more” is also on the horizon. Branding, design, and marketing are complex, interdisciplinary topics that vibe off many fields and subjects. With all the buzz on web3, things sure can get crazier. </span></p>
@@ -368,20 +368,20 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/what-we-learned-from-launching-our-startup-on-product-hunt/"/>
-        <id>https://www.typogram.co/blog/what-we-learned-from-launching-our-startup-on-product-hunt/</id>
+        <link href="https://typogram.co/blog/what-we-learned-from-launching-our-startup-on-product-hunt/"/>
+        <id>https://typogram.co/blog/what-we-learned-from-launching-our-startup-on-product-hunt/</id>
             <category term="Startups"/>
 
         <updated>2022-05-10T01:29:45-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder-2.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder-2.png" alt="" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder-2.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/13/ourProductHuntLaunchPreorder-2.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -398,7 +398,7 @@
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">243 upvotes on </span><a href="https://www.producthunt.com/posts/typogram"><span style="font-weight: 400;">Product Hunt</span></a><span style="font-weight: 400;">, ranking at the 10th spot</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">15 upvotes on </span><a href="https://news.ycombinator.com/item?id=30847121"><span style="font-weight: 400;">Hacker News</span></a><span style="font-weight: 400;">, get on the front page of </span><a href="https://news.ycombinator.com/show"><span style="font-weight: 400;">Show HN</span></a><span style="font-weight: 400;">, on page 5 or 6 on the regular Hacker News.</span></li>
 </ul>
-<h4><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://www.typogram.co/blog/media/posts/13/stat.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/13/responsive/stat-xs.png 300w ,https://www.typogram.co/blog/media/posts/13/responsive/stat-sm.png 480w ,https://www.typogram.co/blog/media/posts/13/responsive/stat-md.png 768w ,https://www.typogram.co/blog/media/posts/13/responsive/stat-lg.png 1024w"  alt="" width="843" height="431"></figure></h4>
+<h4><figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://typogram.co/blog/media/posts/13/stat.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/13/responsive/stat-xs.png 300w ,https://typogram.co/blog/media/posts/13/responsive/stat-sm.png 480w ,https://typogram.co/blog/media/posts/13/responsive/stat-md.png 768w ,https://typogram.co/blog/media/posts/13/responsive/stat-lg.png 1024w"  alt="" width="843" height="431"></figure></h4>
 <h4><strong>What We Did to Prepare for Our Launch</strong></h4>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">A few days before the launch, we started sharing snippets of Typogram on Twitter </span></li>
@@ -441,20 +441,20 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/"/>
-        <id>https://www.typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
+        <link href="https://typogram.co/blog/our-journey-to-launch-typograms-preorder/"/>
+        <id>https://typogram.co/blog/our-journey-to-launch-typograms-preorder/</id>
             <category term="Inside Typogram"/>
 
         <updated>2022-05-26T23:46:44-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
+                        <img src="https://typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
+                    <img src="https://typogram.co/blog/media/posts/11/ourPreorderCover.png" alt="we launched typogram" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -471,7 +471,7 @@
 <h2>What was the most challenging part of this launch? </h2>
 <p>As shy creatives and engineers, the most challenging aspect of this launch had two layers. First, putting ourselves out there in many unexpected ways, and second, internalized pressure of launching and the desire to be perfect. This was a massive project for us and required us to put ourselves out there consistently. An example is the making of landing page marketing and our product video. We wrote the script, recorded and edited ourselves as the audio, and assembled the footage with in-app recordings and self-made animations. Every single aspect challenged us to do something out of our comfort zone. We were lucky to have a supportive community and friends that challenged us every step of the way.</p>
 <p>Now that we feel more confident because our closed alpha customers were satisfied, we are ready to show everyone what we got! That brings us to this preorder launch. We are looking to share more about this journey as we go, all the ups and downs. </p>
-<figure class="post__image" ><img loading="lazy" src="https://www.typogram.co/blog/media/posts/11/emotionalJourney.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/11/responsive/emotionalJourney-xs.png 300w ,https://www.typogram.co/blog/media/posts/11/responsive/emotionalJourney-sm.png 480w ,https://www.typogram.co/blog/media/posts/11/responsive/emotionalJourney-md.png 768w ,https://www.typogram.co/blog/media/posts/11/responsive/emotionalJourney-lg.png 1024w"  alt="" width="1400" height="896">
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/11/emotionalJourney.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/11/responsive/emotionalJourney-xs.png 300w ,https://typogram.co/blog/media/posts/11/responsive/emotionalJourney-sm.png 480w ,https://typogram.co/blog/media/posts/11/responsive/emotionalJourney-md.png 768w ,https://typogram.co/blog/media/posts/11/responsive/emotionalJourney-lg.png 1024w"  alt="" width="1400" height="896">
 <figcaption ><em>source: <a href="https://x.company/blog/posts/the-monkey-the-tiger-beetle-and-the-language-of-innovation/" target="_blank" rel="noopener noreferrer">x company Medium</a></em></figcaption>
 </figure>
 <h2>How can I support? </h2>
@@ -494,20 +494,20 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/business-pitch-presentation-design-tips/"/>
-        <id>https://www.typogram.co/blog/business-pitch-presentation-design-tips/</id>
+        <link href="https://typogram.co/blog/business-pitch-presentation-design-tips/"/>
+        <id>https://typogram.co/blog/business-pitch-presentation-design-tips/</id>
             <category term="Branding"/>
 
         <updated>2022-04-07T22:04:50-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -535,13 +535,13 @@
 </ul>
 <p>Once you figure out these questions, start searching for images. images that tell story about processes, illustrate pivotal moments, and associate with specific emotions are particularly helpful to presentations. If you want to learn more about how to visualize ideas, check out this <a href="https://www.typogram.co/blog/small-business-marketing-ideas/">post</a>.</p>
 <p>A good tactic is using full bleed (edge to edge) images to illustrating pivotal moments, visions, impressive examples. It is more effective if the images are in high resolution.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-lg.png 1024w"  alt="leftCentervsFullBleed" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-lg.png 1024w"  alt="leftCentervsFullBleed" width="2024" height="1012" /></figure></p>
 <p>img: left- centered image on a slide; right- full bleed image. The full bleed image on the right will usually work better than on the left. It pulls in the audience a lot more since it is bigger in scale.</p>
 <hr>
 <h1 id="use-appropriate-fonts">Use appropriate fonts</h1>
 <p>If you have a brand typography system, this can be an excellent place to use it. If you don’t know what font to use, choose Helvetica or a neutral serif, like <a href="https://fontdiscovery.typogram.co/p/fontdiscovery-13-plex-a-font-family">Plex Sans</a> or <a href="https://fontdiscovery.typogram.co/p/fow-no4-libre-franklin-a-versatile?s=w">Libre Franklin</a>.</p>
 <p>When you do a presentation, you want people to take you seriously. Display fonts generally are too decorative and distracting to use in a formal setting. You probably want to save your scripts and handwriting fonts for the presentation most of the time.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-lg.png 1024w"  alt="appropriateFont" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-lg.png 1024w"  alt="appropriateFont" width="2024" height="1012" /></figure></p>
 <p>img: left- handwriting font is not appropriate for formal presentation. right- a fairly neutral sans serif is better suited and more clear.</p>
 <hr>
 <h1 id="improve-readability-by-adding-white-space">Improve readability by adding white space</h1>
@@ -553,12 +553,12 @@
 </ul>
 <p>If your text can breathe, the reader’s eyes can breathe.</p>
 <p>If a reader’s eyes can breathe, they will have an easier time understand and remember your story.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-lg.png 1024w"  alt="InformationWhitespace" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-lg.png 1024w"  alt="InformationWhitespace" width="2024" height="1012" /></figure></p>
 <p>img: left- too much information and overcrowding. right- concise information with lots of white space create better readability.</p>
 <hr>
 <h1 id="use-scale-to-help-with-delivery">Use scale to help with delivery</h1>
 <p>Scale is one of the most effective tools you can use to create dramatic visual imageries. If you want to emphasize a statement, consider making the sentence bigger on a separate slide because this creates anticipation and grabs attention. It is like a punch line.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/8/blogPost5Presentation4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-xs.png 300w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-sm.png 480w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-md.png 768w ,https://www.typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-lg.png 1024w"  alt="typographyHierachy" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-lg.png 1024w"  alt="typographyHierachy" width="2024" height="1012" /></figure></p>
 <p>img: bigger text feels more impactful to audience.</p>
 <hr>
 <h1 id="create-lasting-impression-by-being-consistent-visually">Create lasting impression by being consistent visually</h1>
@@ -582,20 +582,20 @@
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/small-business-marketing-ideas/"/>
-        <id>https://www.typogram.co/blog/small-business-marketing-ideas/</id>
+        <link href="https://typogram.co/blog/small-business-marketing-ideas/"/>
+        <id>https://typogram.co/blog/small-business-marketing-ideas/</id>
             <category term="Branding"/>
 
         <updated>2022-04-07T22:05:11-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
+                        <img src="https://typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
+                    <img src="https://typogram.co/blog/media/posts/7/brandingCover-2.png" alt="visualize branding ideas " />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -648,20 +648,20 @@ How do I get started?  I don’t have any ideas.</p>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/"/>
-        <id>https://www.typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
+        <link href="https://typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/"/>
+        <id>https://typogram.co/blog/essential-branding-and-design-terms-startup-founders-should-know/</id>
             <category term="Branding"/>
 
         <updated>2022-04-07T22:05:23-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/6/BrandingTermsCover.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -670,33 +670,33 @@ How do I get started?  I don’t have any ideas.</p>
 <p>When you design your brand, it may be helpful to know some key concepts. Here is a list of relevant terms and ideas for branding and design that could be helpful as you work through your design and marketing projects.</p>
 <h2 id="brand-identity">Brand Identity</h2>
 <p>Brand identity is the visual aspect of a brand. Brand identity includes your logo, imagery, typography, colors, and creative assets. Together, these elements make your brand recognizable to your customers. Your brand identity is one of the most important parts when it comes to creating your brand.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/brandIdentity.gif" alt="Brand Identity" width="1600" height="796" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/brandIdentity.gif" alt="Brand Identity" width="1600" height="796" /></figure></p>
 <h2 id="logo">Logo</h2>
 <p>The logo is the piece of artwork that represents your brand. While a logo is only a single piece of artwork, it is used everywhere on your brand, like landing pages, social media for marketing, and ads. That’s why when you create your logo, you should think about its usability in different environments. There are times when you may have to display your logo in a small size. There might be times when your logo will end up in a dark background. Keeping those restrictions in mind at the beginning will save you troubles later on.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/logo.gif" alt="Logo" width="1600" height="796" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/logo.gif" alt="Logo" width="1600" height="796" /></figure></p>
 <h2 id="brand-color">Brand Color</h2>
 <p>Brand color is the primary color associated with your brand. It can be on logos, business cards, decks, social media posts, websites, and other branding materials.</p>
 <p>It’s also the color your audience will associate your brand with. For example, Home Depot’s brand color is orange.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/brandColor.gif" alt="Brand Color" width="1600" height="796" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/brandColor.gif" alt="Brand Color" width="1600" height="796" /></figure></p>
 <h2 id="white-spacenegative-space">White Space/Negative Space</h2>
 <p>White space, also called negative space, is the area that is left empty in design. It could be around the content or artwork(like a photo),  inside the content, or in-between two pieces of content. White space is crucial because it gives the elements in your design breathing room and provides ease for the viewer when they look at the information. Good use of white space also guides the audience’s eyes from one piece of content to the next, creating a hierarchy of information.</p>
 <h2 id="positive-space">Positive Space</h2>
 <p>Positive space is the counterpart of negative space. The positive space is the space that the subject (this can be the content, or artwork) takes up.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/twitterNegativePositve.gif" alt="Positive Space" width="2222" height="1108" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/twitterNegativePositve.gif" alt="Positive Space" width="2222" height="1108" /></figure></p>
 <h2 id="design-composition">Design Composition</h2>
 <p>Design composition is how design elements are placed on a page. Since elements are positive space and the unused space is negative space, we can also say that composition is the overall distribution of positive and negative spaces in the design.</p>
 <p>A general rule for creating good composition is to find balance between negative and positive space. When there is a lack of balance between negative and positive, there is tension. However, tension can also be explored to create powerful compositions. </p>
 <h2 id="design-grid">Design Grid</h2>
 <p>Grids in design are systems for creating and organizing layouts. The layouts can be for print or screen. In design, “form follows function,” and layout is the perfect example of this. Different grids(layouts) suit different purposes.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/twitterDesignGrids.gif" alt="Design Grid" width="2222" height="1108" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/twitterDesignGrids.gif" alt="Design Grid" width="2222" height="1108" /></figure></p>
 <p>img: Different grids have different uses. </p>
 <h2 id="typography-system">Typography System</h2>
 <p>Typography System is the combination of fonts and font styles that create your visual branding system. For example, you typically have corresponding fonts and font styles for headers, subheads, and body copy on the landing page. For branding, we will normally use the same typography system across most of the branding assets to create a consistent message.</p>
 <h2 id="typographic-hierarchy">Typographic Hierarchy</h2>
 <p>Typographic hierarchy is the visual cue of scale and spatial relationship between the specific font styles. Typography hierarchy is crucial. It shows the audience which information is the most important and which is the least. For example, on your landing page, you probably want to capture the customers’ attention by first guiding them to the product’s unique value, then offer them a detailed description.</p>
 <p>To achieve this visually, you can make the header containing the copy for values of the product to be bigger and bolder in style than the detailed description of the product. That way, the eyes traveled to the header first, then to the description of the project.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/typographySystem.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-xs.png 300w ,https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-sm.png 480w ,https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-md.png 768w ,https://www.typogram.co/blog/media/posts/6/responsive/typographySystem-lg.png 1024w"  alt="Typography System" width="2024" height="1012" /></figure></p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/6/typographyHierachy.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-xs.png 300w ,https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-sm.png 480w ,https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-md.png 768w ,https://www.typogram.co/blog/media/posts/6/responsive/typographyHierachy-lg.png 1024w"  alt="Typography Hierachy" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/typographySystem.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/6/responsive/typographySystem-xs.png 300w ,https://typogram.co/blog/media/posts/6/responsive/typographySystem-sm.png 480w ,https://typogram.co/blog/media/posts/6/responsive/typographySystem-md.png 768w ,https://typogram.co/blog/media/posts/6/responsive/typographySystem-lg.png 1024w"  alt="Typography System" width="2024" height="1012" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/6/typographyHierachy.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/6/responsive/typographyHierachy-xs.png 300w ,https://typogram.co/blog/media/posts/6/responsive/typographyHierachy-sm.png 480w ,https://typogram.co/blog/media/posts/6/responsive/typographyHierachy-md.png 768w ,https://typogram.co/blog/media/posts/6/responsive/typographyHierachy-lg.png 1024w"  alt="Typography Hierachy" width="2024" height="1012" /></figure></p>
 <p>img: Information hierarchy is establish through scale relationship using fonts and font pairing.</p>
 <p><strong>Hopefully these can help you as you work on design projects for your startup!</strong> </p>
 <hr>
@@ -710,20 +710,20 @@ How do I get started?  I don’t have any ideas.</p>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/startup-branding/"/>
-        <id>https://www.typogram.co/blog/startup-branding/</id>
+        <link href="https://typogram.co/blog/startup-branding/"/>
+        <id>https://typogram.co/blog/startup-branding/</id>
             <category term="Branding"/>
 
         <updated>2022-04-07T22:05:45-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/5/whyBrandingCover.png" alt="" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
@@ -740,7 +740,7 @@ How do I get started?  I don’t have any ideas.</p>
 <ol>
 <li><strong>Who are you trying to reach?</strong></li>
 <li><strong>How do you want to come across to your customers?</strong>
-<figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/5/whyBranding.gif" alt="Image description" width="1206" height="600" /></figure></li>
+<figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/5/whyBranding.gif" alt="Image description" width="1206" height="600" /></figure></li>
 </ol>
 <p>img: who are your customers? and how will your brand come across to them?</p>
 <p><strong>Both questions will require you to understand:</strong></p>
@@ -752,7 +752,7 @@ How do I get started?  I don’t have any ideas.</p>
 <p>Answers from these two questions can be the guiding light for you to visualize your brand. You can answer the first question by researching your customers. The second question you can answer by using what you know about your customers and communicating your product’s unique values.</p>
 <h1 id="brand-identity-system">Brand Identity System</h1>
 <p>Creative collaterals like logos, brand color, brand typeface are known as brand identity systems. The brand identity system is one of the essential parts of the branding process. It helps you think creatively and intentionally about communicating your brand visually to your customers while setting up a visual system for your brand message to stay consistent, trustworthy, and memorable.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://www.typogram.co/blog/media/posts/5/uber-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.typogram.co/blog/media/posts/5/responsive/uber-4-xs.png 300w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-sm.png 480w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-md.png 768w ,https://www.typogram.co/blog/media/posts/5/responsive/uber-4-lg.png 1024w"  alt="Image description" width="2000" height="1125" /></figure></p>
+<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/5/uber-4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/5/responsive/uber-4-xs.png 300w ,https://typogram.co/blog/media/posts/5/responsive/uber-4-sm.png 480w ,https://typogram.co/blog/media/posts/5/responsive/uber-4-md.png 768w ,https://typogram.co/blog/media/posts/5/responsive/uber-4-lg.png 1024w"  alt="Image description" width="2000" height="1125" /></figure></p>
 <p>Do you have any additional questions or suggestions?  Let me know via Twitter <a href="https://twitter.com/typogramco">@typogramco</a></p>
 
             ]]>
@@ -763,20 +763,20 @@ How do I get started?  I don’t have any ideas.</p>
         <author>
             <name>Wenting Zhang</name>
         </author>
-        <link href="https://www.typogram.co/blog/how-to-choose-branding-color-palette/"/>
-        <id>https://www.typogram.co/blog/how-to-choose-branding-color-palette/</id>
+        <link href="https://typogram.co/blog/how-to-choose-branding-color-palette/"/>
+        <id>https://typogram.co/blog/how-to-choose-branding-color-palette/</id>
             <category term="Branding"/>
 
         <updated>2022-04-07T22:06:02-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
+                        <img src="https://typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
+                    <img src="https://typogram.co/blog/media/posts/4/colorGuideCover.png" alt="How to Choose Branding Color Palettes for Your Business" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
