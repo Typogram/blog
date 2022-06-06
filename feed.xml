@@ -3,14 +3,14 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-06-05T23:55:12-04:00</updated>
+    <updated>2022-06-06T00:24:36-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
     <entry>
-        <title>Common Styles of Serifs You Must Know to Improve Your Designs</title>
+        <title>Common Serif Styles You Must Know to Improve Your Designs</title>
         <author>
             <name>Wenting Zhang</name>
         </author>
@@ -18,17 +18,21 @@
         <id>https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-06-05T23:55:12-04:00</updated>
+        <updated>2022-06-06T00:24:36-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover.png" alt="typography jargon buster, part 2" />
-                    Serif Typefaces Serif Typefaces are letterforms with small lines or strokes, or&hellip;
+                        <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover-2.png" alt="Common Serifs Styles You Must Know to Improve Your Designs" />
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover.png" alt="typography jargon buster, part 2" />
-                <h1><span style="font-weight: 400;">Serif Typefaces </span><a id="SerifTypefaces"></a></h1>
+                    <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover-2.png" alt="Common Serifs Styles You Must Know to Improve Your Designs" />
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<h1><span style="font-weight: 400;">Serif Typefaces </span><a id="SerifTypefaces"></a></h1>
 <p><span style="font-weight: 400;">Serif Typefaces are letterforms with small lines or strokes, or “serifs,” attached at the end of larger strokes. Serif typefaces originated from inscriptional lettering: Words were first painted with a brush, then carved into stones in Roman antiquity. Serifs are classified into several smaller categories: <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/">Old Style, Transitional, Modern, and Slab Serif.</a></span></p>
 <figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/20/serifSanserif.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/20/responsive/serifSanserif-xs.png 300w ,https://typogram.co/blog/media/posts/20/responsive/serifSanserif-sm.png 480w ,https://typogram.co/blog/media/posts/20/responsive/serifSanserif-md.png 768w ,https://typogram.co/blog/media/posts/20/responsive/serifSanserif-lg.png 1024w"  alt="serif vs sans serif" width="2184" height="1142"></figure>
 <figcaption >Serif vs Sans Serif Typefaces</figcaption>
@@ -141,16 +145,16 @@
         <id>https://typogram.co/blog/essential-terms-you-must-know-about-typography/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-05-31T17:45:23-04:00</updated>
+        <updated>2022-06-06T00:11:21-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
+                        <img src="https://typogram.co/blog/media/posts/16/typographyGlossary_cover-2.png" alt="essential terms you must know about typography" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/16/typographyGlossary_cover.png" alt="essential terms you must know about typography" />
+                    <img src="https://typogram.co/blog/media/posts/16/typographyGlossary_cover-2.png" alt="essential terms you must know about typography" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
