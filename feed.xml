@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-06-08T19:33:38-04:00</updated>
+    <updated>2022-06-08T19:42:24-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-06-08T19:33:38-04:00</updated>
+        <updated>2022-06-08T19:42:24-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover-2.png" alt="Common Serifs Styles You Must Know to Improve Your Designs" />
@@ -39,7 +39,7 @@
 </figure>
 <h1> </h1>
 <h1><span style="font-weight: 400;">Old Style Serif</span><a id="OldStyle"></a></h1>
-<p><span style="font-weight: 400;">Old Styles are the earliest serif types. They are characterized by minimal contrast between thick and th<span style="text-decoration: underline;">i</span>n strokes with a left inclining curve axis –– if we trace the thinnest parts of the strokes in letters, we can draw a left-leaning diagonal axis. </span><span style="font-weight: 400;">An example of Old Style Serif is <a href="https://typogram.co/font-discovery/how-to-use-eb-garamond-font.html">EB Garamond.</a></span></p>
+<p><span data-preserver-spaces="true">Old Styles Serifs have minimal contrasts between the width of thick and thin strokes. They also have a left inclining curve axis –– if we trace the thinnest parts of the strokes in letters, we can draw a left-leaning diagonal axis. An example of Old Style Serif is </span><a target="_blank" href="https://typogram.co/font-discovery/how-to-use-eb-garamond-font.html" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">EB Garamond.</span></a></p>
 <div class="blog-jargon-buster-app">
 <div class="upper-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/OldStyle-Upper-2.svg" alt="Old Style Serif"></div>
 <div class="under-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/OldStyle-Under-2.svg" alt="Old Style Serif"></div>
@@ -49,7 +49,7 @@
 </figure>
 <h1> </h1>
 <h1><span style="font-weight: 400;">Transitional Serif</span><a id="Transitional"></a></h1>
-<p><span style="font-weight: 400;">Transitional serif's origin can be traced back to John Baskerville, who developed this style in the mid-18th Century. Stylewise, transitional serifs are in between Old Style and Modern Serifs. In Transitional serifs, the contrast between thick and thin strokes is more pronounced. Sometimes you will see ball terminals and vertical stress. The capital letter R can have a curved tail. An example of Transitional Serif is Times New Roman, which is the default font for many applications.</span></p>
+<p><span style="font-weight: 400;">Transitional serif's origin can be traced back to John Baskerville, who developed this style in the mid-18th Century. Stylewise, Transitional serifs are in between Old Style and Modern Serifs. In Transitional serifs, the contrast between thick and thin strokes is more pronounced. Sometimes you will see ball terminals and vertical stress. The capital letter R can have a curved tail. An example of Transitional Serif is Times New Roman, which is the default font for many applications.</span></p>
 <div class="blog-jargon-buster-app">
 <div class="upper-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/Transitional-Upper-2.svg" alt="Transitional Serif"></div>
 <div class="under-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/Transitional-Under-2.svg" alt="Transitional Serif"></div>
