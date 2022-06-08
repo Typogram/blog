@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-06-08T19:42:24-04:00</updated>
+    <updated>2022-06-08T19:47:12-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-06-08T19:42:24-04:00</updated>
+        <updated>2022-06-08T19:47:12-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover-2.png" alt="Common Serifs Styles You Must Know to Improve Your Designs" />
@@ -33,13 +33,13 @@
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 <h1><span style="font-weight: 400;">Serif Typeface </span><a id="SerifTypeface"></a></h1>
-<p><span style="font-weight: 400;">Serif Typefaces are letterforms with small lines or strokes, or “serifs,” attached at the end of larger strokes. Serif typefaces originated from inscriptional lettering: Words were first painted with a brush, then carved into stones in Roman antiquity. Serifs are classified into several smaller categories: <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/">Old Style, Transitional, Modern, and Slab Serif.</a></span></p>
+<p><span style="font-weight: 400;">Serif typefaces are letterforms with small lines or strokes, or “serifs,” attached at the end of larger strokes. Serif typefaces originated from inscriptional lettering: Words were first painted with a brush, then carved into stones in Roman antiquity. Serifs are classified into several smaller categories: <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/">Old Style, Transitional, Modern, and Slab Serif.</a></span></p>
 <figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/20/serifSanserif.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/20/responsive/serifSanserif-xs.png 300w ,https://typogram.co/blog/media/posts/20/responsive/serifSanserif-sm.png 480w ,https://typogram.co/blog/media/posts/20/responsive/serifSanserif-md.png 768w ,https://typogram.co/blog/media/posts/20/responsive/serifSanserif-lg.png 1024w"  alt="serif vs sans serif" width="2184" height="1142"></figure>
 <figcaption >Serif vs Sans Serif Typefaces</figcaption>
 </figure>
 <h1> </h1>
 <h1><span style="font-weight: 400;">Old Style Serif</span><a id="OldStyle"></a></h1>
-<p><span data-preserver-spaces="true">Old Styles Serifs have minimal contrasts between the width of thick and thin strokes. They also have a left inclining curve axis –– if we trace the thinnest parts of the strokes in letters, we can draw a left-leaning diagonal axis. An example of Old Style Serif is </span><a target="_blank" href="https://typogram.co/font-discovery/how-to-use-eb-garamond-font.html" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">EB Garamond.</span></a></p>
+<p><span data-preserver-spaces="true">Old Styles serifs have minimal contrasts between the width of thick and thin strokes. They also have a left inclining curve axis –– if we trace the thinnest parts of the strokes in letters, we can draw a left-leaning diagonal axis. An example of Old Style serif is </span><a target="_blank" href="https://typogram.co/font-discovery/how-to-use-eb-garamond-font.html" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">EB Garamond.</span></a></p>
 <div class="blog-jargon-buster-app">
 <div class="upper-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/OldStyle-Upper-2.svg" alt="Old Style Serif"></div>
 <div class="under-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/OldStyle-Under-2.svg" alt="Old Style Serif"></div>
@@ -49,7 +49,7 @@
 </figure>
 <h1> </h1>
 <h1><span style="font-weight: 400;">Transitional Serif</span><a id="Transitional"></a></h1>
-<p><span style="font-weight: 400;">Transitional serif's origin can be traced back to John Baskerville, who developed this style in the mid-18th Century. Stylewise, Transitional serifs are in between Old Style and Modern Serifs. In Transitional serifs, the contrast between thick and thin strokes is more pronounced. Sometimes you will see ball terminals and vertical stress. The capital letter R can have a curved tail. An example of Transitional Serif is Times New Roman, which is the default font for many applications.</span></p>
+<p><span style="font-weight: 400;">Transitional serif's origin can be traced back to John Baskerville, who developed this style in the mid-18th Century. Stylewise, Transitional serifs are in between Old Style and Modern serifs. In Transitional serifs, the contrast between thick and thin strokes is more pronounced. Sometimes you will see ball terminals and vertical stress. The capital letter R can have a curved tail. An example of Transitional serif is Times New Roman, which is the default font for many applications.</span></p>
 <div class="blog-jargon-buster-app">
 <div class="upper-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/Transitional-Upper-2.svg" alt="Transitional Serif"></div>
 <div class="under-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/Transitional-Under-2.svg" alt="Transitional Serif"></div>
@@ -69,7 +69,7 @@
 </figure>
 <h1> </h1>
 <h1><span style="font-weight: 400;">Slab Serif</span><a id="Slab"></a></h1>
-<p><span style="font-weight: 400;">In the early 19th Century, slab serifs made their way to adverting posters and headers for magazines, grabbing attention with their thick, block-like serifs. A large and diverse genre, slab serifs can look vastly different from each other. Some can have a more geometric design with minimal stroke-width variation, while others have significant stroke contrasts. An example of Slab Serif is <a href="https://typogram.co/font-discovery/how-to-use-zilla-slab-font.html">Zilla Slab</a>, used in Mozilla's branding.</span></p>
+<p><span style="font-weight: 400;">In the early 19th Century, slab serifs made their way to adverting posters and headers for magazines, grabbing attention with their thick, block-like serifs. A large and diverse genre, slab serifs can look vastly different from each other. Some can have a more geometric design with minimal stroke-width variation, while others have significant stroke contrasts. An example of slab serif is <a href="https://typogram.co/font-discovery/how-to-use-zilla-slab-font.html">Zilla Slab</a>, used in Mozilla's branding.</span></p>
 <div class="blog-jargon-buster-app">
 <div class="upper-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/Slab-Upper-2.svg" alt="Slab Serif"></div>
 <div class="under-wrapper"><img loading="lazy" src="https://typogram.co/blog/media/posts/20/Slab-Under.svg" alt="Slab Serif"></div>
