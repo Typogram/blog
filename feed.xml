@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-06-16T16:22:09-04:00</updated>
+    <updated>2022-06-16T19:34:01-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,17 +18,21 @@
         <id>https://typogram.co/blog/reviewing-instagram-rebrand/</id>
             <category term="Branding"/>
 
-        <updated>2022-06-16T16:22:09-04:00</updated>
+        <updated>2022-06-16T19:34:01-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/22/InstagramRebrandCover5.png" alt="instagram rebrand cover" />
-                    In previous posts, we talked about Facebook's rebranding and the design of&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/22/InstagramRebrandCover5.png" alt="instagram rebrand cover" />
-                <p>In previous posts, we talked about <a href="https://fontdiscovery.typogram.co/p/facebook-rebrand?s=w" target="_blank" rel="noopener noreferrer">Facebook's rebranding</a> and <a href="https://typogram.co/blog/tech-startup-logos/" title="the design of tech logos" target="_blank" rel="noopener noreferrer">the design of tech logos</a>. Just recently, another Meta company, Instagram, rebranded. Let’s dig into Instagram’s brand history and analyze its new rebrand. As always, please let me know what you think!</p>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<p>In previous posts, we talked about <a href="https://fontdiscovery.typogram.co/p/facebook-rebrand?s=w" target="_blank" rel="noopener noreferrer">Facebook's rebranding</a> and <a href="https://typogram.co/blog/tech-startup-logos/" title="the design of tech logos" target="_blank" rel="noopener noreferrer">the design of tech logos</a>. Just recently, another Meta company, Instagram, rebranded. Let’s dig into Instagram’s brand history and analyze its new rebrand. As always, please let me know what you think!</p>
 <h1> </h1>
 <h1 class="header-with-anchor-widget">Instagram’s Brand History</h1>
 <div id="§a-quick-look-into-instagrams-brand-history" class="header-anchor-widget">
@@ -126,7 +130,7 @@
         <id>https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-06-08T19:47:12-04:00</updated>
+        <updated>2022-06-16T19:32:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/20/Part2-Post-Cover-2.png" alt="Common Serifs Styles You Must Know to Improve Your Designs" />
