@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-06-21T21:37:10-04:00</updated>
+    <updated>2022-06-21T22:13:33-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2022-06-21T21:37:10-04:00</updated>
+        <updated>2022-06-21T22:13:33-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/24/cover3.png" alt="" />
@@ -34,7 +34,7 @@
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
 </form><hr>
 <blockquote>
-<p>How is Typogram development going, really?</p>
+<p>How is Typogram development going?</p>
 </blockquote>
 <p>Wenting and I just sent out a build in public update to our preorder customers about Typogram's development. We have been making a lot of progress, and doing a lot of work behind the scene. Going forward, I will report Typogram’s updates and new features monthly! Here are some feature rounds up from recent development of Typogram:</p>
 <h1> </h1>
