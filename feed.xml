@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-05T01:30:42-04:00</updated>
+    <updated>2022-07-05T01:33:27-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,17 +18,21 @@
         <id>https://typogram.co/blog/free-font-resources/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-07-05T01:30:42-04:00</updated>
+        <updated>2022-07-05T01:33:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/21/PlacestoGetFreeFontCover-6.png" alt="What Are Some Places to Get Free Fonts?" />
-                    Designing a font is highly specialized, time-consuming work. Sometimes It can take&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/21/PlacestoGetFreeFontCover-6.png" alt="What Are Some Places to Get Free Fonts?" />
-                <p>Designing a font is highly specialized, time-consuming work. Sometimes It can take years to finish a font. Many hobbyists and professionals put their font designs online. While doing this fosters creativity, not all platforms have quality assurance checks for the fonts uploaded. Therefore, not all free fonts are equal. </p>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<p>Designing a font is highly specialized, time-consuming work. Sometimes It can take years to finish a font. Many hobbyists and professionals put their font designs online. While doing this fosters creativity, not all platforms have quality assurance checks for the fonts uploaded. Therefore, not all free fonts are equal. </p>
 <p>When you search for free fonts from sites like Dafont.com, you might be using unfinished work, so you need to double-check and make sure the font you are thinking of using has all the letters and symbols you need. It is frustrating to create design works with poorly made tools. </p>
 <p>Here are a few platforms that have good selections of quality fonts. We reviewed each resource and wrote additional tips and recommendations. Lastly, an important note about licenses: Similar to a stock photo, each font comes with a license. Always read the license carefully to determine eligibility for usage. </p>
 <hr>
