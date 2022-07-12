@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-11T23:51:58-04:00</updated>
+    <updated>2022-07-11T23:58:44-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-07-11T23:51:58-04:00</updated>
+        <updated>2022-07-11T23:58:44-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
@@ -47,9 +47,10 @@
 	</script>
 </p>
 <h2>Sans Serif </h2>
+<p><a id="SansSerif"></a></p>
 <p><em>Sans </em>means “without.” Sans Serifs were invented long after serifs typefaces, and they do not have serifs extending at the end of strokes. In 1816, William Caslon IV created the first official sans serif typeface, Caslon, for commercial use. Though Caslon didn’t become popular immediately, Sans Serif boomed in popularity decades later. Furthermore, They break down into smaller style categories: Grotesque, Neo Grotesque, Humanist, and Geometric. </p>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-xs.png 300w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-sm.png 480w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-md.png 768w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-lg.png 1024w"  alt="sanserifserif" width="1456" height="761"><figcaption>Sans serif has no serifs</figcaption></figure>
-<h2>Grotesque Sans Serif</h2>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-xs.png 300w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-sm.png 480w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-md.png 768w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-lg.png 1024w"  alt="sanserifserif" width="1456" height="761"><figcaption>Sans serifs have no serifs</figcaption></figure>
+<h2>Grotesque Sans Serif<a id="Grotesque"></a></h2>
 <p><span data-preserver-spaces="true">Grotesque sans serifs were the earliest sans serif, influenced by the Modern style serif. Grotesque sans serif received its name from the Italian word </span><em><span data-preserver-spaces="true">grottesco</span></em><span data-preserver-spaces="true">, meaning “belonging to the cave,” because the idea of not having serif was considered bold, shocking, and ugly at the time. Grotesque sans serif is the first generation of sans serifs, with many weird (wonky) visual traits compared to other sans serifs.</span></p>
 <div class="app">
 <div class="app-wrapper">
@@ -76,16 +77,16 @@
 </div>
 </div>
 </div>
-<h2><span data-preserver-spaces="true">Neo Grotesque Sans Serif</span></h2>
-<p><span data-preserver-spaces="true">Neo Grotesque sans serif is tweaked and evolved version of Grotesque sans serif, first appearing in the mid-twentieth century. Akzidenz-Grotesk, a well-known Neo Grotesque typeface released in 1898, is the best spokesperson for this style, a balancing act of cleanness and calligraphic touch, which many later fonts of this style tried to emulate. </span></p>
+<h2><span data-preserver-spaces="true">Neo-Grotesque Sans Serif</span><a id="NeoGrotesque"></a></h2>
+<p><span data-preserver-spaces="true">Neo-Grotesque sans serif is tweaked and evolved version of Grotesque sans serif, first appearing in the mid-twentieth century. Akzidenz-Grotesk, a well-known Neo-Grotesque typeface released in 1898, is the best spokesperson for this style, a balancing act of cleanness and calligraphic touch, which many later fonts of this style tried to emulate. </span></p>
 <p><span data-preserver-spaces="true">Many of the most popular sans serifs we use presently, like Helvetica, San Francesco, and Roboto, belong to this category.</span></p>
 <div class="app">
 <div class="app-wrapper">
-<h3 class="app-instruction">click to see the difference between groteque and neo-grotesque sans serifs </h3>
+<h3 class="app-instruction">click to see the difference between grotesque and neo-grotesque sans serifs </h3>
 <div id="neoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-show.svg" alt="grotesque hide neo grotesqie" loading="lazy"></figure> <figure class="image-hide hidden neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-hide-edit-final.svg" alt="neo grotesque details" loading="lazy"></figure></div>
 </div>
 </div>
-<h2>Humanist Sans Serif</h2>
+<h2>Humanist Sans Serif<a id="Humanist"></a></h2>
 <p>Humanist sans serif takes inspiration from traditional letterforms. Because of this, you can often find calligraphic elements, such as stroke variation, and more organic structural elements, like a double-story lowercase “a” or “g” in Humanist sans serifs.</p>
 <div class="app">
 <div class="app-wrapper">
@@ -113,6 +114,7 @@
 </div>
 </div>
 <h2>Geometric Sans Serif</h2>
+<p><a id="Geometric"></a></p>
 <p>The letter shapes of Geometric sans serifs are derived from geometric shapes like circles, rectangles, or triangles. In most Geometric sans serifs, the letter strokes have very little contrast. Because they often appear bold (due to their strokes), more angular, and shapely, Geometric sans serifs are often considered avant-garde.</p>
 <div class="app">
 <div class="app-wrapper">
