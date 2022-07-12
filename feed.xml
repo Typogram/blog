@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-12T00:55:04-04:00</updated>
+    <updated>2022-07-12T13:01:55-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-07-11T23:58:44-04:00</updated>
+        <updated>2022-07-12T13:01:55-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
@@ -40,7 +40,7 @@
 			link.id = cssId;
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1657578638/typogram-blog/TypographyGlossary/jargon-buster-part3/style_v6lxmd.css';
+			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1657644971/typogram-blog/TypographyGlossary/jargon-buster-part3/style_qcksvz.css';
 			link.media = 'all';
 			head.appendChild(link);
 		}
