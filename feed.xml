@@ -3,12 +3,147 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-05T01:33:27-04:00</updated>
+    <updated>2022-07-11T23:51:58-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Sans Serifs Classifications You Must Know to Improve Your Designs</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/different-types-of-sans-serifs/"/>
+        <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
+            <category term="Typography &amp; Fonts"/>
+
+        <updated>2022-07-11T23:51:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
+                    A Word about Sans Serifs &amp; Their Classifications Due to their simplistic&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
+                <h1>A Word about Sans Serifs &amp; Their Classifications </h1>
+<p> </p>
+<p><span data-preserver-spaces="true">Due to their simplistic appearances often devoid of fancy flourishes, sans serifs are considered bold and modern. We have talked about them in our post about </span><a target="_blank" href="https://typogram.co/blog/luxury-brand-logos/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">luxury</span></a><span data-preserver-spaces="true"> and </span><a target="_blank" href="https://typogram.co/blog/tech-startup-logos/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">tech brands</span></a><span data-preserver-spaces="true">. They are seen in many brands looking to appear artsy, creative, and contemporary.</span></p>
+<p>
+<script>
+		let cssId = 'myCss';
+		if (!document.getElementById(cssId)) {
+			var head = document.getElementsByTagName('head')[0];
+			var link = document.createElement('link');
+			link.id = cssId;
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1657578638/typogram-blog/TypographyGlossary/jargon-buster-part3/style_v6lxmd.css';
+			link.media = 'all';
+			head.appendChild(link);
+		}
+	</script>
+</p>
+<h2>Sans Serif </h2>
+<p><em>Sans </em>means “without.” Sans Serifs were invented long after serifs typefaces, and they do not have serifs extending at the end of strokes. In 1816, William Caslon IV created the first official sans serif typeface, Caslon, for commercial use. Though Caslon didn’t become popular immediately, Sans Serif boomed in popularity decades later. Furthermore, They break down into smaller style categories: Grotesque, Neo Grotesque, Humanist, and Geometric. </p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-xs.png 300w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-sm.png 480w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-md.png 768w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-lg.png 1024w"  alt="sanserifserif" width="1456" height="761"><figcaption>Sans serif has no serifs</figcaption></figure>
+<h2>Grotesque Sans Serif</h2>
+<p><span data-preserver-spaces="true">Grotesque sans serifs were the earliest sans serif, influenced by the Modern style serif. Grotesque sans serif received its name from the Italian word </span><em><span data-preserver-spaces="true">grottesco</span></em><span data-preserver-spaces="true">, meaning “belonging to the cave,” because the idea of not having serif was considered bold, shocking, and ugly at the time. Grotesque sans serif is the first generation of sans serifs, with many weird (wonky) visual traits compared to other sans serifs.</span></p>
+<div class="app">
+<div class="app-wrapper">
+<div class="w-layout-grid app-grid">
+<div id="w-node-_767076cf-5bf6-f629-4714-154ef7927ec5-89d21332">
+<h3 class="app-instruction">Reference Sans Serif: Libre Franklin</h3>
+<div class="w-layout-grid ui-grid">
+<div class="image-container">
+<div class="w-embed"> </div>
+<div class="letter-reference outline-text">g</div>
+<div class="w-layout-grid letter-grid">
+<div id="w-node-_4d86cd19-0960-4c4c-4f80-920ae7c64db8-89d21332" class="letter-x-height"></div>
+<div id="w-node-b315f288-29b8-4390-7830-458c9f5e5a55-89d21332" class="div"></div>
+<div id="w-node-_24b4d289-7f27-e034-169f-aa5e20355b89-89d21332" class="div"></div>
+<div id="w-node-_14a92547-8e15-7f51-f03b-2cffa76ef4bb-89d21332" class="letter-baseline"></div>
+</div>
+</div>
+<div id="wonk" class="sans-button-container sans-buttons-ui"><a class="sans-button "><span class="ui-text">See the wonky!</span></a></div>
+</div>
+</div>
+<div>
+<div class="letter-preview"><figure class="image-show wonk"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview_geotesque.svg" alt="grotesque hide" loading="lazy"></figure> <figure class="image-hide hidden wonk"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview_geotesque-wonk-final-2.svg" alt="grotesque wonk" loading="lazy"></figure></div>
+</div>
+</div>
+</div>
+</div>
+<h2><span data-preserver-spaces="true">Neo Grotesque Sans Serif</span></h2>
+<p><span data-preserver-spaces="true">Neo Grotesque sans serif is tweaked and evolved version of Grotesque sans serif, first appearing in the mid-twentieth century. Akzidenz-Grotesk, a well-known Neo Grotesque typeface released in 1898, is the best spokesperson for this style, a balancing act of cleanness and calligraphic touch, which many later fonts of this style tried to emulate. </span></p>
+<p><span data-preserver-spaces="true">Many of the most popular sans serifs we use presently, like Helvetica, San Francesco, and Roboto, belong to this category.</span></p>
+<div class="app">
+<div class="app-wrapper">
+<h3 class="app-instruction">click to see the difference between groteque and neo-grotesque sans serifs </h3>
+<div id="neoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-show.svg" alt="grotesque hide neo grotesqie" loading="lazy"></figure> <figure class="image-hide hidden neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-hide-edit-final.svg" alt="neo grotesque details" loading="lazy"></figure></div>
+</div>
+</div>
+<h2>Humanist Sans Serif</h2>
+<p>Humanist sans serif takes inspiration from traditional letterforms. Because of this, you can often find calligraphic elements, such as stroke variation, and more organic structural elements, like a double-story lowercase “a” or “g” in Humanist sans serifs.</p>
+<div class="app">
+<div class="app-wrapper">
+<div class="w-layout-grid app-grid">
+<div id="w-node-_767076cf-5bf6-f629-4714-154ef7927ec5-89d21332">
+<h3 class="app-instruction">Reference Serif: EB Garamond</h3>
+<div class="w-layout-grid ui-grid">
+<div class="image-container">
+<div class="w-embed"> </div>
+<div class="humanist letter-reference outline-text">g</div>
+<div class="w-layout-grid letter-grid">
+<div id="w-node-_4d86cd19-0960-4c4c-4f80-920ae7c64db8-89d21332" class="letter-x-height"></div>
+<div id="w-node-b315f288-29b8-4390-7830-458c9f5e5a55-89d21332" class="div"></div>
+<div id="w-node-_24b4d289-7f27-e034-169f-aa5e20355b89-89d21332" class="div"></div>
+<div id="w-node-_14a92547-8e15-7f51-f03b-2cffa76ef4bb-89d21332" class="letter-baseline"></div>
+</div>
+</div>
+<div id="humanistSans" class="sans-button-container sans-buttons-ui"><a class="sans-button "><span class="ui-text">See calligraphic influence!</span></a></div>
+</div>
+</div>
+<div>
+<div class="letter-preview"><figure class="image-show humanistSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-hum-2.svg" alt="humanist" loading="lazy"></figure> <figure class="image-hide hidden humanistSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-cal.svg" alt="humanist calligraphy influence" loading="lazy"></figure></div>
+</div>
+</div>
+</div>
+</div>
+<h2>Geometric Sans Serif</h2>
+<p>The letter shapes of Geometric sans serifs are derived from geometric shapes like circles, rectangles, or triangles. In most Geometric sans serifs, the letter strokes have very little contrast. Because they often appear bold (due to their strokes), more angular, and shapely, Geometric sans serifs are often considered avant-garde.</p>
+<div class="app">
+<div class="app-wrapper">
+<h3 class="app-instruction">click to see geometric influence</h3>
+<div id="geoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-show.svg" alt="geometric sans serif" loading="lazy"></figure> <figure class="image-hide hidden geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-hide.svg" alt="geometric sans serif shapes" loading="lazy"></figure></div>
+</div>
+</div>
+<p>
+<script>
+		let sansButtons = document.getElementsByClassName("sans-buttons-ui");
+
+		for (button = 0; button < sansButtons.length; button++) {
+			sansButtons[button].addEventListener("click", function() {
+				let showImg = document.getElementsByClassName("image-show " + this.id)[0];
+				let hideImg = document.getElementsByClassName("image-hide hidden " + this.id)[0];
+				if (showImg.style.display != "none") {
+					showImg.style.display = "none";
+					hideImg.style.display = "block";
+					this.style.backgroundColor = "#6899BF";
+				} else {
+					showImg.style.display = "block";
+					hideImg.style.display = "none";
+					this.style.backgroundColor = "#1a4a72";
+				}
+			})
+		}
+	</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What Are Some Places to Get Free Fonts?</title>
         <author>
@@ -871,94 +1006,6 @@
 <li>Are you a Blogger? Maybe we can do a guest blog? </li>
 <li>Thank you so much! It means a lot to small indie business owners like us!</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Create a Stellar Pitch Presentation with These Five Tips</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/blog/business-pitch-presentation-design-tips/"/>
-        <id>https://typogram.co/blog/business-pitch-presentation-design-tips/</id>
-            <category term="Branding"/>
-
-        <updated>2022-04-07T22:04:50-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
-                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/8/new_blogPost5PresentationCover.png" alt="" />
-                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
-</form><hr>
-
-<h1 id="presentation-counts">Presentation Counts</h1>
-<p>There are many types of presentations. This article primarily addresses pitch presentations since there is a significant focus on storytelling. The tips here can be helpful for other types of presentations as well. Consistent design and compelling storytelling can play a huge role in creating a powerful presentation.</p>
-<p><strong>These five rules can be good starting points:</strong></p>
-<ol>
-<li>Use images to tells a story</li>
-<li>Use appropriate fonts</li>
-<li>Add white space and be concise</li>
-<li>Use scale to help with delivery</li>
-<li>Create lasting impression by being consistent visually</li>
-</ol>
-<p><strong>Remember, presentation is storytelling. When you design a presentation, you are using visual language as a tool to tell the story.</strong></p>
-<hr>
-<h1 id="use-images-to-tells-a-story">Use images to tells a story</h1>
-<p>A picture is worth a thousand words. Ask yourself these questions: </p>
-<ul>
-<li>What is the story of your presentation?</li>
-<li>What message or emotion do you want to leave the audience with?</li>
-<li>How can this specific slide help you in getting that message across?</li>
-<li>How can the image on that particular slide maximize this role?</li>
-</ul>
-<p>Once you figure out these questions, start searching for images. images that tell story about processes, illustrate pivotal moments, and associate with specific emotions are particularly helpful to presentations. If you want to learn more about how to visualize ideas, check out this <a href="https://www.typogram.co/blog/small-business-marketing-ideas/">post</a>.</p>
-<p>A good tactic is using full bleed (edge to edge) images to illustrating pivotal moments, visions, impressive examples. It is more effective if the images are in high resolution.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation1-lg.png 1024w"  alt="leftCentervsFullBleed" width="2024" height="1012" /></figure></p>
-<p>img: left- centered image on a slide; right- full bleed image. The full bleed image on the right will usually work better than on the left. It pulls in the audience a lot more since it is bigger in scale.</p>
-<hr>
-<h1 id="use-appropriate-fonts">Use appropriate fonts</h1>
-<p>If you have a brand typography system, this can be an excellent place to use it. If you don’t know what font to use, choose Helvetica or a neutral serif, like <a href="https://fontdiscovery.typogram.co/p/fontdiscovery-13-plex-a-font-family">Plex Sans</a> or <a href="https://fontdiscovery.typogram.co/p/fow-no4-libre-franklin-a-versatile?s=w">Libre Franklin</a>.</p>
-<p>When you do a presentation, you want people to take you seriously. Display fonts generally are too decorative and distracting to use in a formal setting. You probably want to save your scripts and handwriting fonts for the presentation most of the time.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation2-lg.png 1024w"  alt="appropriateFont" width="2024" height="1012" /></figure></p>
-<p>img: left- handwriting font is not appropriate for formal presentation. right- a fairly neutral sans serif is better suited and more clear.</p>
-<hr>
-<h1 id="improve-readability-by-adding-white-space">Improve readability by adding white space</h1>
-<p>When you are creating a presentation, you are presenting a body of information clearly to your audience. An effective presentation is concise. This means shorter sentences, less text, and more white space. Considering adding space:</p>
-<ul>
-<li>Between lines of text</li>
-<li>Between bullet point and text</li>
-<li>Between bullet point and bullet point</li>
-</ul>
-<p>If your text can breathe, the reader’s eyes can breathe.</p>
-<p>If a reader’s eyes can breathe, they will have an easier time understand and remember your story.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation3-lg.png 1024w"  alt="InformationWhitespace" width="2024" height="1012" /></figure></p>
-<p>img: left- too much information and overcrowding. right- concise information with lots of white space create better readability.</p>
-<hr>
-<h1 id="use-scale-to-help-with-delivery">Use scale to help with delivery</h1>
-<p>Scale is one of the most effective tools you can use to create dramatic visual imageries. If you want to emphasize a statement, consider making the sentence bigger on a separate slide because this creates anticipation and grabs attention. It is like a punch line.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/8/blogPost5Presentation4.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-xs.png 300w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-sm.png 480w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-md.png 768w ,https://typogram.co/blog/media/posts/8/responsive/blogPost5Presentation4-lg.png 1024w"  alt="typographyHierachy" width="2024" height="1012" /></figure></p>
-<p>img: bigger text feels more impactful to audience.</p>
-<hr>
-<h1 id="create-lasting-impression-by-being-consistent-visually">Create lasting impression by being consistent visually</h1>
-<p>In the end, your presentation is a visual document that tells a story about your ideas. The way it looks is the method you use to tell the story.</p>
-<p>When I make a presentation, I try to be consistent with how I show(design) the information on each slide. This means:</p>
-<ul>
-<li>Use the same fonts for header and body texts.</li>
-<li>Keep the spacing between texts consistent.</li>
-<li>Keep track of all the different sizes of text you are using and stay consistent with text sizes between different levels of information.</li>
-</ul>
-<p>Consistency will erase lots of needless frictions in your presentation, which will create more effective, straightforward storytelling.</p>
-<hr>
-<h1 id="phew-that-was-it">Phew. That was it.</h1>
-<p>I hope this is helpful if you need to fundraise, or create presentations for work. Presentation is storytelling. If you master this well, it is a powerful skill that translates into many other areas.</p>
-
             ]]>
         </content>
     </entry>
