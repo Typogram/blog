@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-12T13:01:55-04:00</updated>
+    <updated>2022-07-19T21:56:35-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-07-12T13:01:55-04:00</updated>
+        <updated>2022-07-19T21:56:35-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
@@ -40,14 +40,13 @@
 			link.id = cssId;
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1657644971/typogram-blog/TypographyGlossary/jargon-buster-part3/style_qcksvz.css';
+			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1658282019/typogram-blog/TypographyGlossary/jargon-buster-part3/style-1_lxtgwv.css';
 			link.media = 'all';
 			head.appendChild(link);
 		}
 	</script>
 </p>
-<h2>Sans Serif </h2>
-<p><a id="SansSerif"></a></p>
+<h2>Sans Serif<a id="SansSerif"></a></h2>
 <p><em>Sans </em>means “without.” Sans Serifs were invented long after serifs typefaces, and they do not have serifs extending at the end of strokes. In 1816, William Caslon IV created the first official sans serif typeface, Caslon, for commercial use. Though Caslon didn’t become popular immediately, Sans Serif boomed in popularity decades later. Furthermore, They break down into smaller style categories: Grotesque, Neo Grotesque, Humanist, and Geometric. </p>
 <figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-xs.png 300w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-sm.png 480w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-md.png 768w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-lg.png 1024w"  alt="sanserifserif" width="1456" height="761"><figcaption>Sans serifs have no serifs</figcaption></figure>
 <h2>Grotesque Sans Serif<a id="Grotesque"></a></h2>
@@ -119,7 +118,7 @@
 <div class="app">
 <div class="app-wrapper">
 <h3 class="app-instruction">click to see geometric influence</h3>
-<div id="geoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-show.svg" alt="geometric sans serif" loading="lazy"></figure> <figure class="image-hide hidden geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-hide.svg" alt="geometric sans serif shapes" loading="lazy"></figure></div>
+<div id="geoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-show.svg" alt="geometric sans serif" loading="lazy"></figure><figure class="image-hide hidden geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-hide.svg" alt="geometric sans serif shapes" loading="lazy"></figure></div>
 </div>
 </div>
 <p>
