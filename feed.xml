@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-19T21:56:35-04:00</updated>
+    <updated>2022-07-19T22:37:31-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-07-19T21:56:35-04:00</updated>
+        <updated>2022-07-19T22:37:31-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
@@ -40,7 +40,7 @@
 			link.id = cssId;
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1658282019/typogram-blog/TypographyGlossary/jargon-buster-part3/style-1_lxtgwv.css';
+			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1658283158/typogram-blog/TypographyGlossary/jargon-buster-part3/style-1_swhgti.css';
 			link.media = 'all';
 			head.appendChild(link);
 		}
@@ -82,7 +82,7 @@
 <div class="app">
 <div class="app-wrapper">
 <h3 class="app-instruction">click to see the difference between grotesque and neo-grotesque sans serifs </h3>
-<div id="neoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-show.svg" alt="grotesque hide neo grotesqie" loading="lazy"></figure> <figure class="image-hide hidden neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-hide-edit-final.svg" alt="neo grotesque details" loading="lazy"></figure></div>
+<div id="neoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-show.svg" alt="grotesque hide neo grotesqie" loading="lazy"></figure> <figure class="image-hide hidden neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-hide-final-2.svg" alt="neo-grotesque-show"></figure></div>
 </div>
 </div>
 <h2>Humanist Sans Serif<a id="Humanist"></a></h2>
@@ -112,8 +112,7 @@
 </div>
 </div>
 </div>
-<h2>Geometric Sans Serif</h2>
-<p><a id="Geometric"></a></p>
+<h2>Geometric Sans Serif<a id="Geometric"></a></h2>
 <p>The letter shapes of Geometric sans serifs are derived from geometric shapes like circles, rectangles, or triangles. In most Geometric sans serifs, the letter strokes have very little contrast. Because they often appear bold (due to their strokes), more angular, and shapely, Geometric sans serifs are often considered avant-garde.</p>
 <div class="app">
 <div class="app-wrapper">
