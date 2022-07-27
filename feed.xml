@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-26T22:27:42-04:00</updated>
+    <updated>2022-07-26T22:31:18-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,17 +19,21 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2022-07-26T22:27:42-04:00</updated>
+        <updated>2022-07-26T22:31:18-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/29/lessons1Watercolor_startup_cover_5.png" alt="" />
-                    All you need to paint is a few tools, a little instruction,&hellip;
+                        <img src="https://typogram.co/blog/media/posts/29/lessons1Watercolor_startup_cover_5.png" alt="Watercolor oriole" />
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/29/lessons1Watercolor_startup_cover_5.png" alt="" />
-                <blockquote>
+                    <img src="https://typogram.co/blog/media/posts/29/lessons1Watercolor_startup_cover_5.png" alt="Watercolor oriole" />
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<blockquote>
 <h2>All you need to paint is a few tools, a little instruction, and a vision in your mind.</h2>
 <h2>– Bob Ross</h2>
 </blockquote>
@@ -87,17 +91,21 @@
         <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2022-07-19T22:39:41-04:00</updated>
+        <updated>2022-07-26T22:30:57-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
-                    A Word About Sans Serifs &amp; Their Classifications Due to their simplistic&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
-                <h1>A Word About Sans Serifs &amp; Their Classifications </h1>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<h1>A Word About Sans Serifs &amp; Their Classifications </h1>
 <p> </p>
 <p><span data-preserver-spaces="true">Due to their simplistic appearances often devoid of fancy flourishes, sans serifs are considered bold and modern. We have talked about them in our post about </span><a target="_blank" href="https://typogram.co/blog/luxury-brand-logos/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">luxury</span></a><span data-preserver-spaces="true"> and </span><a target="_blank" href="https://typogram.co/blog/tech-startup-logos/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">tech brands</span></a><span data-preserver-spaces="true">. They are seen in many brands looking to appear artsy, creative, and contemporary.</span></p>
 <p>
