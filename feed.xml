@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-07-27T21:29:22-04:00</updated>
+    <updated>2022-07-27T21:34:52-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,17 +19,21 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2022-07-27T21:29:22-04:00</updated>
+        <updated>2022-07-27T21:34:52-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/30/julyUpdateCover.png" alt="" />
-                    How is Typogram development going? We recently sent out our July build&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/30/julyUpdateCover.png" alt="" />
-                <blockquote>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<blockquote>
 <p>How is Typogram development going?</p>
 </blockquote>
 <p>We recently sent out our July build in public update to our preorder customers about Typogram's development. <span style="font-weight: 400;">We have been busy building Typogram. Here are the features we have been working for July. Missed the previous updates? See</span> <a href="https://typogram.co/blog/typogram-product-update-june-2022/"><span style="font-weight: 400;">June</span></a><span style="font-weight: 400;"> here.</span></p>
