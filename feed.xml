@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-10-03T18:01:36-04:00</updated>
+    <updated>2022-10-03T18:05:25-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,16 +19,16 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2022-10-03T18:01:36-04:00</updated>
+        <updated>2022-10-03T18:05:25-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/34/cover.png" alt="Typogram Product Update September" />
+                        <img src="https://typogram.co/blog/media/posts/34/cover_b.png" alt="Typogram Product Update September" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/34/cover.png" alt="Typogram Product Update September" />
+                    <img src="https://typogram.co/blog/media/posts/34/cover_b.png" alt="Typogram Product Update September" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
