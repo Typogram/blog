@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2022-10-03T16:44:46-04:00</updated>
+    <updated>2022-10-03T16:48:41-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://typogram.co/blog/on-adobe-acquiring-figma/</id>
             <category term="Startups"/>
 
-        <updated>2022-10-03T16:44:46-04:00</updated>
+        <updated>2022-10-03T16:48:41-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/33/Cover.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/33/Cover-2.png" alt="On Adobe Acquiring Figma" />
                     If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/33/Cover.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/33/Cover-2.png" alt="On Adobe Acquiring Figma" />
                 <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
 <p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
