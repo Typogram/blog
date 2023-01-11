@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://typogram.co/blog/typogram-product-updates-no7/",
+            "url": "https://typogram.co/blog/typogram-product-updates-no7/",
+            "title": "Typogram Product Updates, No.7",
+            "summary": "If you enjoyed this post, subscribe to get updates from our blog!&hellip;",
+            "content_html": "<form action=\"https://buttondown.email/api/emails/embed-subscribe/typogramco\" method=\"post\" target=\"popupwindow\">\n<p align=\"center\"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>\n<p align=\"center\"><input id=\"bd-email\" class=\"bd-email\" name=\"email\" type=\"email\" placeholder=\"Enter your email\"> <input class=\"bd-submit\" type=\"submit\" value=\"Subscribe\"></p>\n</form><hr>\n\n<blockquote>How is Typogram development going?</blockquote>\n\n<p>We have been busy building our favorite logo design tool. Here is what we have been working for the last month. (Missed the previous updates? See our <a href=\"https://typogram.co/blog/typogram-product-updates-no6/\">previous update</a> and our archive <a href=\"https://typogram.co/blog/tags/inside-typogram/\">here</a>)</p>\n<hr>\n<h1 id=\"a-preview-of-whats-to-come\">A Preview of What’s to Come</h1>\n<p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>\n<h2 id=\"add-project-and-redeem-license-code\">Add Project and Redeem License Code</h2>\n<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href=\"mailto:&#x68;&#x75;&#97;&#64;&#x74;&#x79;&#112;&#111;&#x67;&#114;&#97;&#x6d;&#x2e;&#x63;&#111;\">&#x68;&#x75;&#97;&#64;&#x74;&#x79;&#112;&#111;&#x67;&#114;&#97;&#x6d;&#x2e;&#x63;&#111;</a>, and she will locate and send you your code.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif\" alt=\"Add Project and Redeem License Code\" width=\"1440\" height=\"900\" /></figure></p>\n<figcaption align = \"center\">Add project and redeem license code</figcaption>\n\n<h2 id=\"open-project-and-select-brand-personalities\">Open Project and Select Brand Personalities</h2>\n<p>Click anywhere on the project card to open the project, and start your branding process by selecting brand personalities:</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/37/2.-Open-Project-and-Select-Brand-Personalities.gif\" alt=\"Open project and select brand personalities\" width=\"1440\" height=\"900\" /></figure></p>\n<figcaption align = \"center\">Open project and select brand personalities</figcaption>\n\n<h2 id=\"select-brand-color-and-logo-typefaces\">Select Brand Color And Logo Typefaces</h2>\n<p>Select brand color and logo typefaces easily. We included color tips and curated logo typefaces to help you make your selections when you design. You can find more details of brand color features on our <a href=\"https://typogram.co/blog/typogram-product-update-no5/\">Typogram Product Update, No.5</a>.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/37/3.-Select-Brand-Colors.gif\" alt=\"Select brand color and logo typefaces\" width=\"1440\" height=\"900\" /></figure></p>\n<figcaption align = \"center\">Select brand color and logo typefaces</figcaption>\n\n<h2 id=\"select-logo-typefaces\">Select Logo Typefaces</h2>\n<p>Informed by your chosen brand personality, we have curated a list of typefaces that fits your brands. You can also turn on additional brand personality to broaden your choices.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/37/4.-Select-Logo-Typefaces.gif\" alt=\"Select logo typefaces\" width=\"1440\" height=\"900\" /></figure></p>\n<figcaption align = \"center\">Select logo typefaces</figcaption>\n\n<h2 id=\"design-logo\">Design Logo</h2>\n<p>Once you have selected your brand color and logo typeface, you can access your chosen color in the color palette and start designing your logo. The “kerning” feature also helps you fine-tune the space between letters to create more polished designs. We went through a simple design case here to save time, but logo editing has many more features. You can find more details about them in <a href=\"https://typogram.co/blog/typogram-product-update-june-2022/\">Typogram Product Update, No.1</a>.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/37/5.-Design-Logo.gif\" alt=\"Design logo\" width=\"1440\" height=\"900\" /></figure></p>\n<figcaption align = \"center\">Design logo</figcaption>\n\n<h2 id=\"select-typography-systems-and-publish-guidelines\">Select Typography Systems and Publish Guidelines</h2>\n<p>After designing the logo, you can select your Typography System for marketing and create a sharable brand guideline. As we shared <a href=\"https://typogram.co/blog/typogram-product-updates-no6/\">previously</a>, we have completely revamped the band guideline, including features like additional shades and incorrect logo usage examples.</p>\n<p><figure class=\"post__image\"><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/37/6-small.-Select-Typography-Systems-and-Publish-Guidelines.gif\" alt=\"Select typography systems and publish guidelines\" width=\"1440\" height=\"900\" /></figure></p>\n<figcaption align = \"center\">Select typography systems and publish guidelines</figcaption>\n\n<p>And that’s it! We’ll be sending out a launch announcement in a couple of weeks! We are nervous and excited and can’t wait to hear your feedback. </p>\n",
+            "image": "https://typogram.co/blog/media/posts/37/cover-JanUpdate.png",
+            "author": {
+                "name": "Wenting Zhang"
+            },
+            "tags": [
+                   "Startups",
+                   "Inside Typogram"
+            ],
+            "date_published": "2023-01-11T14:10:58-05:00",
+            "date_modified": "2023-01-11T14:37:08-05:00"
+        },
+        {
             "id": "https://typogram.co/blog/typogram-product-updates-no6/",
             "url": "https://typogram.co/blog/typogram-product-updates-no6/",
             "title": "Typogram Product Updates, No.6",
@@ -25,7 +42,7 @@
                    "Inside Typogram"
             ],
             "date_published": "2022-12-07T18:04:01-05:00",
-            "date_modified": "2022-12-07T19:38:15-05:00"
+            "date_modified": "2023-01-11T14:34:01-05:00"
         },
         {
             "id": "https://typogram.co/blog/typogram-product-update-no5/",
@@ -42,7 +59,7 @@
                    "Inside Typogram"
             ],
             "date_published": "2022-11-01T17:38:28-04:00",
-            "date_modified": "2022-12-07T18:50:20-05:00"
+            "date_modified": "2023-01-11T14:37:04-05:00"
         },
         {
             "id": "https://typogram.co/blog/on-adobe-acquiring-figma/",
@@ -158,23 +175,6 @@
             ],
             "date_published": "2022-07-04T23:26:14-04:00",
             "date_modified": "2022-07-12T00:55:04-04:00"
-        },
-        {
-            "id": "https://typogram.co/blog/typogram-product-update-june-2022/",
-            "url": "https://typogram.co/blog/typogram-product-update-june-2022/",
-            "title": "Typogram Product Update, No.1",
-            "summary": "If you enjoyed this post, subscribe to get updates from our blog!&hellip;",
-            "content_html": "<form action=\"https://buttondown.email/api/emails/embed-subscribe/typogramco\" method=\"post\" target=\"popupwindow\">\n<p align=\"center\"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>\n<p align=\"center\"><input id=\"bd-email\" class=\"bd-email\" name=\"email\" type=\"email\" placeholder=\"Enter your email\"> <input class=\"bd-submit\" type=\"submit\" value=\"Subscribe\"></p>\n</form><hr>\n<blockquote>\n<p>How is Typogram development going?</p>\n</blockquote>\n<p>Wenting and I just sent out a build in public update to our preorder customers about Typogram's development. We have been making a lot of progress, and doing a lot of work behind the scene. Going forward, I will report Typogram’s updates and new features monthly! Here are some feature rounds up from recent development of Typogram:</p>\n<h1> </h1>\n<h1>Recent Development of Typogram </h1>\n<h2> </h2>\n<h2 class=\"header-with-anchor-widget\">Multiple Canvases</h2>\n<p>Having options is good - when I design or write, I like to keep records of all the past versions. This is what the multiple canvases feature does - it allows you to save versions of your design to a new art board and keep editing them and developing them into new directions. Multiple canvases are handy to develop different ideas and compare them in the end. </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/24//Multiple-Canvases_resize-900-s.gif\" alt=\"multiple canvas feature\" width=\"900\" height=\"544\">\n<figcaption ><span style=\"font-weight: 400;\">multiple canvases allow you to save, edit, and compare your artwork</span></figcaption>\n</figure>\n<h2 class=\"header-with-anchor-widget\">Kerning</h2>\n<p>Our kerning feature allows you to adjust the space between letters and work on those design details in your logos. In design, kerning describes the space between a pair of letters. For logos especially, spaces between specific letter pairs need adjustments to look visually balanced. </p>\n<p>We support keyboard shortcuts to navigate between letter gaps and adjust them up and down using arrow keys. To discern the negative space between letters, sometimes it is better if we don’t read them as letters, instead we see them simply as shapes; that is why we add features to flip the letters upside down and highlight the gap with light blue color, to aid the kerning process. </p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/24//KerningFeature-resize-900-s-2.gif\" alt=\"\" width=\"900\" height=\"750\">\n<figcaption ><span style=\"font-weight: 400;\">kerning feature allow you to adjust and fine tune spaces between letters</span></figcaption>\n</figure>\n<h2 class=\"header-with-anchor-widget\">Hear from You</h2>\n<p>We are also working on our preparatory variable icon, looking forward to share more details about that soon. Meanwhile, enjoy the rest of your June! If you have any questions, suggestion or feedback, feel free to share with me at <a href=\"mailto:hua@typogram.co\">hua@typogram.co</a>!</p>",
-            "image": "https://typogram.co/blog/media/posts/24/cover3.png",
-            "author": {
-                "name": "Wenting Zhang"
-            },
-            "tags": [
-                   "Startups",
-                   "Inside Typogram"
-            ],
-            "date_published": "2022-06-21T19:30:42-04:00",
-            "date_modified": "2022-07-27T17:03:52-04:00"
         }
     ]
 }
