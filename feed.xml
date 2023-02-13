@@ -3,12 +3,73 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-01-30T23:25:00-05:00</updated>
+    <updated>2023-02-13T16:09:02-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Type Detail Terms You Must Know to Improve Your Designs</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/type-details-terms-you-must-know-to-improve-your-designs/"/>
+        <id>https://typogram.co/blog/type-details-terms-you-must-know-to-improve-your-designs/</id>
+            <category term="Typography &amp; Fonts"/>
+
+        <updated>2023-02-13T16:09:02-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/40/typeDetailsCover-2.png" alt="" />
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/blog/media/posts/40/typeDetailsCover-2.png" alt="" />
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<p><span style="font-weight: 400;">We are continuing our <em>Typography Jargon Buster</em> series! This time, we go over specific terms describing details and constructions of letters. These details are the visual elements that make fonts different from each other and communicate different meanings. Want more? Check out <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/"><em>Essential Typography Terms</em></a>, <em><a href="https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/">Serif</a></em>, and <em><a href="https://typogram.co/blog/different-types-of-sans-serifs/">Sans Serifs Classifications You Must Know.</a></em></span></p>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Ascender</span><a id="Ascender"></a></h1>
+<p><span style="font-weight: 400;">An ascender is a vertical stroke of a lowercase letter extending upwards, beyond the x-height, sometimes beyond the cap height. For example, “h” is a lowercase letter with an ascender. In general, typefaces having long ascenders and descenders help with readability. Long ascenders help make a lowercase more distinguishable as long as the other parts of the letters are legible.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/ascender-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/ascender-3-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/ascender-3-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/ascender-3-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/ascender-3-lg.png 1024w"  alt="Ascender" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Baseline</span><a id="Baseline"></a></h1>
+<p><span style="font-weight: 400;">The baseline is the horizon line (sometimes invisible) on which the letters sit. In most typefaces, curved letters, like “O,” “e,” and “s,” sit slightly below the baseline to create optical balance and alignment with other letters. Letters with descenders like “p” and “q” extend below the baseline.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/baseline-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/baseline-3-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/baseline-3-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/baseline-3-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/baseline-3-lg.png 1024w"  alt="Baseline" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Bracket</span><a id="Bracket"></a></h1>
+<p><span style="font-weight: 400;">A bracket is a curved or wedge-like area connecting a serif and a stroke. This curve area can be large or small. Typefaces with large areas of curves are said to have large bracketing. Those with small curved areas have small bracketing. Some serif typefaces have no bracketing. </span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/bracket-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/bracket-2-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/bracket-2-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/bracket-2-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/bracket-2-lg.png 1024w"  alt="Bracket" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Cap Height</span><a id="CapHeight"></a></h1>
+<p><span style="font-weight: 400;">Cap Height is the height of a capital letter, measured from the baseline to flat capitals like “H.” Letters like “S” and “O,” have a slight overshoot over the cap height. This is done so that curve-topped letters like “S” or “O” look optically aligned and balanced with flat-topped letters like “H.”</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/cap-height-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/cap-height-3-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/cap-height-3-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/cap-height-3-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/cap-height-3-lg.png 1024w"  alt="Cap Height" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Counter</span><a id="Counter"></a></h1>
+<p><span style="font-weight: 400;">A counter is an unfilled (white or negative) space partially or entirely closed by other parts of the letters. For example, lowercase “b” and uppercase “U” both have counters. The stroke creating a counter shape is known as a “bowl.” There are two types of counter spaces: open and closed. An <strong>open counter</strong> means the unfilled space is partially closed, like “U.” A <strong>closed counter</strong> happens when the unfilled space is completely sealed, like “b.” </span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/counter.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/counter-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/counter-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/counter-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/counter-lg.png 1024w"  alt="Counter" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Descender</span><a id="Descender"></a></h1>
+<p><span style="font-weight: 400;">A descender is a vertical stroke of a lowercase letter extending below the baseline. For example, “p” is a lowercase letter with a descender. Like ascenders, long descenders make lowercase letters more distinguishable, improving readability.  </span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/descender-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/descender-2-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/descender-2-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/descender-2-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/descender-2-lg.png 1024w"  alt="Descender" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">Terminal</span><a id="Terminal"></a></h1>
+<p><span style="font-weight: 400;">A Terminal is an end of a straight or curved stroke without serifs. The terminal can be a place where a typeface showcases its stylistic elements. For example, in some letters, like “a,” there can be a droplet shape at the end of a stroke. This is called a ball terminal. </span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/ball-terminal.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/ball-terminal-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/ball-terminal-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/ball-terminal-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/ball-terminal-lg.png 1024w"  alt="Terminal" width="1200" height="630"></figure>
+<h1> </h1>
+<h1><span style="font-weight: 400;">x-Height</span><a id="x-Height"></a></h1>
+<p><span style="font-weight: 400;">The term x-height describes the distance from the baseline to the top of a flat-topped lowercase letter, like the lowercase “x.” x-height is a stylistic choice and varies for different typefaces. However, x-height also is a factor in readability. As the x-height increase, the length of ascenders and descenders usually decreases. This causes the letters to become less readable.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/x-height-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/x-height-2-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/x-height-2-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/x-height-2-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/x-height-2-lg.png 1024w"  alt="x-Height" width="1200" height="630"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/typedetails.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/typedetails-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/typedetails-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/typedetails-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/typedetails-lg.png 1024w"  alt="type details" width="1680" height="630"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Typogram Product Updates, No.8</title>
         <author>
@@ -63,7 +124,7 @@
 
 <hr>
 <h1 id="feedback">Feedback</h1>
-<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#119;&#x65;&#110;&#x64;&#x79;&#64;&#116;&#x79;&#x70;&#111;&#103;&#x72;&#97;&#109;&#x2e;&#99;&#x6f;">&#119;&#x65;&#110;&#x64;&#x79;&#64;&#116;&#x79;&#x70;&#111;&#103;&#x72;&#97;&#109;&#x2e;&#99;&#x6f;</a></p>
+<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#119;&#101;&#x6e;&#100;&#121;&#x40;&#x74;&#121;&#112;&#x6f;&#x67;&#114;&#x61;&#x6d;&#x2e;&#x63;&#111;">&#119;&#101;&#x6e;&#100;&#121;&#x40;&#x74;&#121;&#112;&#x6f;&#x67;&#114;&#x61;&#x6d;&#x2e;&#x63;&#111;</a></p>
 <p><em>Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no7/">last update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>.</em></p>
 
             ]]>
@@ -101,7 +162,7 @@
 <h1 id="a-preview-of-whats-to-come">A Preview of What’s to Come</h1>
 <p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>
 <h2 id="add-project-and-redeem-license-code">Add Project and Redeem License Code</h2>
-<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#104;&#x75;&#x61;&#64;&#116;&#121;&#112;&#111;&#103;&#x72;&#x61;&#x6d;&#46;&#x63;&#111;">&#104;&#x75;&#x61;&#64;&#116;&#121;&#112;&#111;&#103;&#x72;&#x61;&#x6d;&#46;&#x63;&#111;</a>, and she will locate and send you your code.</p>
+<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#117;&#x61;&#64;&#x74;&#x79;&#112;&#x6f;&#x67;&#x72;&#97;&#109;&#46;&#x63;&#x6f;">&#x68;&#117;&#x61;&#64;&#x74;&#x79;&#112;&#x6f;&#x67;&#x72;&#97;&#109;&#46;&#x63;&#x6f;</a>, and she will locate and send you your code.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif" alt="Add Project and Redeem License Code" width="1440" height="900" /></figure></p>
 <figcaption align = "center">Add project and redeem license code</figcaption>
 
@@ -549,145 +610,6 @@
 <figcaption >User account management</figcaption>
 </figure>
 <p><span style="font-weight: 400;">That's it for this month! Have a fantastic rest of July!</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sans Serifs Classifications You Must Know to Improve Your Designs</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/blog/different-types-of-sans-serifs/"/>
-        <id>https://typogram.co/blog/different-types-of-sans-serifs/</id>
-            <category term="Typography &amp; Fonts"/>
-
-        <updated>2022-07-26T22:30:57-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
-                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/28/sansSerifCoverFinal-3.png" alt="" />
-                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
-</form><hr>
-<h1>A Word About Sans Serifs &amp; Their Classifications </h1>
-<p> </p>
-<p><span data-preserver-spaces="true">Due to their simplistic appearances often devoid of fancy flourishes, sans serifs are considered bold and modern. We have talked about them in our post about </span><a target="_blank" href="https://typogram.co/blog/luxury-brand-logos/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">luxury</span></a><span data-preserver-spaces="true"> and </span><a target="_blank" href="https://typogram.co/blog/tech-startup-logos/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">tech brands</span></a><span data-preserver-spaces="true">. They are seen in many brands looking to appear artsy, creative, and contemporary.</span></p>
-<p>
-<script>
-		let cssId = 'myCss';
-		if (!document.getElementById(cssId)) {
-			var head = document.getElementsByTagName('head')[0];
-			var link = document.createElement('link');
-			link.id = cssId;
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = 'https://res.cloudinary.com/typogram/raw/upload/v1658283158/typogram-blog/TypographyGlossary/jargon-buster-part3/style-1_swhgti.css';
-			link.media = 'all';
-			head.appendChild(link);
-		}
-	</script>
-</p>
-<h2>Sans Serif<a id="SansSerif"></a></h2>
-<p><em>Sans </em>means “without.” Sans Serifs were invented long after serifs typefaces, and they do not have serifs extending at the end of strokes. In 1816, William Caslon IV created the first official sans serif typeface, Caslon, for commercial use. Though Caslon didn’t become popular immediately, Sans Serif boomed in popularity decades later. Furthermore, They break down into smaller style categories: Grotesque, Neo Grotesque, Humanist, and Geometric. </p>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/serifSanserif-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-xs.png 300w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-sm.png 480w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-md.png 768w ,https://typogram.co/blog/media/posts/28/responsive/serifSanserif-2-lg.png 1024w"  alt="sanserifserif" width="1456" height="761"><figcaption>Sans serifs have no serifs</figcaption></figure>
-<h2>Grotesque Sans Serif<a id="Grotesque"></a></h2>
-<p><span data-preserver-spaces="true">Grotesque sans serifs were the earliest sans serif, influenced by the Modern style serif. Grotesque sans serif received its name from the Italian word </span><em><span data-preserver-spaces="true">grottesco</span></em><span data-preserver-spaces="true">, meaning “belonging to the cave,” because the idea of not having serif was considered bold, shocking, and ugly at the time. Grotesque sans serif is the first generation of sans serifs, with many weird (wonky) visual traits compared to other sans serifs.</span></p>
-<div class="app">
-<div class="app-wrapper">
-<div class="w-layout-grid app-grid">
-<div id="w-node-_767076cf-5bf6-f629-4714-154ef7927ec5-89d21332">
-<h3 class="app-instruction">Reference Sans Serif: Libre Franklin</h3>
-<div class="w-layout-grid ui-grid">
-<div class="image-container">
-<div class="w-embed"> </div>
-<div class="letter-reference outline-text">g</div>
-<div class="w-layout-grid letter-grid">
-<div id="w-node-_4d86cd19-0960-4c4c-4f80-920ae7c64db8-89d21332" class="letter-x-height"></div>
-<div id="w-node-b315f288-29b8-4390-7830-458c9f5e5a55-89d21332" class="div"></div>
-<div id="w-node-_24b4d289-7f27-e034-169f-aa5e20355b89-89d21332" class="div"></div>
-<div id="w-node-_14a92547-8e15-7f51-f03b-2cffa76ef4bb-89d21332" class="letter-baseline"></div>
-</div>
-</div>
-<div id="wonk" class="sans-button-container sans-buttons-ui"><a class="sans-button "><span class="ui-text">See the wonky!</span></a></div>
-</div>
-</div>
-<div>
-<div class="letter-preview"><figure class="image-show wonk"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview_geotesque.svg" alt="grotesque hide" loading="lazy"></figure> <figure class="image-hide hidden wonk"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview_geotesque-wonk-final-2.svg" alt="grotesque wonk" loading="lazy"></figure></div>
-</div>
-</div>
-</div>
-</div>
-<h2><span data-preserver-spaces="true">Neo-Grotesque Sans Serif</span><a id="NeoGrotesque"></a></h2>
-<p><span data-preserver-spaces="true">Neo-Grotesque sans serif is tweaked and evolved version of Grotesque sans serif, first appearing in the mid-twentieth century. Akzidenz-Grotesk, a well-known Neo-Grotesque typeface released in 1898, is the best spokesperson for this style, a balancing act of cleanness and calligraphic touch, which many later fonts of this style tried to emulate. </span></p>
-<p><span data-preserver-spaces="true">Many of the most popular sans serifs we use presently, like Helvetica, San Francesco, and Roboto, belong to this category.</span></p>
-<div class="app">
-<div class="app-wrapper">
-<h3 class="app-instruction">click to see the difference between grotesque and neo-grotesque sans serifs </h3>
-<div id="neoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-show.svg" alt="grotesque hide neo grotesqie" loading="lazy"></figure> <figure class="image-hide hidden neoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/neo-geotsque-hide-final-2.svg" alt="neo-grotesque-show"></figure></div>
-</div>
-</div>
-<h2>Humanist Sans Serif<a id="Humanist"></a></h2>
-<p>Humanist sans serif takes inspiration from traditional letterforms. Because of this, you can often find calligraphic elements, such as stroke variation, and more organic structural elements, like a double-story lowercase “a” or “g” in Humanist sans serifs.</p>
-<div class="app">
-<div class="app-wrapper">
-<div class="w-layout-grid app-grid">
-<div id="w-node-_767076cf-5bf6-f629-4714-154ef7927ec5-89d21332">
-<h3 class="app-instruction">Reference Serif: EB Garamond</h3>
-<div class="w-layout-grid ui-grid">
-<div class="image-container">
-<div class="w-embed"> </div>
-<div class="humanist letter-reference outline-text">g</div>
-<div class="w-layout-grid letter-grid">
-<div id="w-node-_4d86cd19-0960-4c4c-4f80-920ae7c64db8-89d21332" class="letter-x-height"></div>
-<div id="w-node-b315f288-29b8-4390-7830-458c9f5e5a55-89d21332" class="div"></div>
-<div id="w-node-_24b4d289-7f27-e034-169f-aa5e20355b89-89d21332" class="div"></div>
-<div id="w-node-_14a92547-8e15-7f51-f03b-2cffa76ef4bb-89d21332" class="letter-baseline"></div>
-</div>
-</div>
-<div id="humanistSans" class="sans-button-container sans-buttons-ui"><a class="sans-button "><span class="ui-text">See calligraphic influence!</span></a></div>
-</div>
-</div>
-<div>
-<div class="letter-preview"><figure class="image-show humanistSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-hum-2.svg" alt="humanist" loading="lazy"></figure> <figure class="image-hide hidden humanistSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-cal.svg" alt="humanist calligraphy influence" loading="lazy"></figure></div>
-</div>
-</div>
-</div>
-</div>
-<h2>Geometric Sans Serif<a id="Geometric"></a></h2>
-<p>The letter shapes of Geometric sans serifs are derived from geometric shapes like circles, rectangles, or triangles. In most Geometric sans serifs, the letter strokes have very little contrast. Because they often appear bold (due to their strokes), more angular, and shapely, Geometric sans serifs are often considered avant-garde.</p>
-<div class="app">
-<div class="app-wrapper">
-<h3 class="app-instruction">click to see geometric influence</h3>
-<div id="geoSans" class="letter-grid-container sans-buttons-ui"><figure class="image-show geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-show.svg" alt="geometric sans serif" loading="lazy"></figure><figure class="image-hide hidden geoSans"><img loading="lazy"  src="https://typogram.co/blog/media/posts/28/letter-preview-geometric-hide.svg" alt="geometric sans serif shapes" loading="lazy"></figure></div>
-</div>
-</div>
-<p>
-<script>
-		let sansButtons = document.getElementsByClassName("sans-buttons-ui");
-
-		for (button = 0; button < sansButtons.length; button++) {
-			sansButtons[button].addEventListener("click", function() {
-				let showImg = document.getElementsByClassName("image-show " + this.id)[0];
-				let hideImg = document.getElementsByClassName("image-hide hidden " + this.id)[0];
-				if (showImg.style.display != "none") {
-					showImg.style.display = "none";
-					hideImg.style.display = "block";
-					this.style.backgroundColor = "#6899BF";
-				} else {
-					showImg.style.display = "block";
-					hideImg.style.display = "none";
-					this.style.backgroundColor = "#1a4a72";
-				}
-			})
-		}
-	</script>
-</p>
             ]]>
         </content>
     </entry>
