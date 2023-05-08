@@ -3,12 +3,79 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-04-12T20:11:26-04:00</updated>
+    <updated>2023-05-08T04:21:38-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Learnings From Our Second Product Hunt Launch</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/learnings-from-our-second-product-hunt-launch/"/>
+        <id>https://typogram.co/blog/learnings-from-our-second-product-hunt-launch/</id>
+            <category term="Startups"/>
+            <category term="Inside Typogram"/>
+
+        <updated>2023-05-08T04:21:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/44/productHuntLaunchUpdate.png" alt="Learnings From Our Second Product Hunt Launch" />
+                    Retro on Our Product Hunt Launch Our launch had high aspirations to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/blog/media/posts/44/productHuntLaunchUpdate.png" alt="Learnings From Our Second Product Hunt Launch" />
+                <h1>Retro on Our Product Hunt Launch</h1>
+<p><span style="font-weight: 400;">Our launch had high aspirations to aim for the top #1 Product of the Day position, but unfortunately, it didn’t pan out as expected in the beginning. There were a variety of reasons for this, which I will expand on later. Despite this setback, we still launched our product with the support of our community and gained new users, both free and paid! We’re still proud of what we accomplished and are grateful for the support we received.</span><span style="font-weight: 400;"><br></span></p>
+<h2>We fell through a crack on Product Hunt</h2>
+<p><span style="font-weight: 400;">Product Hunt, the popular platform for discovering new and innovative products, has its fair share of quirks. One such quirk is the potential to fall through the cracks and not get featured on the front page.</span></p>
+<p><span style="font-weight: 400;">What products get featured on the front page and why? From Product Hunt’s response to our complaint, it seems that manual curation plays a substantial role in their selection process:</span></p>
+<blockquote>
+<p><span style="font-weight: 400;">I very much regret the experience. We try our best to feature everything that is eligible and that we think will be a value add to our community. Every now and then, unfortunately, we do miss a great launch. — Product Hunt Support</span></p>
+</blockquote>
+<p><span style="font-weight: 400;">I think that the Product Hunt team must employ a combination of strategies to manage this workload efficiently. It seems implausible for a manual process alone to handle such a volume, making me question how they strike the right balance between human curation and algorithmic assistance. Whatever they do, mistakes happen, which is unfortunately on our part.</span></p>
+<p><span style="font-weight: 400;">The “falling into Product Hunt crack” actually happens much more often than I realized. Just today, I observed another company that suffered the same fate as Typogram last Tuesday.</span></p>
+<p><span style="font-weight: 400;">Look at the diagram from </span><a href="https://hunted.space/" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">hunted.space</span></a><span style="font-weight: 400;">, a site that collects Product Hunt launch statistics and analyzes trends. On the launch day of Typogram, for the first four hours, Hunted Space couldn’t find Typogram and therefore didn’t crawl any stats, reporting a flat line for 0 votes until it jumped to 40 votes suddenly:</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/44/eb51025a-c194-48ab-8e37-b15761b9e762_980x385.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/44/responsive/eb51025a-c194-48ab-8e37-b15761b9e762_980x385-xs.jpg 300w ,https://typogram.co/blog/media/posts/44/responsive/eb51025a-c194-48ab-8e37-b15761b9e762_980x385-sm.jpg 480w ,https://typogram.co/blog/media/posts/44/responsive/eb51025a-c194-48ab-8e37-b15761b9e762_980x385-md.jpg 768w ,https://typogram.co/blog/media/posts/44/responsive/eb51025a-c194-48ab-8e37-b15761b9e762_980x385-lg.jpg 1024w"  alt="Comparing Typogram to the product that secured the 2nd position. Typogram has a flat line in the beginning section" width="980" height="385">
+<figcaption >Comparing Typogram to the product that secured the 2nd position. Typogram has a flat line in the beginning section</figcaption>
+</figure>
+<p><span style="font-weight: 400;">Today, similar to Typogram’s fate, there is another product called TeamGPT that get buried for a couple of hours before they see the light of day:</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/44/526644a2-2dea-477d-b683-897a5274311b_980x385.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/44/responsive/526644a2-2dea-477d-b683-897a5274311b_980x385-xs.jpg 300w ,https://typogram.co/blog/media/posts/44/responsive/526644a2-2dea-477d-b683-897a5274311b_980x385-sm.jpg 480w ,https://typogram.co/blog/media/posts/44/responsive/526644a2-2dea-477d-b683-897a5274311b_980x385-md.jpg 768w ,https://typogram.co/blog/media/posts/44/responsive/526644a2-2dea-477d-b683-897a5274311b_980x385-lg.jpg 1024w"  alt="TeamGPT got buried for about two hours. It also has a flat line in the beginning section." width="980" height="385">
+<figcaption ><span style="font-weight: 400;">TeamGPT got buried for about two hours. It also has a flat line in the beginning section.</span></figcaption>
+</figure>
+<p><i><span style="font-weight: 400;">The flat line in the beginning doesn’t mean the product didn’t get votes during those times. It just means that they got no exposure that the stats crawler didn’t crawl. </span></i></p>
+<p><span style="font-weight: 400;">During this time, Typogram is live on Product Hunt, but people only find it through the link we shared. In other words, we are sending traffic to Product Hunt, not the other way around. The moment we get unburied at hour 4, we already got 40 votes, purely from our own people! That is a miracle in itself! </span></p>
+<h2>How Launching on Product Hunt Works</h2>
+<p><span style="font-weight: 400;">We ask our community to visit Product Hunt and upvote our product, which in turn boosts our ranking. As our position improves, we attract more traffic from Product Hunt’s user base. Ideally, a successful launch results in significantly more traffic flowing from Product Hunt to our product than what we initially directed toward them. Unfortunately, it may not be the case for our launch this time.</span></p>
+<p><span style="font-weight: 400;">When we finally got unburied, we had 40 votes and ranked #13. Ranking in #13 means we only get the exposure and traffic that belongs to #13, which is less than #12, which is less than #11 … you get my point. Assuming all products are equally interesting and have the same upvote ratio (the number of votes divided by the number of visitors), our vote gap is only getting larger and larger by default.</span></p>
+<p><strong>In order to climb up, we need to:</strong></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><strong>be more interesting so that the upvote ratio is higher</strong></li>
+<li style="font-weight: 400;" aria-level="1"><strong>lead more outside traffic to your Product Hunt post</strong></li>
+</ol>
+<p><span style="font-weight: 400;">The #1 is done prior; nothing we can change on the launch day. I think our product is very unique and interesting. We trend up really quickly after we get onto the front page, thanks to that.</span></p>
+<p><span style="font-weight: 400;">The #2 is counter-intuitive. We launch on Product Hunt to get more people to visit us, not the other way around. But in order to get more exposure, we have to send more traffic first. We continue to ask our community to show up and support us, and you all did. We climbed all the way from #13 to #5 in the early afternoon!</span></p>
+<p><span style="font-weight: 400;">Each position on Product Hunt corresponds to a certain level of traffic. To optimize your launch, it’s crucial to secure a top position as early as possible.</span></p>
+<p><strong>The traffic generated during a launch is determined by two factors:</strong></p>
+<ol>
+<li><strong> Your position on Product Hunt</strong></li>
+<li><strong> The duration you maintain that position</strong></li>
+</ol>
+<p><span style="font-weight: 400;">Even if some product manages to climb from the bottom to the top #1 spot at the last minute and earn the “Product of the Day” title, it won’t make a significant impact, as it would only benefit from one minute of the top position’s traffic. </span></p>
+<p><span style="font-weight: 400;">We enjoyed about half a day of position #5’s traffic, and the other half day we get very little traffic.</span></p>
+<p><span style="font-weight: 400;">The launch experience serves as a reminder of the importance of building our own audience. While leveraging platforms like Product Hunt can be beneficial, their outcomes are not always reliable. I was confident that our launch would secure the top #1 or #2 spot, especially since I had previously achieved #2 with a hobby project, Symbols to Copy. In comparison, Typogram is a much more interesting and robust product. Nonetheless, this experience underscores the need to focus on cultivating a community of user base independently.</span></p>
+<p><span style="font-weight: 400;">Our community carried us through the launch. Without their support, we could have easily been buried throughout the entire day. Instead, we managed to emerge as #13 and continued to climb the ranks, demonstrating the power of an engaged community in driving a product’s growth.</span></p>
+<h2>Launch Stats</h2>
+<p><span style="font-weight: 400;">On launch day, we coincidentally acquired exactly 100 new users, and with additional sign-ups in the following week, we reached a total of 230 new users. Among these, 9 converted to paid users, resulting in a conversion rate of approximately 4%.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/44/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-xs.png 300w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-sm.png 480w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-md.png 768w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-lg.png 1024w"  alt="" width="720" height="402"></figure>
+<p><span style="font-weight: 400;">Despite feeling as though we were deprived of the #1 position, it's important to remember that a launch is not a sprint but a marathon. In the grand scheme of things, a year from now, this minor setback won't even matter the slightest. If someone is meant to become our user, we will undoubtedly cross paths with them eventually — we just have to keep going to meet them. </span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Typogram Product Updates, No.10</title>
         <author>
@@ -19,7 +86,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-04-12T20:11:26-04:00</updated>
+        <updated>2023-05-08T03:57:21-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/43/productUpate10.png" alt="Typogram Product Updates, No.10" />
@@ -222,7 +289,7 @@
 
 <hr>
 <h1 id="feedback">Feedback</h1>
-<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#x65;&#x6e;&#100;&#121;&#x40;&#x74;&#x79;&#112;&#111;&#103;&#x72;&#97;&#x6d;&#x2e;&#99;&#x6f;">&#x77;&#x65;&#x6e;&#100;&#121;&#x40;&#x74;&#x79;&#112;&#111;&#103;&#x72;&#97;&#x6d;&#x2e;&#99;&#x6f;</a></p>
+<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#101;&#x6e;&#x64;&#121;&#64;&#x74;&#x79;&#112;&#111;&#x67;&#x72;&#97;&#x6d;&#46;&#x63;&#x6f;">&#x77;&#101;&#x6e;&#x64;&#121;&#64;&#x74;&#x79;&#112;&#111;&#x67;&#x72;&#97;&#x6d;&#46;&#x63;&#x6f;</a></p>
 <p><em>Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no7/">last update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>.</em></p>
 
             ]]>
@@ -260,7 +327,7 @@
 <h1 id="a-preview-of-whats-to-come">A Preview of What’s to Come</h1>
 <p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>
 <h2 id="add-project-and-redeem-license-code">Add Project and Redeem License Code</h2>
-<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#104;&#117;&#x61;&#x40;&#x74;&#121;&#112;&#111;&#103;&#x72;&#97;&#109;&#46;&#x63;&#111;">&#104;&#117;&#x61;&#x40;&#x74;&#121;&#112;&#111;&#103;&#x72;&#97;&#109;&#46;&#x63;&#111;</a>, and she will locate and send you your code.</p>
+<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#x75;&#x61;&#64;&#x74;&#121;&#112;&#111;&#x67;&#114;&#x61;&#109;&#x2e;&#x63;&#x6f;">&#x68;&#x75;&#x61;&#64;&#x74;&#121;&#112;&#111;&#x67;&#114;&#x61;&#109;&#x2e;&#x63;&#x6f;</a>, and she will locate and send you your code.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif" alt="Add Project and Redeem License Code" width="1440" height="900" /></figure></p>
 <figcaption align = "center">Add project and redeem license code</figcaption>
 
@@ -550,62 +617,6 @@
 <p><span style="font-weight: 400;">It was a surprising turn that led us to the font creation software we used, and a simple change in the font script fixed the problem. The debugging process not only unblocked our icon project but also helped us understand better the third-party library we relied on. It also heightened our understanding of variable font technology in general. </span></p>
 <p><span style="font-weight: 400;">...And that’s it for this month!</span></p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Updating Our Product Launch Schedule</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/blog/updating-our-product-launch-schedule/"/>
-        <id>https://typogram.co/blog/updating-our-product-launch-schedule/</id>
-            <category term="Inside Typogram"/>
-
-        <updated>2022-09-13T00:16:03-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/32/cover-m.png" alt="" />
-                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/32/cover-m.png" alt="" />
-                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
-</form><hr>
-<p><span style="font-weight: 400;">Since we launched our </span><a href="https://typogram.co/"><span style="font-weight: 400;">pre-order</span></a><span style="font-weight: 400;"> in April, we have been making consistent progress towards launching Typogram, see our </span><a href="https://typogram.co/blog/typogram-product-update-june-2022/"><span style="font-weight: 400;">June</span></a><span style="font-weight: 400;">, </span><a href="https://typogram.co/blog/typogram-product-update-july-2022/"><span style="font-weight: 400;">July</span></a><span style="font-weight: 400;">, and </span><a href="https://typogram.co/blog/typogram-product-update-no3/"><span style="font-weight: 400;">August</span></a><span style="font-weight: 400;"> product updates. The journey to develop Typogram is like any other adventure, we overcame many obstacles and met new unforeseeable challenges. Recently, after many thoughtful internal discussions and evaluations, we decided to push back our product launch date.</span></p>
-<h1> </h1>
-<h1><span style="font-weight: 400;">Updating Launch Schedule</span></h1>
-<p><span style="font-weight: 400;">While we are full steam ahead developing Typogram, we sometimes overestimate ourselves and underestimate our tasks. In order to ship a quality product, unfortunately, we have to ask you to wait a little longer — our targeted launch date changes from September to January. We are very sorry for the delay and hope you stay with us. If the launch postponement changes your mind about us, we understand entirely, and it is on us. As always, we offer full refunds. Please get in touch with hua@typogram.co to start the refund process if needed.</span></p>
-<p><span style="font-weight: 400;">In the last few months, we have completed: </span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">choose brand personalities</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">choose logo typeface</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">logo editor that includes font menu, property editor, icon search/editor module</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">part of account management</span></li>
-</ul>
-<p><span style="font-weight: 400;">Though much has been accomplished, we still have to:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">finish account management with necessary backend database updates</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">revamp color palette feature</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">add brand guidelines webpage publishing features</span></li>
-</ul>
-<p><span style="font-weight: 400;">We think with four additional months, the rest of the work can be completed, and the product can be ready in January 2023.</span></p>
-<p> </p>
-<hr>
-<h1><span style="font-weight: 400;">Reflections</span></h1>
-<p><span style="font-weight: 400;">Announcing pushing back the launch date was not easy. Here are personal reflections from each of us:</span></p>
-<h3><strong>Wenting</strong></h3>
-<p><span style="font-weight: 400;">In hindsight, underestimating the work scope is the main mistake that set us back — for example, I underestimated the workload surrounding backend development. The account feature is taking much longer and diminishes my momentum. The </span><a href="https://typogram.co/blog/typogram-product-update-july-2022/"><span style="font-weight: 400;">editable icon project</span></a><span style="font-weight: 400;"> my co-founder is working on also shares the same problem. We need to look at this problem internally and find solutions to estimate work scope and set deadlines more accurately. We have internal deadlines for each project, and missing them often hurts our morale and momentum. </span></p>
-<h3><strong>Hua</strong></h3>
-<p><span style="font-weight: 400;">Reflecting upon the progress with editable icons, the main thing that sets us back is the lack of understanding of the technical and design processes. Editable icons are something new - deciding and trying out different designs and tech specs were time-consuming and a process of trial and error. Because of this, I underestimated how long it took to create these icons. As I learn more, I understand this creation process better, which guides me to make better, more accurate estimations of project milestones. </span></p>
-<p> </p>
-<h1><span style="font-weight: 400;">Looking Forward</span></h1>
-<p><span style="font-weight: 400;">After we emailed our customers and community about delaying the launch date, surprising to us, we received nothing but positive support from our pre-oder customers and our community. </span></p>
-<p><span style="font-weight: 400;">While we continue our journey towards our product launch in January</span><span style="font-weight: 400;"> 2023, we will keep sharing what we built and learned via our monthly updates and we look forward to building Typogram together with our great community, your feedback, and advice.</span></p>
             ]]>
         </content>
     </entry>
