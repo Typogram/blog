@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-05-08T04:26:55-04:00</updated>
+    <updated>2023-05-08T04:31:34-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,17 +19,21 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-05-08T04:26:55-04:00</updated>
+        <updated>2023-05-08T04:31:34-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/44/productHuntLaunchUpdate.png" alt="Learnings From Our Second Product Hunt Launch" />
-                    Retro on Our Product Hunt Launch Our launch had high aspirations to&hellip;
+                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/44/productHuntLaunchUpdate.png" alt="Learnings From Our Second Product Hunt Launch" />
-                <h1>Retro on Our Product Hunt Launch</h1>
+                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
+<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+</form><hr>
+<h1>Retro on Our Product Hunt Launch</h1>
 <p><span style="font-weight: 400;">Our launch had high aspirations to aim for the top #1 Product of the Day position, but unfortunately, it didn’t pan out as expected in the beginning. There were a variety of reasons for this, which I will expand on later. Despite this setback, we still launched our product with the support of our community and gained new users, both free and paid! We’re still proud of what we accomplished and are grateful for the support we received.</span><span style="font-weight: 400;"><br></span></p>
 <h2>We fell through a crack on Product Hunt</h2>
 <p><span style="font-weight: 400;">Product Hunt, the popular platform for discovering new and innovative products, has its fair share of quirks. One such quirk is the potential to fall through the cracks and not get featured on the front page.</span></p>
@@ -71,7 +75,7 @@
 <p><span style="font-weight: 400;">Our community carried us through the launch. Without their support, we could have easily been buried throughout the entire day. Instead, we managed to emerge as #13 and continued to climb the ranks, demonstrating the power of an engaged community in driving a product’s growth.</span></p>
 <h2>Launch Stats</h2>
 <p><span style="font-weight: 400;">On launch day, we coincidentally acquired exactly 100 new users, and with additional sign-ups in the following week, we reached a total of 230 new users. Among these, 9 converted to paid users, resulting in a conversion rate of approximately 4%.</span></p>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/44/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-xs.png 300w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-sm.png 480w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-md.png 768w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-lg.png 1024w"  alt="" width="720" height="402"></figure>
+<figure class="post__image--wide"><img loading="lazy"  src="https://typogram.co/blog/media/posts/44/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-xs.png 300w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-sm.png 480w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-md.png 768w ,https://typogram.co/blog/media/posts/44/responsive/51c6586b-c80c-4083-89b8-c74fc800a3c2_720x402-lg.png 1024w"  alt="" width="720" height="402"></figure>
 <p><span style="font-weight: 400;">Despite feeling as though we were deprived of the #1 position, it's important to remember that a launch is not a sprint but a marathon. In the grand scheme of things, a year from now, this minor setback won't even matter the slightest. If someone is meant to become our user, we will undoubtedly cross paths with them eventually — we just have to keep going to meet them. </span></p>
             ]]>
         </content>
@@ -289,7 +293,7 @@
 
 <hr>
 <h1 id="feedback">Feedback</h1>
-<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#101;&#x6e;&#100;&#121;&#x40;&#116;&#x79;&#x70;&#111;&#103;&#114;&#97;&#x6d;&#46;&#x63;&#111;">&#x77;&#101;&#x6e;&#100;&#121;&#x40;&#116;&#x79;&#x70;&#111;&#103;&#114;&#97;&#x6d;&#46;&#x63;&#111;</a></p>
+<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#x65;&#x6e;&#x64;&#121;&#64;&#116;&#x79;&#112;&#x6f;&#x67;&#114;&#x61;&#x6d;&#x2e;&#x63;&#111;">&#x77;&#x65;&#x6e;&#x64;&#121;&#64;&#116;&#x79;&#112;&#x6f;&#x67;&#114;&#x61;&#x6d;&#x2e;&#x63;&#111;</a></p>
 <p><em>Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no7/">last update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>.</em></p>
 
             ]]>
@@ -327,7 +331,7 @@
 <h1 id="a-preview-of-whats-to-come">A Preview of What’s to Come</h1>
 <p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>
 <h2 id="add-project-and-redeem-license-code">Add Project and Redeem License Code</h2>
-<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#117;&#97;&#64;&#x74;&#121;&#112;&#111;&#x67;&#114;&#x61;&#109;&#x2e;&#x63;&#x6f;">&#x68;&#117;&#97;&#64;&#x74;&#121;&#112;&#111;&#x67;&#114;&#x61;&#109;&#x2e;&#x63;&#x6f;</a>, and she will locate and send you your code.</p>
+<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#117;&#97;&#64;&#116;&#x79;&#x70;&#x6f;&#x67;&#x72;&#x61;&#x6d;&#x2e;&#x63;&#111;">&#x68;&#117;&#97;&#64;&#116;&#x79;&#x70;&#x6f;&#x67;&#x72;&#x61;&#x6d;&#x2e;&#x63;&#111;</a>, and she will locate and send you your code.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif" alt="Add Project and Redeem License Code" width="1440" height="900" /></figure></p>
 <figcaption align = "center">Add project and redeem license code</figcaption>
 
