@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-06-26T16:11:57-04:00</updated>
+    <updated>2023-07-24T18:33:50-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-06-26T16:11:57-04:00</updated>
+        <updated>2023-07-24T18:26:35-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/46/typogramUpdateNo11.png" alt="" />
@@ -29,10 +29,14 @@
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/46/typogramUpdateNo11.png" alt="" />
-                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
+                <div id="mc_embed_signup"><form class="validate" action="https://typogram.us21.list-manage.com/subscribe/post?u=524fd774e21060e9ef6f46b01&amp;id=f68e30ed33&amp;f_id=00ea5fe1f0" method="post" novalidate="" target="_self">
+<div id="mc_embed_signup_scroll">
 <p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
-</form><hr>
+<p align="center"><input id="bd-email" class="bd-email" name="EMAIL" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
+<div hidden=""><input name="tags" type="hidden" value="2818175"></div>
+</div>
+</form></div>
+<hr>
 <blockquote>
 <p><strong>How is Typogram development going?</strong></p>
 </blockquote>
@@ -69,21 +73,17 @@
         <id>https://typogram.co/blog/celebrating-pride-month-colors-of-rainbow-in-branding/</id>
             <category term="Branding"/>
 
-        <updated>2023-06-20T23:27:52-04:00</updated>
+        <updated>2023-07-24T18:33:50-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/45/prideCover-8.png" alt="" />
-                    If you enjoyed this post, subscribe to get updates from our blog!&hellip;
+                    It’s Pride Month! The rainbow colors are the symbol of the LGBTQ+&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/45/prideCover-8.png" alt="" />
-                <form action="https://buttondown.email/api/emails/embed-subscribe/typogramco" method="post" target="popupwindow">
-<p align="center"><em>If you enjoyed this post, subscribe to get updates from our blog! </em></p>
-<p align="center"><input id="bd-email" class="bd-email" name="email" type="email" placeholder="Enter your email"> <input class="bd-submit" type="submit" value="Subscribe"></p>
-</form><hr>
-<div class="captioned-image-container">
+                <div class="captioned-image-container">
 <figure>
 <div class="image2-inset">
 <div class="image-link-expand">It’s Pride Month! The rainbow colors are the symbol of the LGBTQ+ community. It’s pretty cool how the rainbow has come to represent and unite people of diverse backgrounds and identities. In this post, we look at what each color means for branding. </div>
@@ -536,7 +536,7 @@
 
 <hr>
 <h1 id="feedback">Feedback</h1>
-<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#119;&#x65;&#x6e;&#x64;&#121;&#64;&#116;&#x79;&#112;&#111;&#x67;&#114;&#97;&#x6d;&#46;&#x63;&#111;">&#119;&#x65;&#x6e;&#x64;&#121;&#64;&#116;&#x79;&#112;&#111;&#x67;&#114;&#97;&#x6d;&#46;&#x63;&#111;</a></p>
+<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#101;&#110;&#100;&#x79;&#x40;&#x74;&#121;&#112;&#111;&#103;&#114;&#x61;&#109;&#46;&#99;&#x6f;">&#x77;&#101;&#110;&#100;&#x79;&#x40;&#x74;&#121;&#112;&#111;&#103;&#114;&#x61;&#109;&#46;&#99;&#x6f;</a></p>
 <p><em>Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no7/">last update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>.</em></p>
 
             ]]>
@@ -574,7 +574,7 @@
 <h1 id="a-preview-of-whats-to-come">A Preview of What’s to Come</h1>
 <p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>
 <h2 id="add-project-and-redeem-license-code">Add Project and Redeem License Code</h2>
-<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#x75;&#97;&#64;&#116;&#x79;&#112;&#111;&#103;&#x72;&#97;&#x6d;&#x2e;&#x63;&#x6f;">&#x68;&#x75;&#97;&#64;&#116;&#x79;&#112;&#111;&#103;&#x72;&#97;&#x6d;&#x2e;&#x63;&#x6f;</a>, and she will locate and send you your code.</p>
+<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#x75;&#97;&#x40;&#116;&#x79;&#x70;&#x6f;&#x67;&#114;&#97;&#x6d;&#46;&#99;&#x6f;">&#x68;&#x75;&#97;&#x40;&#116;&#x79;&#x70;&#x6f;&#x67;&#114;&#97;&#x6d;&#46;&#99;&#x6f;</a>, and she will locate and send you your code.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif" alt="Add Project and Redeem License Code" width="1440" height="900" /></figure></p>
 <figcaption align = "center">Add project and redeem license code</figcaption>
 
