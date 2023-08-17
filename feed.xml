@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-08-16T23:56:34-04:00</updated>
+    <updated>2023-08-17T00:07:03-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -18,16 +18,16 @@
         <id>https://typogram.co/blog/building-your-brand-with-our-brand-personality-workshop-kit/</id>
             <category term="Branding"/>
 
-        <updated>2023-08-16T23:56:34-04:00</updated>
+        <updated>2023-08-17T00:07:03-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/50/NewsletterCover-96-2.png" alt="Typogram&#x27;s Brand Personality Workshop Kit" />
+                        <img src="https://typogram.co/blog/media/posts/50/NewsletterCover-96-2-2.png" alt="Typogram&#x27;s Brand Personality Workshop Kit" />
                     Not sure how to create logo, brand design, or brand kit for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/50/NewsletterCover-96-2.png" alt="Typogram&#x27;s Brand Personality Workshop Kit" />
+                    <img src="https://typogram.co/blog/media/posts/50/NewsletterCover-96-2-2.png" alt="Typogram&#x27;s Brand Personality Workshop Kit" />
                 <blockquote>
 <p>Not sure how to create logo, brand design, or brand kit for your new business? Don’t know how to start with fonts, color, and typography systems for your brand? Do not worry. We got you back! </p>
 </blockquote>
@@ -50,13 +50,14 @@
 <figure class="post__image" ><img loading="lazy" style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);" src="https://typogram.co/blog/media/posts/50/slider-digital-pic1-2x.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/50/responsive/slider-digital-pic1-2x-xs.png 300w ,https://typogram.co/blog/media/posts/50/responsive/slider-digital-pic1-2x-sm.png 480w ,https://typogram.co/blog/media/posts/50/responsive/slider-digital-pic1-2x-md.png 768w ,https://typogram.co/blog/media/posts/50/responsive/slider-digital-pic1-2x-lg.png 1024w"  alt="our brand personality workshop kit inside Google slides" width="1440" height="1500">
 <figcaption >our brand personality workshop kit inside Google slides</figcaption>
 </figure>
-<h1><span style="font-weight: 400;">How did we develop this kit? </span></h1>
+<hr>
+<h2><span style="font-weight: 400;">How did we develop this kit? </span></h2>
 <p><span style="font-weight: 400;">Our brand personality workshop kit originated and evolved from Typogram’s product development process. Initially, we wanted to identify a user experience flow for the brand personality feature inside the Typogram app: how can we make the brand personality a valuable feature to the users? What specific interactions can we include at this step, and what do they look like? </span></p>
 <p><span style="font-weight: 400;">With many hypotheses, we focused on shipping quickly for testing. We created this workshop using three popular No-Code tools easily accessible to our potential users: PDF, Google Slides, and Notion. Now that we have sped up the product development process using No-Code, we can focus on testing and making the UX as rewarding as possible. </span></p>
 <p><span style="font-weight: 400;">The end product featured a main flow: users sort through different cards of brand personality and each time, they sort and choose using various methods: First, they identify based on a list of words and then narrow down based on images. Ultimately, users land on five words as visual themes/directions for their logos. Observing from our user testing session that branding is a starting point for conversation - we designed the workshop to work for solopreneurs or a team. </span></p>
 <p><span style="font-weight: 400;">We organized user testing sessions and received great feedback. The success of user testing validated the flow and design of our brand personality feature inside Typogram! Because of the overwhelmingly positive response, we now make this kit a free resource for our community. </span></p>
-<h1><span style="font-weight: 400;">Access our Brand Personality Workshop Kit</span></h1>
-<p><br><span style="font-weight: 400;">You can download our free </span><a href="https://webflow.wentin.net/"><span style="font-weight: 400;">Brand Personality Workshop Kit</span></a><span style="font-weight: 400;"> on our website. It is available in PDF and Google Slide formats.</span><br><br><br><br><br><br><br></p>
+<h2><span style="font-weight: 400;">Access our Brand Personality Workshop Kit</span></h2>
+<p><span style="font-weight: 400;">You can download our free </span><a href="https://webflow.wentin.net/"><span style="font-weight: 400;">Brand Personality Workshop Kit</span></a><span style="font-weight: 400;"> on our website. It is available in PDF and Google Slide formats.</span><br><br><br><br><br><br><br></p>
             ]]>
         </content>
     </entry>
@@ -612,7 +613,7 @@
 
 <hr>
 <h1 id="feedback">Feedback</h1>
-<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#x65;&#110;&#x64;&#121;&#64;&#116;&#x79;&#x70;&#x6f;&#x67;&#x72;&#x61;&#x6d;&#46;&#99;&#111;">&#x77;&#x65;&#110;&#x64;&#121;&#64;&#116;&#x79;&#x70;&#x6f;&#x67;&#x72;&#x61;&#x6d;&#46;&#99;&#111;</a></p>
+<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#x65;&#110;&#x64;&#x79;&#x40;&#x74;&#121;&#112;&#x6f;&#103;&#x72;&#x61;&#x6d;&#x2e;&#99;&#x6f;">&#x77;&#x65;&#110;&#x64;&#x79;&#x40;&#x74;&#121;&#112;&#x6f;&#103;&#x72;&#x61;&#x6d;&#x2e;&#99;&#x6f;</a></p>
 <p><em>Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no7/">last update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>.</em></p>
 
             ]]>
@@ -645,7 +646,7 @@
 <h1 id="a-preview-of-whats-to-come">A Preview of What’s to Come</h1>
 <p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>
 <h2 id="add-project-and-redeem-license-code">Add Project and Redeem License Code</h2>
-<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#104;&#117;&#97;&#x40;&#x74;&#121;&#112;&#111;&#x67;&#114;&#97;&#109;&#46;&#x63;&#x6f;">&#104;&#117;&#97;&#x40;&#x74;&#121;&#112;&#111;&#x67;&#114;&#97;&#109;&#46;&#x63;&#x6f;</a>, and she will locate and send you your code.</p>
+<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#104;&#117;&#97;&#x40;&#x74;&#x79;&#x70;&#111;&#103;&#114;&#97;&#x6d;&#x2e;&#x63;&#111;">&#104;&#117;&#97;&#x40;&#x74;&#x79;&#x70;&#111;&#103;&#114;&#97;&#x6d;&#x2e;&#x63;&#111;</a>, and she will locate and send you your code.</p>
 <p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif" alt="Add Project and Redeem License Code" width="1440" height="900" /></figure></p>
 <figcaption align = "center">Add project and redeem license code</figcaption>
 
