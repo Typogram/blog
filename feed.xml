@@ -3,12 +3,69 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-09-07T00:25:38-04:00</updated>
+    <updated>2023-09-07T21:54:16-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Product Update No.13 : Modularizing Brand Personality</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/product-update-no13-modularizing-brand-personality/"/>
+        <id>https://typogram.co/blog/product-update-no13-modularizing-brand-personality/</id>
+            <category term="Inside Typogram"/>
+
+        <updated>2023-09-07T21:54:16-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/52/typogramProductUpdate13.png" alt="Product Update No.13 : Modularizing Brand Personality" />
+                    How is Typogram development going? Since our last update, we have been&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/blog/media/posts/52/typogramProductUpdate13.png" alt="Product Update No.13 : Modularizing Brand Personality" />
+                <blockquote>
+<p><strong>How is Typogram development going?</strong></p>
+</blockquote>
+<p>Since our last update, we have been busy implementing features and changes per your feedback and suggestions. Here is what we've working on this month!</p>
+<h2 class="header-with-anchor-widget"><strong>Modularizing Brand Personality</strong></h2>
+<p>During our <a href="https://typogram.co/blog/typogram-product-updates-no12-in-app-tutorial-videos-streamlined-brand-name-change-modularized-app-components/" title="typogram product update">last product update</a>, we shared about our new product thinking: modular steps and shareable work-in-progress. We are making Typogram more modular, making workflow between steps more flexible, and design work more shareable. </p>
+<p>In the last few weeks, we have been working on modularizing the Brand Personality Step. I’ve been (Wenting) making two big changes to Typogram, starting with the brand personality step. </p>
+<h3 class="header-with-anchor-widget"><strong>Changing the Base</strong></h3>
+<p>I initially built Typogram using a javascript framework called Vue. To improve the user experience, I changed the base of Typogram to Svelte. Svelte pre-renders our app and eliminates the need for loading additional JavaScript files, which our previous framework, Vue, lacked. This change will help our app run faster, improving the overall experience!</p>
+<h3 class="header-with-anchor-widget"><strong>Making Parts &amp; Adding Share</strong></h3>
+<p>I’ve also been “modularizing” our app, splitting the app into smaller parts. Modularizing Typogram allows the potential for less linear workflows for users (a popular request ), makes things neater and easier to manage, and makes it possible to reuse the parts to create mini standalone apps for steps like Brand Personality. </p>
+<p>Here is a sneak peek of what I’ve added to the Brand Personality step – sharable social (Instagram) post that you can create and customize to share and test drive your designs immediately with your audience.</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><picture><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 1456w" sizes="100vw"></picture>
+<figure class="sizing-normal" ><figure class="post__image"><img loading="lazy"  title="image: The sharable graphics can be customized with different color themes" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif 1456w" alt="image: The sharable graphics can be customized with different color themes" width="930" height="1037" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1a874421-2a25-44ad-aef5-0cd6431a6df8_538x593.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:593,&quot;width&quot;:538,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;image: The sharable graphics can be customized with different color themes&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure>
+<figcaption >image: The sharable graphics can be customized with different color themes</figcaption>
+</figure>
+</div>
+</figure>
+</div>
+<p>You can customize the colors of the post as well as the styles. I’m still playing around with more unique customization options: for example, this “brand reveal effect” that allows you to control the shading of letters in your post. Here is a sneak peek of the work in progress. Let me know what you think!</p>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><picture><source type="image/webp" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 1456w" sizes="100vw"></picture>
+<figure class="sizing-normal" ><figure class="post__image"><img loading="lazy"  title="image: Experimental interactive “fun-piece” — The Brand Reveal" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif" data-is-external-image="true"  sizes="100vw" srcset="https://substackcdn.com/image/fetch/w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 424w, https://substackcdn.com/image/fetch/w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 848w, https://substackcdn.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 1272w, https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif 1456w" alt="image: Experimental interactive “fun-piece” — The Brand Reveal" width="1076" height="1184" loading="lazy" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6a0dd3f2-865c-4223-98e3-8fed49e568a2_1076x1184.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1184,&quot;width&quot;:1076,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;image: Experimental interactive “fun-piece” — The Brand Reveal&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null}"></figure>
+<figcaption >image: Experimental interactive “fun-piece” — The Brand Reveal</figcaption>
+</figure>
+</div>
+</figure>
+</div>
+<p>Once this step is completed, it can function as a standalone app or be part of your full Typogram experience. You can share your work with your audience or save it as part of your inspiration library to help you design and create. We will share more soon. Let us know you think!</p>
+<h3 class="header-with-anchor-widget"><strong>Hearing From You</strong></h3>
+<p>We’d love to hear more of your thoughts if you have already tried the software. Please share them with us by directly replying to this email or filling out this <a href="https://typogram.us21.list-manage.com/track/click?u=524fd774e21060e9ef6f46b01&amp;id=5a1cc60557&amp;e=9d422adcad" rel="">very short feedback form</a>. If you haven’t tried, we encourage you to create an account and use the Free Trial to play with the tool.</p>
+<p>If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://typogram.us21.list-manage.com/track/click?u=524fd774e21060e9ef6f46b01&amp;id=cf27a97c40&amp;e=9d422adcad" rel="">here</a>. You can also chat with us via the chat window inside the app. We are online during the daytime in the EST time zone (and some night time too).</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Build Your Brand With Our Brand Personality Workshop Kit</title>
         <author>
@@ -423,7 +480,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-07-24T18:40:58-04:00</updated>
+        <updated>2023-09-07T18:06:13-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/43/productUpate10.png" alt="Typogram Product Updates, No.10" />
@@ -613,69 +670,8 @@
 
 <hr>
 <h1 id="feedback">Feedback</h1>
-<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#119;&#101;&#x6e;&#100;&#x79;&#x40;&#x74;&#121;&#x70;&#111;&#103;&#114;&#97;&#x6d;&#x2e;&#x63;&#x6f;">&#119;&#101;&#x6e;&#100;&#x79;&#x40;&#x74;&#121;&#x70;&#111;&#103;&#114;&#97;&#x6d;&#x2e;&#x63;&#x6f;</a></p>
+<p>We love critical feedback and can’t wait to hear your thoughts on the tool. If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7">here</a>. Additionally, you can chat with us via the chat window within the app or email <a href="mailto:&#x77;&#x65;&#x6e;&#x64;&#121;&#x40;&#x74;&#121;&#x70;&#111;&#x67;&#114;&#x61;&#109;&#x2e;&#x63;&#111;">&#x77;&#x65;&#x6e;&#x64;&#121;&#x40;&#x74;&#121;&#x70;&#111;&#x67;&#114;&#x61;&#109;&#x2e;&#x63;&#111;</a></p>
 <p><em>Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no7/">last update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>.</em></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Typogram Product Updates: App Walkthrough</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/blog/typogram-product-updates-no7/"/>
-        <id>https://typogram.co/blog/typogram-product-updates-no7/</id>
-            <category term="Startups"/>
-            <category term="Inside Typogram"/>
-
-        <updated>2023-07-24T18:41:46-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/37/cover-DecUpdate_no.png" alt="" />
-                    How is Typogram development going? We have been busy building our favorite&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/37/cover-DecUpdate_no.png" alt="" />
-                <blockquote>How is Typogram development going?</blockquote>
-
-<p>We have been busy building our favorite logo design tool. Here is what we have been working for the last month. (Missed the previous updates? See our <a href="https://typogram.co/blog/typogram-product-updates-no6/">previous update</a> and our archive <a href="https://typogram.co/blog/tags/inside-typogram/">here</a>)</p>
-<hr>
-<h1 id="a-preview-of-whats-to-come">A Preview of What’s to Come</h1>
-<p>We are inching close to our launch. We are putting on the final touches and will have everything ready by the end of this month. Below is a walkthrough of our app and what’s to come.</p>
-<h2 id="add-project-and-redeem-license-code">Add Project and Redeem License Code</h2>
-<p>Thanks for being our earliest supporters! When you log in to the app, you’ll be able to create branding projects and redeem your license with your license code(s). Your license redemption code was sent to your purchasing email address when you pre-ordered. If you cannot find your code, please email Hua at <a href="mailto:&#x68;&#x75;&#x61;&#x40;&#x74;&#121;&#112;&#111;&#x67;&#114;&#x61;&#x6d;&#46;&#x63;&#111;">&#x68;&#x75;&#x61;&#x40;&#x74;&#121;&#112;&#111;&#x67;&#114;&#x61;&#x6d;&#46;&#x63;&#111;</a>, and she will locate and send you your code.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/1.-Add-Project-and-Redeem-License-Code.gif" alt="Add Project and Redeem License Code" width="1440" height="900" /></figure></p>
-<figcaption align = "center">Add project and redeem license code</figcaption>
-
-<h2 id="open-project-and-select-brand-personalities">Open Project and Select Brand Personalities</h2>
-<p>Click anywhere on the project card to open the project, and start your branding process by selecting brand personalities:</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/2.-Open-Project-and-Select-Brand-Personalities.gif" alt="Open project and select brand personalities" width="1440" height="900" /></figure></p>
-<figcaption align = "center">Open project and select brand personalities</figcaption>
-
-<h2 id="select-brand-color-and-logo-typefaces">Select Brand Color And Logo Typefaces</h2>
-<p>Select brand color and logo typefaces easily. We included color tips and curated logo typefaces to help you make your selections when you design. You can find more details of brand color features on our <a href="https://typogram.co/blog/typogram-product-update-no5/">Typogram Product Update, No.5</a>.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/3.-Select-Brand-Colors.gif" alt="Select brand color and logo typefaces" width="1440" height="900" /></figure></p>
-<figcaption align = "center">Select brand color and logo typefaces</figcaption>
-
-<h2 id="select-logo-typefaces">Select Logo Typefaces</h2>
-<p>Informed by your chosen brand personality, we have curated a list of typefaces that fits your brands. You can also turn on additional brand personality to broaden your choices.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/4.-Select-Logo-Typefaces.gif" alt="Select logo typefaces" width="1440" height="900" /></figure></p>
-<figcaption align = "center">Select logo typefaces</figcaption>
-
-<h2 id="design-logo">Design Logo</h2>
-<p>Once you have selected your brand color and logo typeface, you can access your chosen color in the color palette and start designing your logo. The “kerning” feature also helps you fine-tune the space between letters to create more polished designs. We went through a simple design case here to save time, but logo editing has many more features. You can find more details about them in <a href="https://typogram.co/blog/typogram-product-update-june-2022/">Typogram Product Update, No.1</a>.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/5.-Design-Logo.gif" alt="Design logo" width="1440" height="900" /></figure></p>
-<figcaption align = "center">Design logo</figcaption>
-
-<h2 id="select-typography-systems-and-publish-guidelines">Select Typography Systems and Publish Guidelines</h2>
-<p>After designing the logo, you can select your Typography System for marketing and create a sharable brand guideline. As we shared <a href="https://typogram.co/blog/typogram-product-updates-no6/">previously</a>, we have completely revamped the band guideline, including features like additional shades and incorrect logo usage examples.</p>
-<p><figure class="post__image"><img loading="lazy" src="https://typogram.co/blog/media/posts/37/6-small.-Select-Typography-Systems-and-Publish-Guidelines.gif" alt="Select typography systems and publish guidelines" width="1440" height="900" /></figure></p>
-<figcaption align = "center">Select typography systems and publish guidelines</figcaption>
-
-<p>And that’s it! We’ll be sending out a launch announcement in a couple of weeks! We are nervous and excited and can’t wait to hear your feedback. </p>
 
             ]]>
         </content>
