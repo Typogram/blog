@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-09-28T03:38:23-04:00</updated>
+    <updated>2023-09-28T03:58:01-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-09-28T03:38:23-04:00</updated>
+        <updated>2023-09-28T03:58:01-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="" />
@@ -58,7 +58,7 @@
 <p><span style="font-weight: 400;">Below are no-code tools we have used for Typogram I recommend with fantastic free tiers. I'm not affiliated with any of these tools. Learning difficulties are mainly determined by how long I spend learning the tools initially, how fast I can achieve results, and any prior knowledge needed.</span></p>
 <h4><span style="font-weight: 400;">Notion</span></h4>
 <p><span style="font-weight: 400;">Learning Difficulty: 3/5 </span></p>
-<p><span style="font-weight: 400;">Notion is a productivity and note-taking app capable of creating sharable webpages. You can also connect and embed other apps, like Google Drive, websites, and Figma.</span></p>
+<p><span style="font-weight: 400;">Notion is a productivity and note-taking app capable of creating shareable web pages. You can also connect and embed other apps, like Google Drive, websites, and Figma.</span></p>
 <ul>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Interaction capabilities: drag and drop, gallery view, table, sharable page</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Use Case: Blog, Feature Creation, Knowledge Base, Issues Tracking</span></li>
@@ -124,7 +124,7 @@
 <h2><span style="font-weight: 400;">Engineering as Marketing </span></h2>
 <p><span style="font-weight: 400;">Engineering as Marketing can be more costly than other growth tactics in the short term, utilizing more time and effort in a concentrated block of time. However, if your engineering as marketing project takes off, you get a great new digital real estate, a nice traffic boost, and even SEO benefits. </span></p>
 <p><span style="font-weight: 400;">For example, we launched </span><a href="https://codingfont.com/"><span style="font-weight: 400;">Coding Font</span></a><span style="font-weight: 400;"> as an Engineering as Marketing project for Typogram. </span><span style="font-weight: 400;">Because many potential users for Typogram are web devs and people who spent a lot of time in IDE, we wanted to create a fun little website where they could find their dream coding font. </span></p>
-<p><span style="font-weight: 400;">When we launched Coding Font on Product Hunt, we got </span><a href="https://build.typogram.co/p/stats-of-coding-font-launch"><span style="font-weight: 400;">​​22,000 visits on launch day</span></a><span style="font-weight: 400;">. Coding Font was featured on the front page of Hackernews and on blogs like BoingBoing and CSS Tricks, improving its backlink profile and site ranking. We seized this opportunity to add blog content and keywords to this site. As a result, we got newsletter sign-ups, sales, and continuous referral traffic. </span></p>
+<p><span style="font-weight: 400;">When we launched Coding Font on Product Hunt, we got </span><a href="https://build.typogram.co/p/stats-of-coding-font-launch"><span style="font-weight: 400;">​​22,000 visits on launch day</span></a><span style="font-weight: 400;">. Coding Font was featured on the front page of Hackernews and on blogs like <a href="https://boingboing.net/2021/10/27/click-your-way-to-your-favorite-monospace-font.html" target="_blank" rel="noopener noreferrer">BoingBoing</a> and <a href="https://css-tricks.com/coding-font-game/" target="_blank" rel="noopener noreferrer">CSS Tricks</a>, improving its backlink profile and site ranking. We seized this opportunity to add blog content and keywords to this site. As a result, we got newsletter sign-ups, sales, and continuous referral traffic. </span></p>
 <figure class="post__image"><img loading="lazy"  src="https://lh3.googleusercontent.com/4HCXr-QG3213ko9g6RkGap8KZiuSWeAmolfxeDYRjEXnk4iFzvyW1GlKM8FmodSo4-LwbQvcmHJEJVqjfBaQ5LC2pugQNTAGE8sXrVHqJgRgx2o24GtlcYepXI6eC7Fk2OuIFQZuNCz6lpvL-AfATu4" data-is-external-image="true"  alt="Our most successful engineering as marketing game, Coding Font"><figcaption>Our most successful engineering as marketing game, Coding Font</figcaption></figure>
 <h2><span style="font-weight: 400;">Long-Term Growth: </span><span style="font-weight: 400;">SEO/Organic Traffic via Long-Tail Keywords </span></h2>
 <p><span style="font-weight: 400;">SEO gets a bad rep from email spam by link-building agencies, but it's one of the best ways to </span><span style="font-weight: 400;">gain free traffic and attract potential users to your site. The most important thing about SEO: it takes time to develop and grow. Once we validated ideas for Typogram, we started paying closer attention to SEO and how we can leverage SEO to increase organic traffic. </span></p>
