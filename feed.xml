@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-09-28T03:12:01-04:00</updated>
+    <updated>2023-09-28T03:38:23-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-09-28T03:12:01-04:00</updated>
+        <updated>2023-09-28T03:38:23-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="" />
@@ -44,13 +44,13 @@
 <h2><span style="font-weight: 400;">MVP and Product Validation </span></h2>
 <h3><span style="font-weight: 400;">Strategy No.1: Simplified No-Code Version of Feature<br><br></span></h3>
 <p><span style="font-weight: 400;">We are a tiny, two-people, and bootstrapped team. Our resources, such as money, time, knowledge, motivation, and productivity, are limited. </span><span style="font-weight: 400;">Early in our product development process, we wanted to ensure we could monetize the features. </span></p>
-<p><span style="font-weight: 400;">To test this quickly, we made one of our core features, "identifying brand personality," into a mini product – a workshop kit with no-code tools to conserve engineering resources. No code tools are also popular with users in our niche. This </span><a href="https://typogram.co/workshop"><span style="font-weight: 400;">Brand Personality Workshop Kit</span></a><span style="font-weight: 400;"> is structured like a workbook with instructions and actionable for participants. Depending on the capabilities of specific no-code platforms, we even intimated what we were thinking for user experience.</span></p>
+<p><span style="font-weight: 400;">To test this quickly, we made one of our core features, "identifying brand personality," into a mini product, a workshop kit with no-code tools. No code tools are also popular with users in our niche. This </span><a href="https://typogram.co/workshop"><span style="font-weight: 400;">Brand Personality Workshop Kit</span></a><span style="font-weight: 400;"> is structured like a workbook with instructions and actionable for participants. Depending on the capabilities of specific no-code platforms, we even intimated what we were thinking for user experience.</span></p>
 <p><span style="font-weight: 400;">During this time, we also started writing </span><a href="https://build.typogram.co/"><span style="font-weight: 400;">newsletters</span></a><span style="font-weight: 400;"> for our audience (see the newsletter section). We launched our mini product on Gumroad and in our newsletters to see if anyone would pay. In the end, we got a couple of customers, which was enough of a quick validation for us for this app feature. </span></p>
 <figure class="post__image"><img loading="lazy"  src="https://lh6.googleusercontent.com/ixMcR-jeY2ogyl4aPluazMBtaf8OFMQCMS7-1juyPJUzxcBqpk5ikY1VpL2ybx3ghayI2mQsbpMuntCTmpFjru5rrfJa_1Uodq8yrKV9azbXKkFhn-l7t7XxM9cShERMojo0YBASSyIETSXALOnL2sk" data-is-external-image="true" ><figcaption>Brand Personality Workshop feature in No-Code tool, Notion</figcaption></figure>
 <figure class="post__image"><img loading="lazy"  src="https://lh3.googleusercontent.com/jHw2SKnhML0FEfNoKPN2o-YYaQBTpEZE-R5oevYNsuo9wWMzoHFAcNlRl8gWecejjQGqyKw9a7BH4-uGqEDJ8VcD0UrEJI3HtwpKtqlYjEkArDRskXMOPu4ZpRJcPIkOrhi0uCUr8dfVqqR-qZPAVL0" data-is-external-image="true" ><figcaption>Brand Personality Workshop feature in the Final App</figcaption></figure>
 <h2><span style="font-weight: 400;">Product Think: Hacking No-Code/Low-Code Tools </span></h2>
-<p><span style="font-weight: 400;">No-Code tools are a group of tools that allow you to build applications with a graphical interface (without much code.) Low-Code does the same but may enable you to insert code. For Typogram, we use no-code tools extensively in our product development process. Our no-code tech stack is Webflow, Notion, Figma, Make, and Airtable. </span></p>
-<p><span style="font-weight: 400;">No-Code / Low-Code tools are excellent for quickly building and testing features. <a href="https://docs.google.com/presentation/d/1u3W91u40Obn-vgL33zilnV9LNZQWjLSCFx6nHgz9YXo/copy" target="_blank" rel="noopener noreferrer">I created this kit</a> for brainstorming if there is a simplified version of a feature I can create with no code. Feel free to use this for your process (Click "Make a Copy" to duplicate my kit). </span></p>
+<p><span style="font-weight: 400;">No-Code tools are a group of tools that allow you to build applications with a graphical interface (without code). Low-Code does the same but may enable you to insert code. For Typogram, we use no-code tools extensively in our product development process. Our no-code tech stack is Webflow, Notion, Figma, Make, and Airtable. </span></p>
+<p><span style="font-weight: 400;">No-Code / Low-Code tools are excellent for building simplified features while conserving engineering resources. It allows you to build quickly and test for validation. <a href="https://docs.google.com/presentation/d/1u3W91u40Obn-vgL33zilnV9LNZQWjLSCFx6nHgz9YXo/copy" target="_blank" rel="noopener noreferrer">I created this kit</a> for brainstorming if there is a simplified version of a feature I can create with no code. Feel free to use this for your process (Click "Make a Copy" to duplicate my kit). </span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/53/typogram-no-code-worksheet-blog-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/53/responsive/typogram-no-code-worksheet-blog-3-xs.png 300w ,https://typogram.co/blog/media/posts/53/responsive/typogram-no-code-worksheet-blog-3-sm.png 480w ,https://typogram.co/blog/media/posts/53/responsive/typogram-no-code-worksheet-blog-3-md.png 768w ,https://typogram.co/blog/media/posts/53/responsive/typogram-no-code-worksheet-blog-3-lg.png 1024w"  alt="No-Code Product Development worksheet" width="1920" height="1080">
 <figcaption >No-Code Brainstorming Kit</figcaption>
 </figure>
