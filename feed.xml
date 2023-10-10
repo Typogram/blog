@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-09-28T04:10:27-04:00</updated>
+    <updated>2023-10-10T12:17:19-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -704,7 +704,7 @@
         <id>https://typogram.co/blog/font-details-you-must-know-to-improve-your-designs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2023-07-24T18:41:17-04:00</updated>
+        <updated>2023-10-10T12:17:19-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/40/typeDetailsCover-2.png" alt="" />
@@ -714,9 +714,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://typogram.co/blog/media/posts/40/typeDetailsCover-2.png" alt="" />
-                <p><span style="font-weight: 400;">We are continuing our <em>Typography Jargon Buster</em> series! This time, we go over type detail terms describing constructions of letters. These visual elements make fonts different from each other to communicate different meanings. </span></p>
+                <p> </p>
+<p><span style="font-weight: 400;">We are continuing our <em>Typography Jargon Buster</em> series! This time, we go over type detail terms describing constructions of letters. These visual elements make fonts different from each other to communicate different meanings.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/40/fontdetailsfordesign.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-lg.png 1024w"  alt="common font details and design and typography jargons to increase your knowledge" width="1456" height="888">
+<figcaption >Common font details and  typography jargons to help your design</figcaption>
+</figure>
 <p><em><span style="font-weight: 400;">Want to read more Typography Jargon Buster? Check out <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/">Essential Typography Terms</a>, <a href="https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/">Serif</a>, and <a href="https://typogram.co/blog/different-types-of-sans-serifs/">Sans Serifs Classifications You Must Know.</a></span></em></p>
-<h1> </h1>
+<hr>
 <h1><span style="font-weight: 400;">Ascender</span><a id="Ascender"></a></h1>
 <p><span style="font-weight: 400;">An ascender is a vertical stroke of a lowercase letter extending upwards, beyond the x-height, sometimes beyond the cap height. For example, “h” is a lowercase letter with an ascender. In general, typefaces having long ascenders and descenders help with readability. Long ascenders help make a lowercase more distinguishable as long as the other parts of the letters are legible.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/ascender-3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/ascender-3-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/ascender-3-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/ascender-3-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/ascender-3-lg.png 1024w"  alt="Ascender" width="1200" height="630"></figure>
