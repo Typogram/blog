@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-10-10T12:19:37-04:00</updated>
+    <updated>2023-10-10T12:55:55-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -704,7 +704,7 @@
         <id>https://typogram.co/blog/font-details-you-must-know-to-improve-your-designs/</id>
             <category term="Typography &amp; Fonts"/>
 
-        <updated>2023-10-10T12:19:37-04:00</updated>
+        <updated>2023-10-10T12:55:55-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/40/typeDetailsCover-2.png" alt="" />
@@ -716,8 +716,8 @@
                     <img src="https://typogram.co/blog/media/posts/40/typeDetailsCover-2.png" alt="" />
                 <p> </p>
 <p><span style="font-weight: 400;">We are continuing our <em>Typography Jargon Buster</em> series! This time, we go over type detail terms describing constructions of letters. These visual elements make fonts different from each other to communicate different meanings.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/40/fontdetailsfordesign.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-lg.png 1024w"  alt="common font details and design and typography jargons to increase your knowledge" width="1456" height="888">
-<figcaption >Common font details and  typography jargons to help your design</figcaption>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/40/fontdetailsfordesign.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-xs.png 300w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-sm.png 480w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-md.png 768w ,https://typogram.co/blog/media/posts/40/responsive/fontdetailsfordesign-lg.png 1024w"  alt="Font details and design and typography jargons to increase your knowledge" width="1456" height="888"></figure>
+<figcaption >Font details and typography jargons to increase your design knowledge</figcaption>
 </figure>
 <p><em><span style="font-weight: 400;">Want to read more Typography Jargon Buster? Check out <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/">Essential Typography Terms</a>, <a href="https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design/">Serif</a>, and <a href="https://typogram.co/blog/different-types-of-sans-serifs/">Sans Serifs Classifications You Must Know.</a></span></em></p>
 <hr>
