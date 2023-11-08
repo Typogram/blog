@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-11-08T14:38:34-05:00</updated>
+    <updated>2023-11-08T14:47:29-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -106,7 +106,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-11-08T14:38:34-05:00</updated>
+        <updated>2023-11-08T14:47:29-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="Bootstrappers Guide :How to Start and Grow a Business Without Money " />
@@ -131,7 +131,6 @@
 <figcaption >How to make a great product, inspired by David Miranda </figcaption>
 </figure>
 <hr>
-<h2> </h2>
 <h2><span style="font-weight: 400;">MVP and Product Validation </span></h2>
 <h3><span style="font-weight: 400;">Strategy No.1: Simplified No-Code Version of Feature<br><br></span></h3>
 <p><span style="font-weight: 400;">We are a tiny, two-people, and bootstrapped team. Our resources, such as money, time, knowledge, motivation, and productivity, are limited. </span><span style="font-weight: 400;">Early in our product development process, we wanted to ensure we could monetize the features. </span></p>
