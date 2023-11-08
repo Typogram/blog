@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2023-10-23T23:34:51-04:00</updated>
+    <updated>2023-11-08T14:38:34-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-10-23T23:34:51-04:00</updated>
+        <updated>2023-10-25T21:48:15-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/54/septProductUpdateCover2023.png" alt="september Typogram product update " />
@@ -37,7 +37,7 @@
 </blockquote>
 <p>Since our last update, we have been busy implementing features and changes per your feedback and suggestions. Here is what we've working in the last few weeks! </p>
 <br>
-<div><span style="color: var(--headings-color); font-family: var(--font-base); font-size: 1.60181em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing);">Faster Typogram, Rebuilt from the Ground</span></div>
+<h2>Faster Typogram, Rebuilt from the Ground</h2>
 </div>
 </figure>
 </div>
@@ -106,16 +106,16 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2023-10-16T14:34:10-04:00</updated>
+        <updated>2023-11-08T14:38:34-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="Bootstrappers Guide :How to Start and Grow a Business Without Money " />
                     Background Before we start, I would like to give you some background&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/53/bootsrapperguide_cover-2.png" alt="Bootstrappers Guide :How to Start and Grow a Business Without Money " />
                 <h2><span style="font-weight: 400;">Background </span></h2>
 <p><span style="font-weight: 400;">Before we start, I would like to give you some background about me and my startup.</span></p>
 <p><span style="font-weight: 400;">My name is Hua Shu, and together with my co-founder, <a href="https://build.typogram.co/" title="Wenting Zhang" target="_blank" rel="noopener noreferrer">Wenting Zhang</a>, we are building a logo design tool for founders called Typogram. </span></p>
@@ -127,7 +127,11 @@
 </ul>
 <p><span style="font-weight: 400;">We launched a landing page pre-order for Typogram in March 2022 and a public launch in April 2023. Before that, we did a lot of customer discovery, product development, and user testing. So far, we have crossed 1,500 registered users and generated over $5,000 from Lifetime deals, primarily through organic channels.</span></p>
 <p><span style="font-weight: 400;">In this post, I want to share some frugal methods that worked for product validation and growth. </span></p>
+<figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/53/post34-howtomakeagreatproduct-2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/53/responsive/post34-howtomakeagreatproduct-2-xs.png 300w ,https://typogram.co/blog/media/posts/53/responsive/post34-howtomakeagreatproduct-2-sm.png 480w ,https://typogram.co/blog/media/posts/53/responsive/post34-howtomakeagreatproduct-2-md.png 768w ,https://typogram.co/blog/media/posts/53/responsive/post34-howtomakeagreatproduct-2-lg.png 1024w"  alt="how to make a great product people love for startups and bootstrappers" width="2088" height="1344"></figure>
+<figcaption >How to make a great product, inspired by David Miranda </figcaption>
+</figure>
 <hr>
+<h2> </h2>
 <h2><span style="font-weight: 400;">MVP and Product Validation </span></h2>
 <h3><span style="font-weight: 400;">Strategy No.1: Simplified No-Code Version of Feature<br><br></span></h3>
 <p><span style="font-weight: 400;">We are a tiny, two-people, and bootstrapped team. Our resources, such as money, time, knowledge, motivation, and productivity, are limited. </span><span style="font-weight: 400;">Early in our product development process, we wanted to ensure we could monetize the features. </span></p>
