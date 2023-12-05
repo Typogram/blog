@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://typogram.co/blog/product-update-no15-launching-again/",
+            "url": "https://typogram.co/blog/product-update-no15-launching-again/",
+            "title": "Product Update No.15 : Multi-Lines Layout",
+            "summary": "How is Typogram development going? Since our last update, we have been&hellip;",
+            "content_html": "<blockquote>\n<p><strong>How is Typogram development going?</strong></p>\n</blockquote>\n<p><span style=\"font-weight: 400;\">Since our last update, we have been working on two highly requested features: multi-line logo layout and adding extra lines of text. We are also working on a special AI feature. All of these are available soon in the upcoming roll-out!</span></p>\n<h2><span style=\"font-weight: 400;\">Upcoming: Multi-Lines Logo Layout</span></h2>\n<p><span style=\"font-weight: 400;\">Ever wanted to create a stacked logo or a design splitting across multiple lines? You could accomplish this easily with our new logo layout feature. You’ll be able to add a line break to split your logo into a new line or remove line breaks to adjust your logo layout, creating layouts like a vertical or stacked design. When you get a creative idea, you want to get the ideas out of your head. We get that, so we took extra time to ensure it’s easy for you to control the details of the logo layout. You can play with line spacing and alignment and preview them easily with selected brand fonts. </span></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/56/logoLayout_3.gif\" alt=\"Multi-Lines logo layout feature \" width=\"1440\" height=\"900\">\n<figcaption ><span style=\"font-weight: 400;\">Multi-Lines logo layout feature </span></figcaption>\n</figure>\n<h2><span style=\"font-weight: 400;\">Upcoming: Adding Extra Lines of Text</span></h2>\n<p><span style=\"font-weight: 400;\">Have a short tagline below the logo? Want to add a small text like a founding date, a structure like “LLC” or a category like “music”? Soon inside the logo editor, you can add extra lines to your logo, allowing you to create infinite additional logo variations of your brand. You can then design your brand new tagline logo in the logo editor. Change your mind? No problem – you can also remove the extra text element. This is one of the most popular feature requests we’ve gotten, and we can’t wait to have you try it in the app. </span></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/56/addText_3.gif\" alt=\"Adding extra lines of text in our logo editor\" width=\"1440\" height=\"900\">\n<figcaption >Adding extra lines of text in our logo editor</figcaption>\n</figure>\n<h2><span style=\"font-weight: 400;\">Upcoming: Magic Fairy Dust — AI-Generated Icon</span></h2>\n<p><i><span style=\"font-weight: 400;\">This is something special we’ve been preparing. We are adding AI to Typogram!</span></i><span style=\"font-weight: 400;\"> We pride ourselves on being a tool that inspires curiosity and creativity instead of randomly generating results. Embracing AI as an enhancement, not a replacement, we took a cautious approach to adding AI to amplify creativity and innovation while staying true to our product’s original DNA and distinctly different from generated logos. We’ll share more about this exciting update soon! You can get a first look at our Product Hunt page on December 12th.</span><a href=\"https://www.producthunt.com/products/typogram\"><span style=\"font-weight: 400;\"> </span><span style=\"font-weight: 400;\">Follow here</span></a><span style=\"font-weight: 400;\"> for our launch.</span></p>\n<h2><span style=\"font-weight: 400;\">Upcoming: Try Typogram as a Guest</span></h2>\n<p><span style=\"font-weight: 400;\">We’ve been aiming to make Typogram easier to try. We are now inching closer to that goal by allowing anyone to play with Typogram as a guest without needing to sign-up. Anyone can try our beginner-friendly branding and logo design features directly without making an account. Progress is saved upon account creation.</span></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://typogram.co/blog/media/posts/56/tofu_christmas-landscape.jpg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://typogram.co/blog/media/posts/56/responsive/tofu_christmas-landscape-xs.jpg 300w ,https://typogram.co/blog/media/posts/56/responsive/tofu_christmas-landscape-sm.jpg 480w ,https://typogram.co/blog/media/posts/56/responsive/tofu_christmas-landscape-md.jpg 768w ,https://typogram.co/blog/media/posts/56/responsive/tofu_christmas-landscape-lg.jpg 1024w\"  alt=\"our launch ambassador, Tofu\" width=\"800\" height=\"557\">\n<figcaption >Our launch ambassador, Tofu</figcaption>\n</figure>\n<h3 class=\"header-with-anchor-widget\">Hearing From You</h3>\n<p>We’d love to hear more of your thoughts if you have already tried the software. Please share them with us by directly replying to this email or filling out this <a href=\"https://typogram.us21.list-manage.com/track/click?u=524fd774e21060e9ef6f46b01&amp;id=5a1cc60557&amp;e=9d422adcad\" rel=\"\">very short feedback form</a>. If you haven’t tried, we encourage you to create an account and use the Free Trial to play with the tool.</p>\n<p>If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href=\"https://typogram.us21.list-manage.com/track/click?u=524fd774e21060e9ef6f46b01&amp;id=cf27a97c40&amp;e=9d422adcad\" rel=\"\">here</a>. You can also chat with us via the chat window inside the app. We are online during the daytime in the EST time zone (and some night time too).</p>",
+            "image": "https://typogram.co/blog/media/posts/56/ProductUpdate15.png",
+            "author": {
+                "name": "Wenting Zhang"
+            },
+            "tags": [
+                   "Startups",
+                   "Inside Typogram"
+            ],
+            "date_published": "2023-12-05T02:22:32-05:00",
+            "date_modified": "2023-12-05T14:23:44-05:00"
+        },
+        {
             "id": "https://typogram.co/blog/our-new-product-hunt-launch-strategy/",
             "url": "https://typogram.co/blog/our-new-product-hunt-launch-strategy/",
             "title": "Our New Product Hunt Launch Strategy",
@@ -25,7 +42,7 @@
                    "Inside Typogram"
             ],
             "date_published": "2023-12-05T00:24:24-05:00",
-            "date_modified": "2023-12-05T00:54:28-05:00"
+            "date_modified": "2023-12-05T02:24:31-05:00"
         },
         {
             "id": "https://typogram.co/blog/product-update-no14-rebuilding-typogram/",
@@ -42,7 +59,7 @@
                    "Inside Typogram"
             ],
             "date_published": "2023-10-21T23:26:34-04:00",
-            "date_modified": "2023-10-25T21:48:15-04:00"
+            "date_modified": "2023-12-05T02:22:45-05:00"
         },
         {
             "id": "https://typogram.co/blog/how-to-start-and-grow-a-business-without-money/",
@@ -75,7 +92,7 @@
                    "Inside Typogram"
             ],
             "date_published": "2023-09-07T18:06:02-04:00",
-            "date_modified": "2023-10-21T23:36:09-04:00"
+            "date_modified": "2023-12-05T02:25:45-05:00"
         },
         {
             "id": "https://typogram.co/blog/building-your-brand-with-our-brand-personality-workshop-kit/",
@@ -158,23 +175,6 @@
             ],
             "date_published": "2023-05-08T03:57:13-04:00",
             "date_modified": "2023-07-24T18:40:32-04:00"
-        },
-        {
-            "id": "https://typogram.co/blog/typogram-product-updates-no10/",
-            "url": "https://typogram.co/blog/typogram-product-updates-no10/",
-            "title": "Typogram Product Updates: Extra Icons",
-            "summary": "How is Typogram development going? Since our last update, we have been&hellip;",
-            "content_html": "<blockquote>\n<p><strong>How is Typogram development going?</strong></p>\n</blockquote>\n<p>Since our last update, we have been busy implementing features and changes per your feedback and suggestions. Here are the new features we have in the pipeline! </p>\n<hr>\n<h1>Upcoming New Feature: Extra Icons</h1>\n<p>A popular user request is adding extra icons next to the brand name. We are excited to announce an upcoming new feature, Extra Icons, which allows you to add icons next to the brand name text on the canvas. We are incredibly proud of this feature because it required overcoming significant technical challenges. We worked tirelessly to ensure that the design process remains smooth and intuitive for users while also allowing for the flexibility and customization options that Extra Icons provides.</p>\n<p>With Extra Icons, you also can readjust the position of the text and icon independently and recenter them on canvas. This new feature gives you complete control over your logo’s layout, allowing you to create the perfect balance and visual impact. It will help you take your branding to the next level and express your creativity in new and exciting ways.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://lh6.googleusercontent.com/lYqRJZYKHhe-SCFna79Q-BSIw4560soMTqAJB3xWjjWXMgTUcFFtP8kEFJbdjkzmB0wfacyftj-cudFU1Md4349PcyBf-Ko66MBSnxQ1LLOwX1cuNwavE3q6OJMWh_Z3PMXJljMb6B-s_jYP6pfnj3E\" data-is-external-image=\"true\"  alt=\"https://lh6.googleusercontent.com/lYqRJZYKHhe-SCFna79Q-BSIw4560soMTqAJB3xWjjWXMgTUcFFtP8kEFJbdjkzmB0wfacyftj-cudFU1Md4349PcyBf-Ko66MBSnxQ1LLOwX1cuNwavE3q6OJMWh_Z3PMXJljMb6B-s_jYP6pfnj3E\"><figcaption>Extra Icons in action!</figcaption></figure>\n<h1> </h1>\n<h1>Introducing Typogram Help Center</h1>\n<p>We launched <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://typogram.co/help/\">Typogram Help Center</a>, a resource center for questions and how-tos for our logo design tool. We have written posts on common questions, like how to change brand name, and helpful design tutorials, like using grid view and duplicated artboard to create iterations. We have more posts on the way!</p>\n<p>Another popular request is embedding short, how-to videos highlighting features inside the app –– we are currently working on this. Mini Videos for Brand Personality, Brand Color, Kerning, and Distinctive Logos are launching soon!</p>\n<figure class=\"Img: Check out Typogram Help Center!\" ><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://buttondown.imgix.net/images/a96cb4bc-9cfa-4c02-b136-d4203d49789b.png?w=960&amp;fit=max\" data-is-external-image=\"true\"  alt=\"Check out Typogram Help Center!\"></figure>\n<figcaption >Check out <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://typogram.co/help/\">Typogram Help Center!</a></figcaption>\n</figure>\n<h1>Hearing More from You</h1>\n<p>We’d love to hear more of your thoughts if you have already tried the software. Please share them with us by directly replying to this email or filling out this <a href=\"https://jbdpbt92.r.us-east-1.awstrack.me/L0/https:%2F%2Ftally.so%2Fr%2FmVGEQv/1/0100018776e370c2-29c8d886-39e7-4120-94f4-168d782109c8-000000/Irlaysx-uaFbaRff3AY8sSOUrzQ=317\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://jbdpbt92.r.us-east-1.awstrack.me/L0/https:%252F%252Ftally.so%252Fr%252FmVGEQv/1/0100018776e370c2-29c8d886-39e7-4120-94f4-168d782109c8-000000/Irlaysx-uaFbaRff3AY8sSOUrzQ%3D317&amp;source=gmail&amp;ust=1681420341381000&amp;usg=AOvVaw2HdaAikD0_rnxRQNIiOEZw\">very short feedback form</a>. If you haven’t tried, we encourage you to create an account and use the Free Trial to play with the tool.</p>\n<p>If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href=\"https://jbdpbt92.r.us-east-1.awstrack.me/L0/https:%2F%2Ftally.so%2Fr%2FmOQxJ7/1/0100018776e370c2-29c8d886-39e7-4120-94f4-168d782109c8-000000/jt5bbVq2yHnitPeKNdaIDzDB-1I=317\" rel=\"noopener noreferrer nofollow\" target=\"_blank\" data-saferedirecturl=\"https://www.google.com/url?q=https://jbdpbt92.r.us-east-1.awstrack.me/L0/https:%252F%252Ftally.so%252Fr%252FmOQxJ7/1/0100018776e370c2-29c8d886-39e7-4120-94f4-168d782109c8-000000/jt5bbVq2yHnitPeKNdaIDzDB-1I%3D317&amp;source=gmail&amp;ust=1681420341381000&amp;usg=AOvVaw0uDcxTRvJozsEQU6M5D9b6\">here</a>. You can also chat with us via the chat window inside the app. We are online during the daytime in the EST time zone (and some night time too).</p>",
-            "image": "https://typogram.co/blog/media/posts/43/productUpate10.png",
-            "author": {
-                "name": "Wenting Zhang"
-            },
-            "tags": [
-                   "Startups",
-                   "Inside Typogram"
-            ],
-            "date_published": "2023-04-12T15:26:20-04:00",
-            "date_modified": "2023-09-07T18:06:13-04:00"
         }
     ]
 }
