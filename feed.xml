@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-01-10T01:18:14-05:00</updated>
+    <updated>2024-01-10T21:36:45-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2024-01-10T01:18:14-05:00</updated>
+        <updated>2024-01-10T21:36:45-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/57/blogPost_LaunchUpdate_Cover.png" alt="Typogram&#x27;s December 2023 launch" />
@@ -60,7 +60,7 @@
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/DoS19uMBhqM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h2><span style="font-weight: 400;">Final Words </span></h2>
 <p><span style="font-weight: 400;">We are so thankful to our users and community for supporting us thus far. We could not have gotten this far and released the latest version of our software without our users. Thanks again for being on this journey with us!</span><span style="font-weight: 400;"><br><br></span></p>
-<p><span style="font-weight: 400;">And if you feel like, check out the newest Typogram. We have recently launched our first AI feature for icon generation, along with many fantastic new updates. You can create a free account and try all our awesome features today.</span></p>
+<p><span style="font-weight: 400;">And if you feel like, check out the newest <a href="https://typogram.co/account">Typogram</a>. We have recently launched our first AI feature for icon generation, along with many fantastic new updates. You can create a free account and try all our awesome features today.</span></p>
             ]]>
         </content>
     </entry>
