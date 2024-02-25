@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-02-22T00:38:35-05:00</updated>
+    <updated>2024-02-24T22:15:36-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -19,11 +19,11 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2024-02-22T00:38:35-05:00</updated>
+        <updated>2024-02-24T22:15:36-05:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/59/ProductUpdate16Cover.png" alt="" />
-                    How is Typogram development going? Already know what font you want to&hellip;
+                    How is Typogram development going? In our last major feature update, we&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -32,6 +32,8 @@
                 <blockquote>
 <p><strong style="font-family: var(--editor-font-family); font-size: inherit;">How is Typogram development going?</strong></p>
 </blockquote>
+<p>In our last major feature update, we introduced the <a href="https://typogram.co/blog/product-update-no15-launching-again/" rel="">multi-lines layout</a> feature, allowing users to create and manipulate multiple lines of text. However, an unintended bug was introduced that may have caused issues with text layout when changing font size. If you’ve encountered these problems, we want to extend our deepest apologies. The bug has been fixed, and we invite you to try our tool again. We task ourselves to enhance your creative experience and hope you’ll enjoy the improved functionality and continue to explore the possibilities with our platform.</p>
+<h3 class="header-with-anchor-widget"><strong>Feature №1: Importing Your Own Fonts</strong></h3>
 <p>Already know what font you want to use inside Typogram’s logo editor? Now you can! A much-requested feature, you can now import your own font inside Typogram. There are two convenient methods to import your own fonts from your computer into the design:</p>
 <p><strong>Method 1:</strong> within the font family drop-down menu, click on the “Add My Font Files” button. Then, use the file picker to select your fonts.</p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/59/1-bring-your-own-fonts-file-button-2.gif" alt="image: Click ‘Add My Font Files’ in the drop-down and choose your fonts with the file picker." width="800" height="500">
