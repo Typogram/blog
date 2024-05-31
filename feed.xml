@@ -3,12 +3,61 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-02-27T17:24:31-05:00</updated>
+    <updated>2024-05-31T15:23:27-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Typogram Product Update № 17: Ligatures and Rounded Corners</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/product-update-no17-ligatures-and-rounded-corners/"/>
+        <id>https://typogram.co/blog/product-update-no17-ligatures-and-rounded-corners/</id>
+            <category term="Startups"/>
+            <category term="Inside Typogram"/>
+
+        <updated>2024-05-31T15:23:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/60/productUpdateCover17.png" alt="" />
+                    Hi Everyone 👋 We’re excited to introduce a new format for our&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://typogram.co/blog/media/posts/60/productUpdateCover17.png" alt="" />
+                <figure class="post__video"><iframe loading="lazy" width="800" height="449" src="https://www.youtube.com/embed/NCLYoFKW0pA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<h3 class="last-child">Hi Everyone 👋</h3>
+<p>We’re excited to introduce a new format for our Typogram product updates! Starting with this release, we’ll be using video to walk you through the latest features and improvements, providing a more engaging and in-depth look at what’s new. Don’t worry if you prefer written content - we’ve got you covered with a full transcript of the video below.</p>
+<p><a href="https://www.youtube.com/watch?v=NCLYoFKW0pA" target="_blank" class="mceButtonLink" rel="noopener">Watch Product Update Video ▶️</a></p>
+<p>In this Typogram product update video, I dive into two exciting new features that will take your typography game to the next level. First, we explore the world of ligatures, a hidden gem in many fonts that can add a touch of elegance and sophistication to your designs. Learn how to easily find and apply ligatures to your text using Typogram’s intuitive interface.<br><br>But that’s not all! We also introduce a highly anticipated feature: rounding corners. Say goodbye to the limitations of static, sharp corners and embrace the creative freedom of customizable rounded corners. Discover how Typogram’s innovative tools allow you to selectively round individual corners or apply consistent rounding across multiple anchor points.</p>
+<h1><strong><span data-preserver-spaces="true">Video transcript:</span></strong></h1>
+<p><span data-preserver-spaces="true">Hi, this is Wenting. I’m the founder and creator of Typogram. </span><span data-preserver-spaces="true">This</span><span data-preserver-spaces="true"> is my first product update using this video format, and it is nice to meet you. </span></p>
+<h3><strong><span data-preserver-spaces="true">Quality of Life Updates</span></strong></h3>
+<p><span data-preserver-spaces="true">Let’s start with some quality-of-life updates. </span><span data-preserver-spaces="true">Normally</span><span data-preserver-spaces="true">, you would change the panning using the centerX and centerY values, which change the center of the viewpoint. You can also zoom in by changing the zoom value, that’s what we are doing so far. </span><span data-preserver-spaces="true">However, there’s a better way in Typogram to zoom in</span><span data-preserver-spaces="true">, which is holding</span><span data-preserver-spaces="true"> on </span><span data-preserver-spaces="true">the</span><span data-preserver-spaces="true"> option (or alt) key and scrolling using your mouse wheel.</span><span data-preserver-spaces="true"> You can also point where you want to zoom </span><span data-preserver-spaces="true">in,</span><span data-preserver-spaces="true"> so it will zoom in where the mouse is.</span></p>
+<p><img loading="lazy" src="https://mcusercontent.com/524fd774e21060e9ef6f46b01/images/0e4eff4e-13fa-9679-7b20-28168e508bfc.png" data-is-external-image="true" ></p>
+<p><span data-preserver-spaces="true">Additionally,</span><span data-preserver-spaces="true"> you can also pan by holding on </span><span data-preserver-spaces="true">the</span><span data-preserver-spaces="true"> spacebar </span><span data-preserver-spaces="true">and</span> <span data-preserver-spaces="true">holding</span><span data-preserver-spaces="true"> on your mouse left key </span><span data-preserver-spaces="true">and</span><span data-preserver-spaces="true"> dragging it around.</span><span data-preserver-spaces="true"> Combining that with zooming in is a very fluid way to change your viewpoint. We also added Undo and Redo shortcuts. </span><span data-preserver-spaces="true">Before</span><span data-preserver-spaces="true"> there were buttons to click to Undo and Redo</span><span data-preserver-spaces="true">, now</span><span data-preserver-spaces="true"> you can hold down Ctrl (⌘) + Z to Undo and Ctrl (⌘) + Shift + Z to Redo.</span></p>
+<h3><strong><span data-preserver-spaces="true">Introducing: Ligature Feature</span></strong></h3>
+<p><img loading="lazy" src="https://mcusercontent.com/524fd774e21060e9ef6f46b01/images/0a243a42-9aca-56e5-67c3-80ec6f50a9f3.png" data-is-external-image="true" ></p>
+<p><span data-preserver-spaces="true">Now, </span><span data-preserver-spaces="true">onto</span><span data-preserver-spaces="true"> a </span><span data-preserver-spaces="true">major</span><span data-preserver-spaces="true"> update, </span><span data-preserver-spaces="true">which is</span><span data-preserver-spaces="true"> a brand new feature </span><span data-preserver-spaces="true">that is</span><span data-preserver-spaces="true"> exclusively available on Typogram; it’s called ligature.</span> <span data-preserver-spaces="true">Currently, we’re looking at two fonts, both of them have ligatures available </span><span data-preserver-spaces="true">to</span> <span data-preserver-spaces="true">them</span><span data-preserver-spaces="true">.</span><span data-preserver-spaces="true"> How do we find fonts like these?</span></p>
+<p><span data-preserver-spaces="true">First, select the text, and this text is </span><span data-preserver-spaces="true">gonna</span><span data-preserver-spaces="true"> be determining what font will </span><span data-preserver-spaces="true">be filtered</span><span data-preserver-spaces="true"> down the line. </span><span data-preserver-spaces="true">Then we turn on “Has Ligature</span><span data-preserver-spaces="true">”,</span><span data-preserver-spaces="true"> so </span><span data-preserver-spaces="true">this</span><span data-preserver-spaces="true"> combined</span><span data-preserver-spaces="true"> with the text </span><span data-preserver-spaces="true">content</span> <span data-preserver-spaces="true">is </span><span data-preserver-spaces="true">gonna</span><span data-preserver-spaces="true"> come up with a list of fonts </span><span data-preserver-spaces="true">that has ligature</span><span data-preserver-spaces="true"> applicable to your selected text.</span><span data-preserver-spaces="true"> Surely enough, each one we click here has some ligature to choose from.</span></p>
+<p><span data-preserver-spaces="true">You can </span><span data-preserver-spaces="true">also</span><span data-preserver-spaces="true"> filter all tools to only show ligature tools by selecting </span><span data-preserver-spaces="true">it</span><span data-preserver-spaces="true"> in the menu.</span><span data-preserver-spaces="true"> This way, the ligature shows on top of the font menu, making it </span><span data-preserver-spaces="true">really</span><span data-preserver-spaces="true"> easy to maneuver and configure. </span><span data-preserver-spaces="true">After </span><span data-preserver-spaces="true">you apply</span><span data-preserver-spaces="true"> a ligature to two letters, you can also select that ligature glyph and break </span><span data-preserver-spaces="true">ligature</span><span data-preserver-spaces="true">, </span><span data-preserver-spaces="true">and that</span><span data-preserver-spaces="true"> will separate them into individual glyphs again.</span></p>
+<p><span data-preserver-spaces="true">You can also</span><span data-preserver-spaces="true"> select two or more consecutive letters and turn on “Has Substitutions</span><span data-preserver-spaces="true">”.</span> <span data-preserver-spaces="true">This</span><span data-preserver-spaces="true"> is an alternative way to find ligature that </span><span data-preserver-spaces="true">is applicable</span><span data-preserver-spaces="true"> to selected letters. So here, every </span><span data-preserver-spaces="true">single</span><span data-preserver-spaces="true"> font will have ligature applicable to the letters “a” </span><span data-preserver-spaces="true">“t”</span><span data-preserver-spaces="true">.</span></p>
+<h3><strong><span data-preserver-spaces="true">Introducing: Rounding Corners</span></strong></h3>
+<p><img loading="lazy" src="https://mcusercontent.com/524fd774e21060e9ef6f46b01/images/b8b8d971-0889-f0c1-91e6-152cfaee9af4.png" data-is-external-image="true" ></p>
+<p><span data-preserver-spaces="true">Last but not </span><span data-preserver-spaces="true">the least</span><span data-preserver-spaces="true">, I finally added a feature that I have been dreaming about since the inception of Typogram, which is rounding corners. </span><span data-preserver-spaces="true">Now at Typogram, we have added anchors </span><span data-preserver-spaces="true">where</span><span data-preserver-spaces="true"> you can select each </span><span data-preserver-spaces="true">of the anchor points</span><span data-preserver-spaces="true"> and round them.</span><span data-preserver-spaces="true"> Change the select tool to “Select Corner</span><span data-preserver-spaces="true">”,</span><span data-preserver-spaces="true"> which </span><span data-preserver-spaces="true">is newly added</span><span data-preserver-spaces="true">, and now you see a bunch of corners to be selected.</span></p>
+<p><span data-preserver-spaces="true">Once you select one of them, you see the panel </span><span data-preserver-spaces="true">that has</span><span data-preserver-spaces="true"> a radius property for them, where you can manipulate how rounded that corner should be. We can also multi-select multiple corners and then round them together. </span><span data-preserver-spaces="true">The easiest way to multi-select corners is to </span><span data-preserver-spaces="true">use</span><span data-preserver-spaces="true"> drag</span><span data-preserver-spaces="true"> a box and cover the corners </span><span data-preserver-spaces="true">that</span><span data-preserver-spaces="true"> you want to select.</span><span data-preserver-spaces="true"> If you keep using drag to </span><span data-preserver-spaces="true">select</span><span data-preserver-spaces="true">, </span><span data-preserver-spaces="true">the previous selection won’t be cleared</span><span data-preserver-spaces="true">, making it </span><span data-preserver-spaces="true">really</span><span data-preserver-spaces="true"> easy to select all the corners you want to round to the same level of roundness and apply the value together. </span></p>
+<p><span data-preserver-spaces="true">Here</span><span data-preserver-spaces="true"> I </span><span data-preserver-spaces="true">try to</span><span data-preserver-spaces="true"> round all the slab serifs to create a custom typeface look.</span><span data-preserver-spaces="true"> Beyond just rounding corners, </span><span data-preserver-spaces="true">there’s</span> <span data-preserver-spaces="true">actually</span><span data-preserver-spaces="true"> three different options of rounding: round, square, and concave. You can choose between them and apply different </span><span data-preserver-spaces="true">radius</span><span data-preserver-spaces="true"> to achieve a </span><span data-preserver-spaces="true">different</span><span data-preserver-spaces="true"> look. You can mix and match different corner types with different </span><span data-preserver-spaces="true">radius</span><span data-preserver-spaces="true"> here. I’m adding a square corner on both sides of the vertical stroke of the letter R.</span></p>
+<p><span data-preserver-spaces="true">Rounding corners </span><span data-preserver-spaces="true">adds</span><span data-preserver-spaces="true"> so many different possibilities to your design. I welcome you to explore all these new features in </span><a target="_blank" href="https://typogram.co/" class="editor-rtfLink" rel="noopener"><span data-preserver-spaces="true">typogram</span><span data-preserver-spaces="true">.co</span></a><span data-preserver-spaces="true"> today.</span></p>
+<h3 class="header-with-anchor-widget"><strong>Hearing From You</strong></h3>
+<p>We’d love to hear more of your thoughts if you have already tried the software. Please share them with us by directly replying to this email or filling out this <a href="https://tally.so/r/mVGEQv" rel="">very short feedback form</a>. If you haven’t tried, we encourage you to create an account and use the Free Trial to play with the tool.</p>
+<p>If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7" rel="">here</a>. You can also chat with us via the chat window inside the app. We are online during the daytime in the EST time zone (and some night time too).</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Product Update No.16: Import Your Own Font</title>
         <author>
@@ -19,7 +68,7 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2024-02-27T17:24:31-05:00</updated>
+        <updated>2024-05-31T15:22:40-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/59/ProductUpdate16Cover.png" alt="" />
@@ -786,57 +835,6 @@
 <p><span style="font-weight: 400;">We organized user testing sessions and received great feedback. The success of user testing validated the flow and design of our brand personality feature inside Typogram! Because of the overwhelmingly positive response, we now make this kit a free resource for our community. </span></p>
 <h2><span style="font-weight: 400;">Access our Brand Personality Workshop Kit</span></h2>
 <p><span style="font-weight: 400;">You can download our free </span><a href="https://workshop.typogram.co/" title="Typogram's Brand Personality Workshop Kit"><span style="font-weight: 400;">Brand Personality Workshop Kit</span></a><span style="font-weight: 400;"> on our website. It is available in PDF and Google Slide formats.</span><br><br><br><br><br><br><br></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Typogram Product Updates: In-App Tutorial Videos &amp; Modularized App Components</title>
-        <author>
-            <name>Wenting Zhang</name>
-        </author>
-        <link href="https://typogram.co/blog/typogram-product-updates-no12-in-app-tutorial-videos-streamlined-brand-name-change-modularized-app-components/"/>
-        <id>https://typogram.co/blog/typogram-product-updates-no12-in-app-tutorial-videos-streamlined-brand-name-change-modularized-app-components/</id>
-            <category term="Inside Typogram"/>
-
-        <updated>2023-08-05T15:55:29-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/49/ProductUpdateNo12.png" alt="Typogram Product Update: In-App Tutorial Videos &amp; Modularized App Components" />
-                    How is Typogram development going? Since our last update, we have been&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/49/ProductUpdateNo12.png" alt="Typogram Product Update: In-App Tutorial Videos &amp; Modularized App Components" />
-                <blockquote>
-<p><strong style="font-family: var(--editor-font-family); font-size: inherit;">How is Typogram development going?</strong></p>
-</blockquote>
-<p>Since our last update, we have been busy working per your feedback and suggestions. Here is what we worked on. </p>
-<h1> </h1>
-<h2><span style="font-weight: 400;">In-App Tutorial Videos </span></h2>
-<p><span style="font-weight: 400;">A popular request we received is adding tutorial videos, and we hear you! We have added short in-app tutorial videos that help you along the way in Brand Personality, Brand Color, Distinctive Logo (Logo Editor), and Kerning steps. Each video showcases the available features in that particular step. The short videos present you with how-tos, instructions, and tooltips so that you can find our helpful features. You can find the videos embedded in the learning material posts. We hope you find them useful, and please let us know if you have any feedback.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/49/logoEditorVideoScreenshotUpdate.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/49/responsive/logoEditorVideoScreenshotUpdate-xs.png 300w ,https://typogram.co/blog/media/posts/49/responsive/logoEditorVideoScreenshotUpdate-sm.png 480w ,https://typogram.co/blog/media/posts/49/responsive/logoEditorVideoScreenshotUpdate-md.png 768w ,https://typogram.co/blog/media/posts/49/responsive/logoEditorVideoScreenshotUpdate-lg.png 1024w"  alt="img: in-app video inside learning material" width="786" height="536">
-<figcaption ><span style="font-weight: 400;">img: in-app video inside learning material</span></figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/49/logoEditorVideoUpdate-optimize.gif" alt="img: in-app video showing tips on product features" width="909" height="703">
-<figcaption ><span style="font-weight: 400;">img: in-app video showing tips on product features</span></figcaption>
-</figure>
-<h1> </h1>
-<h2><span style="font-weight: 400;">Streamlined Brand Name Change </span></h2>
-<p><span style="font-weight: 400;">Another popular request we receive is brand name change. Because Typogram offers a one-brand lifetime license, you are locked down to a brand name once you purchase a paid license. However, we understand that sometimes, accidents happen. There can be spelling errors or incorrect name entries.</span></p>
-<p><span style="font-weight: 400;">The old process for the brand name change was manually sending us an email or via the chat widget. Starting today, we have a better, more streamlined process: you can initiate a name change directly in the app through your project dashboard. Under the appropriate project, click “Request Change Brand Name,” to enter a new name for approval. It’ll usually approve within 24 hours.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/49/brandNameChangeEditUpdate_2-2.gif" alt="img: request to change brand name" width="1440" height="900">
-<figcaption ><span style="font-weight: 400;">img: Request to change brand name</span></figcaption>
-</figure>
-<h2><span style="font-weight: 400;">Upcoming: Modularized App Components &amp; Expanding Brand Personality Workshop</span></h2>
-<p><span style="font-weight: 400;">We are currently reworking our app from the ground up with a brand-new direction to product thinking: </span><strong>modular steps and shareable work-in-progress.</strong><span style="font-weight: 400;"> We take pride in our unique eight-step process for creating a professional brand, but its implementation in the app seems rigid regarding workflow adherence. You must go through a series of steps to reach the final destination—Brand Guidelines—which is the only place and time where you can share your work.</span></p>
-<p><span style="font-weight: 400;">The new Typogram maintains the same brand design philosophies and workflows but is much more modular and flexible. We broke ground on this new app direction with Typogram’s first step—Brand Personality. Once completed, it will function as a modular component that can either stand alone as a mini app or serve as a segue to the full Typogram experience. The Brand Personality app will also feature a more visually stunning presentation you can save and publish. </span></p>
-<p><span style="font-weight: 400;">Our plans for the future: every single step is a standalone app, much more robust, but at the same time, it is still part of the full Typogram experience. The brand design journey can start anywhere and in any order. The work product of each step is presented in a much more visually-impressive way, and you can save and share with your team or community to get feedback.</span></p>
-<p><span style="font-weight: 400;">Let us know what you think of this future direction!</span></p>
-<h1> </h1>
-<h2><span style="font-weight: 400;">Hearing from You</span></h2>
-<p><span style="font-weight: 400;">We’d love to hear more of your thoughts if you have already tried the software. Please share them with us by directly replying to this email or filling out this </span><a href="https://tally.so/r/mVGEQv"><span style="font-weight: 400;">very short feedback form</span></a><span style="font-weight: 400;">. If you haven’t tried, we encourage you to create an account and use the Free Trial to play with the tool.</span></p>
-<p><span style="font-weight: 400;">If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through </span><a href="https://tally.so/r/mOQxJ7"><span style="font-weight: 400;">here</span></a><span style="font-weight: 400;">. You can also chat with us via the chat window inside the app. We are online during the daytime in the EST time zone (and some night time too).</span></p>
             ]]>
         </content>
     </entry>
