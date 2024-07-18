@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-07-17T23:28:57-04:00</updated>
+    <updated>2024-07-17T23:33:24-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -76,16 +76,16 @@
             <category term="Startups"/>
             <category term="Inside Typogram"/>
 
-        <updated>2024-05-31T15:37:07-04:00</updated>
+        <updated>2024-07-17T23:33:24-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/60/productUpdateCover17.png" alt="" />
+                        <img src="https://typogram.co/blog/media/posts/60/productUpdateCover17-2.png" alt="" />
                     Hi Everyone 👋 We’re excited to introduce a new format for our&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://typogram.co/blog/media/posts/60/productUpdateCover17.png" alt="" />
+                    <img src="https://typogram.co/blog/media/posts/60/productUpdateCover17-2.png" alt="" />
                 <figure class="post__video"><iframe loading="lazy" width="800" height="449" src="https://www.youtube.com/embed/NCLYoFKW0pA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <h3 class="last-child">Hi Everyone 👋</h3>
 <p>We’re excited to introduce a new format for our Typogram product updates! Starting with this release, we’ll be using video to walk you through the latest features and improvements, providing a more engaging and in-depth look at what’s new. Don’t worry if you prefer written content - we’ve got you covered with a full transcript of the video below.</p>
