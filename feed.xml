@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-10-31T17:23:28-04:00</updated>
+    <updated>2024-10-31T17:25:19-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -66,14 +66,16 @@
 </figure>
 <p>Pro Tip: Keep an eye out for fonts with a diamond icon! These exclusive premium fonts are available only on Typogram, licensed from top type foundries.</p>
 
-<h2>No.2  Live Glyph Substitution for More Creative Control</h2>
+<h2>No.2  Glyph Substitution for More Creative Control</h2>
 <p>We’ve also added live glyph substitution to certain fonts, giving you more design flexibility. Some fonts contain alternate versions of letters, numbers, or symbols to enhance creativity.</p>
 <p>To use this feature:</p>
 <ul>
 <li style="font-weight: 400;" aria-level="1">Select a letter, then look under “Substitution” on the right side panel to see if alternatives are available.</li>
 <li style="font-weight: 400;" aria-level="1">Simply click the glyph you like, and it will apply to your design instantly.</li>
 </ul>
-<figure class="post__image centerBlogPostImage"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/AlternateGlyph-sm.gif" alt="" width="701" height="489"></figure>
+<figure class="post__image centerBlogPostImage" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/AlternateGlyph-sm.gif" alt="Glyph Substitution for more design choices" width="701" height="489"></figure>
+<figcaption >Glyph Substitution for more design choices</figcaption>
+</figure>
 <p>That’s it! In just a few clicks, your logo becomes even more unique and distinctive.</p>
 <p>We would love to hear what you think of these new features! If you’ve tried them out, feel free to share any feedback or suggestions—we are all ears.</p>
             ]]>
