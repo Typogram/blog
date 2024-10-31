@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-10-31T16:32:13-04:00</updated>
+    <updated>2024-10-31T16:47:05-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -28,7 +28,7 @@
 </blockquote>
 <p>We’re glad you asked! We're excited to announce our latest product update, packed with powerful new features designed to enhance your creative workflow! This update introduces <strong>Variable Font Gradient</strong> and <strong>Glyphs Substitution</strong>—two tools that will expand your design possibilities. With these new features, you can explore dynamic typography options and refine your design ideas in innovative ways, giving you greater control and flexibility over your creative process.</p>
 <p>Watch our product update video for a detailed walkthrough, or continue reading below for a breakdown of each feature.</p>
-<figure class="post__video"><iframe loading="lazy" width="695" height="439" style="width: 695px; height: 439px;" src="https://www.youtube.com/embed/ZmRn8FElwO8?ab_channel=WendyofTypogram" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="auto" height="auto" style="width: 788px; height: 416px;" src="https://www.youtube.com/embed/ZmRn8FElwO8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 
                 ]]>
             </summary>
@@ -40,11 +40,13 @@
 </blockquote>
 <p>We’re glad you asked! We're excited to announce our latest product update, packed with powerful new features designed to enhance your creative workflow! This update introduces <strong>Variable Font Gradient</strong> and <strong>Glyphs Substitution</strong>—two tools that will expand your design possibilities. With these new features, you can explore dynamic typography options and refine your design ideas in innovative ways, giving you greater control and flexibility over your creative process.</p>
 <p>Watch our product update video for a detailed walkthrough, or continue reading below for a breakdown of each feature.</p>
-<figure class="post__video"><iframe loading="lazy" width="695" height="439" style="width: 695px; height: 439px;" src="https://www.youtube.com/embed/ZmRn8FElwO8?ab_channel=WendyofTypogram" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="auto" height="auto" style="width: 788px; height: 416px;" src="https://www.youtube.com/embed/ZmRn8FElwO8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 
 <h2>No.1 Variable Font Gradient: Our Favorite New Feature</h2>
 <p>One of our favorite logo design trends is when designers use multiple font weights to create a gradient with letterforms. With the recent introduction of variable fonts to Typogram, it was the perfect time to implement a font gradient feature. With variable fonts, you can smoothly transition between different weights and styles – far beyond the typical "regular" or "bold.”</p>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontExclusiveEmailUpdate-3-sm-2.jpg" alt="" width="1920" height="415" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-md.jpg 768w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-lg.jpg 1024w"></figure>
+<figure class="post__image centerBlogPostImage" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontExclusiveEmailUpdate-3-sm-2.jpg" alt="Logos with font gradient trend" width="1920" height="415" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-md.jpg 768w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-lg.jpg 1024w"></figure>
+<figcaption ><em>Logos with font gradient trend</em></figcaption>
+</figure>
 <p>To use Variable Font Gradient, just select your design in the logo editor, choose a variable font, turn on font gradient under “weight” on the right panel, and then play with the handles of the visualizer to start designing! If you prefer pre-set options,  you can choose from our gradient templates (small thumbnails below the visualizer) and tweak them to your liking.</p>
 <p>Here are the detailed steps:</p>
 <ol>
@@ -56,8 +58,12 @@
 <li style="font-weight: 400;" aria-level="1"><strong style="font-family: var(--editor-font-family); font-size: inherit;">Customize with handles:</strong><span style="font-weight: 400;"> Easily manipulate the graph to create smooth weight transitions between letters.</span></li>
 <li style="font-weight: 400;" aria-level="1"><strong style="font-family: var(--editor-font-family); font-size: inherit;">Use Variable Font Gradient templates:</strong><span style="font-weight: 400;"> Prefer pre-set options? Choose from our </span><strong style="font-family: var(--editor-font-family); font-size: inherit;">gradient templates</strong><span style="font-weight: 400;"> to jump-start your creativity, then tweak them to your liking.</span></li>
 </ol>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontCurveEmailUpdate.gif" alt="" width="716" height="520"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontExclusiveEmailUpdate-2.jpg" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-md.jpg 768w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-lg.jpg 1024w"></figure>
+<figure class="post__image centerBlogPostImage" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontCurveEmailUpdate.gif" alt="" width="716" height="520"></figure>
+<figcaption ><em>Variable Font Gradient feature allows you to manipulate appearance of font effortlessly</em></figcaption>
+</figure>
+<figure class="post__image centerBlogPostImage" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontExclusiveEmailUpdate-2.jpg" alt="Premium one of a kind fonts for logo design on Typogram" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-md.jpg 768w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-2-lg.jpg 1024w"></figure>
+<figcaption ><em>We have many Premium fonts, exclusively available on Typogram!</em></figcaption>
+</figure>
 <p>Pro Tip: Keep an eye out for fonts with a diamond icon! These exclusive premium fonts are available only on Typogram, licensed from top type foundries.</p>
 
 <h2>No.2  Live Glyph Substitution for More Creative Control</h2>
