@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-10-31T17:59:45-04:00</updated>
+    <updated>2024-11-04T20:53:44-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -69,10 +69,10 @@
 <h2>No.2  Glyph Substitution for More Creative Control</h2>
 <p>We’ve also added live glyph substitution to certain fonts, giving you more design flexibility. Some fonts contain alternate versions of letters, numbers, or symbols to enhance creativity.</p>
 <p>To use this feature:</p>
-<ul>
-<li style="font-weight: 400;" aria-level="1">Select a letter, then look under “Substitution” on the right side panel to see if alternatives are available.</li>
-<li style="font-weight: 400;" aria-level="1">Simply click the glyph you like, and it will apply to your design instantly.</li>
-</ul>
+<ol>
+<li><strong>Select a letter</strong>, then look under “Substitution” on the right side panel to see if alternatives are available.</li>
+<li><strong>Simply click the glyph you like</strong>, and it will apply to your design instantly.</li>
+</ol>
 <figure class="post__image centerBlogPostImage" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/AlternateGlyph-sm.gif" alt="Glyph Substitution for more design choices" width="701" height="489"></figure>
 <figcaption >Glyph Substitution for more design choices</figcaption>
 </figure>
