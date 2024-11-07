@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-11-04T20:53:44-05:00</updated>
+    <updated>2024-11-07T14:16:36-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -42,6 +42,7 @@
 <p>Watch our product update video for a detailed walkthrough, or continue reading below for a breakdown of each feature.</p>
 <figure class="post__video"><iframe loading="lazy" width="auto" height="auto" style="width: 788px; height: 416px;" src="https://www.youtube.com/embed/ZmRn8FElwO8" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 
+<h2><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/Variable-Fonts-with-weight-slider-and-width-slider.png" alt="" width="731" height="547" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/62/responsive/Variable-Fonts-with-weight-slider-and-width-slider-xs.png 300w ,https://typogram.co/blog/media/posts/62/responsive/Variable-Fonts-with-weight-slider-and-width-slider-sm.png 480w ,https://typogram.co/blog/media/posts/62/responsive/Variable-Fonts-with-weight-slider-and-width-slider-md.png 768w ,https://typogram.co/blog/media/posts/62/responsive/Variable-Fonts-with-weight-slider-and-width-slider-lg.png 1024w"></figure></h2>
 <h2>No.1 Variable Font Gradient: Our Favorite New Feature</h2>
 <p>One of our favorite logo design trends is when designers use multiple font weights to create a gradient with letterforms. With the recent introduction of variable fonts to Typogram, it was the perfect time to implement a font gradient feature. With variable fonts, you can smoothly transition between different weights and styles – far beyond the typical "regular" or "bold.”</p>
 <figure class="post__image centerBlogPostImage" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/62/variableFontExclusiveEmailUpdate-3-sm-2.jpg" alt="Logos with font gradient trend" width="1920" height="415" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-md.jpg 768w ,https://typogram.co/blog/media/posts/62/responsive/variableFontExclusiveEmailUpdate-3-sm-2-lg.jpg 1024w"></figure>
