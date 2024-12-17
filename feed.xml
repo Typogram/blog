@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-12-17T16:40:17-05:00</updated>
+    <updated>2024-12-17T16:48:46-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://typogram.co/blog/product-update-no-20-new-brand-color-selection-experience/"/>
         <id>https://typogram.co/blog/product-update-no-20-new-brand-color-selection-experience/</id>
         <media:content url="https://typogram.co/blog/media/posts/64/ProductUpdate20Cover.png" medium="image" />
+            <category term="Startups"/>
             <category term="Inside Typogram"/>
 
         <updated>2024-12-14T14:48:40-05:00</updated>
@@ -170,6 +171,7 @@
         <link href="https://typogram.co/blog/update-19-manipulate-font-style/"/>
         <id>https://typogram.co/blog/update-19-manipulate-font-style/</id>
         <media:content url="https://typogram.co/blog/media/posts/62/typogram-product-update-19-change-font-appearance-with-variable-font-gradient.png" medium="image" />
+            <category term="Startups"/>
             <category term="Inside Typogram"/>
 
         <updated>2024-10-31T16:15:00-04:00</updated>
