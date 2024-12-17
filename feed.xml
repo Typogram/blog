@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2024-12-17T16:48:46-05:00</updated>
+    <updated>2024-12-17T16:58:49-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -24,7 +24,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/64/ProductUpdate20Cover.png" alt="Product Update № 20 : New Color Selection Experience" />
-                    How is Typogram development going? Hello Everyone! We are thrilled to welcome&hellip;
+                    How is Typogram development going? We are thrilled to welcome you to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -34,8 +34,9 @@
 <blockquote>
 <div><strong style="font-family: var(--editor-font-family); font-size: inherit;">How is Typogram development going?</strong></div>
 </blockquote>
-<div> </div>
-<div class="section-divider"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Hello Everyone! We are thrilled to welcome you to another </span><a href="https://typogram.co/" data-href="https://typogram.co/" class="markup--anchor markup--p-anchor" rel="noopener" target="_blank" style="font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Typogram</a><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> product update! We’ve recently added a ton of exciting new features to our logo editor — the two big ones: Variable Font Gradient and Glyph Substitution. See them in action in our video update. If you prefer text, read more below.</span></div>
+<div class="section-divider">
+<p data-pm-slice="1 1 []">We are thrilled to welcome you to another <a target="_blank" rel="noopener" class="markup--anchor markup--p-anchor" href="https://typogram.co/">Typogram</a> product update. In the last few weeks, we’ve completely revamped the way you choose colors inside our logo editor. See them in action in our video update. If you prefer text, read more below.</p>
+</div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
 <p class="graf graf--p align-center">👉 <a href="https://www.youtube.com/@wentinz" data-href="https://www.youtube.com/@wentinz" class="markup--anchor markup--p-anchor" rel="noreferrer noopener noopener" target="_blank"><strong class="markup--strong markup--p-strong">Subscribe Our Youtube Channel</strong></a></p>
