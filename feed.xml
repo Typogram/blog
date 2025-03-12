@@ -3,12 +3,79 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-02-21T15:52:45-05:00</updated>
+    <updated>2025-03-11T19:59:59-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Creating Festive St. Patrick’s Day Designs with AI Icons and Smart Typography Features</title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.co/blog/creating-festive-st-patricks-day-designs-with-ai-icons-and-smart-typography-features/"/>
+        <id>https://typogram.co/blog/creating-festive-st-patricks-day-designs-with-ai-icons-and-smart-typography-features/</id>
+        <media:content url="https://typogram.co/blog/media/posts/68/stPatricksDayCover-2.png" medium="image" />
+            <category term="Typography &amp; Fonts"/>
+
+        <updated>2025-03-11T19:58:32-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/68/stPatricksDayCover-2.png" alt="st.patrick&#x27;s day typography design created using typogram" />
+                    Saint Patrick’s Day is the perfect excuse to get creative with typography&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://typogram.co/blog/media/posts/68/stPatricksDayCover-2.png" class="type:primaryImage" alt="st.patrick&#x27;s day typography design created using typogram" /></p>
+                <p><span style="font-weight: 400;">Saint Patrick’s Day is the perfect excuse to get creative with typography and design. In this post, we’ll walk through how to create a festive typographic design using some of Typogram’s most powerful features: premium typefaces with alternate letters, AI-generated icons, and smart color palette suggestions. Plus, we’ll fine-tune spacing to create a well-balanced, polished look.</span></p>
+<h2><strong>Step 1: Choosing the Right Typeface</strong></h2>
+<p><span style="font-weight: 400;">A great design starts with a great typeface. Typogram offers premium typefaces that you won’t find anywhere else—perfect for making your design stand out. For this project, we’re using a decorative typeface that includes built-in alternate letter styles. This means we can swap certain letters for different stylistic variations, adding more personality and uniqueness to the design.</span></p>
+<p><span style="font-weight: 400;">To experiment with alternate letters, simply select a letter and browse through the style options in the right-side panel. Play around and mix different versions until you find a combination that feels just right.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/ChoosingAGoodTypeface-3.png" alt="ChoosingAGoodTypeface.png" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-lg.png 1024w">
+<figcaption >Lubaline is a fantastic typeface with many decorative cursive style alternates.</figcaption>
+</figure>
+<h2><strong>Step 2: Adjusting Spacing for a Balanced Layout</strong></h2>
+<p><span style="font-weight: 400;">Once we’ve chosen our typeface and alternates, it’s time to focus on spacing. Proper spacing ensures that our design feels premium and intentional. If the letters are too close together, the design can feel cramped; too far apart, and it can lose cohesion.</span></p>
+<p><span style="font-weight: 400;">In Typogram, we can fine-tune letter spacing easily. A good rule of thumb is to adjust the spacing so that each letter has room to breathe while still feeling connected to the overall composition. This is especially important for decorative or script-like typefaces.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/BalancingDesign.png" alt="Adjust spacing to create a balanced design" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/BalancingDesign-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/BalancingDesign-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/BalancingDesign-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/BalancingDesign-lg.png 1024w">
+<figcaption >Adjust spacing to create a balanced design</figcaption>
+</figure>
+<h2><strong>Step 3: Adding an AI-Generated Icon</strong></h2>
+<p><span style="font-weight: 400;">A strong visual element can elevate a typographic design, and Typogram’s AI icon feature makes it easy to add custom illustrations. Since Saint Patrick’s Day is all about clovers and Celtic knots, we’ll generate an AI icon that fits the theme.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/LogoDesignwAi.png" alt="A generated celtic knot icon" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-lg.png 1024w">
+<figcaption >a generated celtic knot icon created by ai</figcaption>
+</figure>
+<p><span style="font-weight: 400;">To do this, we can use the </span><strong>Add Icon</strong><span style="font-weight: 400;"> feature: enter a simple but detailed description describing general look and style of the icon, and let the AI create an SVG icon for us.</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">If we’re not happy with the first result, we can regenerate or choose from previously created icons.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/AiIconPrompt.png" alt="create a description to generate ai icon inside typogram" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-lg.png 1024w">
+<figcaption >Create a description to generate ai icon</figcaption>
+</figure>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/AiIconGeneration.png" alt="a generated icon from inside Typogram" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/AiIconGeneration-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/AiIconGeneration-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/AiIconGeneration-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/AiIconGeneration-lg.png 1024w">
+<figcaption >After icon has been generated, you can import back into your design</figcaption>
+</figure>
+<h2><strong>Step 4: Choosing a Festive Color Palette</strong></h2>
+<p><span style="font-weight: 400;">Color is key in setting the right mood. Instead of manually selecting colors, we can use Typogram’s </span><strong>Color Palette Suggestion</strong><span style="font-weight: 400;"> feature. By starting with a base color—like a rich green for Saint Patrick’s Day—we can instantly generate a range of color palettes containing that rich green color to get more color ideas. </span></p>
+<p><span style="font-weight: 400;">Here’s how:</span></p>
+<ol>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Select a starting color (lime green works great for this theme).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Head over to the </span><strong>Palette</strong><span style="font-weight: 400;"> section.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Browse the suggested color schemes and pick one that enhances the design.</span></li>
+</ol>
+<p><span style="font-weight: 400;">For this project, we’re using a lime green for the typography, a soft yellow for accents, and a very light beige as a highlight. This keeps the design fresh, festive, and balanced.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/SuggestingColorPalette-2.png" alt="typogram color palette suggestion feature " width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/SuggestingColorPalette-2-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/SuggestingColorPalette-2-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/SuggestingColorPalette-2-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/SuggestingColorPalette-2-lg.png 1024w">
+<figcaption >Use Color Palette Suggestion feature to easily get color palette ideas</figcaption>
+</figure>
+<h2><strong>Final Touches</strong></h2>
+<p><span style="font-weight: 400;">With our typeface, spacing, icon, and color palette in place, our design is coming together beautifully. As a final touch, we can swap out one of the letters—like the "O" in "Typography"—for a clover icon, making the design feel even more special and memorable.</span></p>
+<p><span style="font-weight: 400;">And that’s it! With just a few smart tools and adjustments, we’ve created a professional, eye-catching Saint Patrick’s Day design. Give these features a try in Typogram and have fun experimenting with your festive creations!</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/IconSwap.png" alt="use icon swap to generate more ideas for your design" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/IconSwap-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/IconSwap-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/IconSwap-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/IconSwap-lg.png 1024w">
+<figcaption >Use icon swap to generate more ideas for your design</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Finding Your Perfect Summer Color Palette</title>
         <author>
@@ -882,164 +949,6 @@
 <h3 class="header-with-anchor-widget"><strong>Hearing From You</strong></h3>
 <p>We’d love to hear more of your thoughts if you have already tried the software. Please share them with us by directly replying to this email or filling out this <a href="https://tally.so/r/mVGEQv" rel="">very short feedback form</a>. If you haven’t tried, we encourage you to create an account and use the Free Trial to play with the tool.</p>
 <p>If you encounter any issues, please help us improve by reporting the issue from inside the app or directly through <a href="https://tally.so/r/mOQxJ7" rel="">here</a>. You can also chat with us via the chat window inside the app. We are online during the daytime in the EST time zone (and some night time too).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Ultimate Guide for Creating a Brand Name</title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/blog/the-ultimate-guide-for-creating-a-brand-name/"/>
-        <id>https://typogram.co/blog/the-ultimate-guide-for-creating-a-brand-name/</id>
-        <media:content url="https://typogram.co/blog/media/posts/58/NamingGuidePostCover.png" medium="image" />
-            <category term="Branding"/>
-
-        <updated>2024-01-30T00:23:08-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/58/NamingGuidePostCover.png" alt="" />
-                    Choosing the Perfect Name When you start a new company, product, or&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://typogram.co/blog/media/posts/58/NamingGuidePostCover.png" class="type:primaryImage" alt="" /></p>
-                <h2><span style="font-weight: 400;">Choosing the Perfect Name</span></h2>
-<p><span style="font-weight: 400;">When you start a new company, product, or project, naming your brand is one of the first critical yet mind-boggling steps. How do you come up with a catchy name? What are the considerations? In this guide, we’ll explore the essential considerations for naming, how to come up with a good name, common pitfalls to avoid, and critical things to watch out for.</span></p>
-<h2><span style="font-weight: 400;">Before Naming Your Brand</span></h2>
-<h3><span style="font-weight: 400;">Propose and Identity</span></h3>
-<p><span style="font-weight: 400;">Before you start brainstorming a potential brand name, it is vital to define the purpose and identity of your brand. What message or image do you want the name to convey? Understanding your brand’s purpose, essence, or unique selling point is essential. </span></p>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/58/post34-howtomakeagreatproduct.png" alt="" width="2088" height="1344" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/post34-howtomakeagreatproduct-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/post34-howtomakeagreatproduct-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/post34-howtomakeagreatproduct-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/post34-howtomakeagreatproduct-lg.png 1024w"></figure>
-<h3><span style="font-weight: 400;">Target Audience </span></h3>
-<p><span style="font-weight: 400;">Who are you selling your brand to? Consider your target audience. Your name should resonate with your intended demographic. Think about what appeals to them and what kind of language they relate to. Research these words, phrases, and languages, and use them as inspirations. </span></p>
-<h3><span style="font-weight: 400;">Competition Research</span></h3>
-<p><span style="font-weight: 400;">It can be helpful to analyze your competitor’s names. You want a unique name that stands out and avoids confusion with similar businesses or products. Research will also help you identify naming trends within your industry, giving you additional naming ideas. </span></p>
-<h3><span style="font-weight: 400;">Process of Naming a Brand </span></h3>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Step 1: Create Your Seed Words</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Step 2: Identify a Naming Method</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Step 3: Still Stuck? Try a Naming Matrix </span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Step 4: Testing your name </span></li>
-</ul>
-<blockquote>
-<p><span style="font-weight: 400;">I’m ready to move into action and do some naming. Where do I start? </span></p>
-</blockquote>
-<h2>Step 1: Create Your Seed Words</h2>
-<p><strong>You can start by developing a list of seed words describing what your product or business does. This can include: </strong></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">the business vertical that you are in (noun), </span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">what makes your brand unique (adjective) or how your customer would feel about this brand (adjective) </span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">abstractive words that are related to your business.</span></li>
-</ul>
-<p><span style="font-weight: 400;">For example, for a Travel Agency, this could look like: </span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Noun: Travel, Airline, Transportation, Air, Ticket, Booking, Hotel, Hospitality</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Adjective: Easy, Relaxed, Care-free, Adventurous, Luxurious</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Abstractive Words: Tranquility, Epiphany, Happiness, Destination</span></li>
-</ul>
-<hr>
-<h2>Step 2: Identify a Naming Method</h2>
-<p><strong>Choose one of our naming methods with your seed words. Experiment to make these words unique and ownable as a brand name.</strong></p>
-<p><span style="font-weight: 400;">It is hard to own “off-the-shelf” words like “Fast” and “Lovely” as brand names. They may associate with another brand already, and it could be tough for people to find your brand via search engines. </span></p>
-<p><span style="font-weight: 400;">You need to spice up the word and make it unique, just like the “Distinctive Logo” step in Typogram, which spices up the logo to look visually distinctive and memorable. There are eight different Typogram methods to make a logo look unique. Below, we started collecting methods to make the words special as brand names.</span></p>
-<h4>Method 1:  Inventing words</h4>
-<h5>1.1 – Combine Noun and Adjective or Adverb</h5>
-<p><span style="font-weight: 400;">We can add adjective or adverb suffixes to make a new word from the noun. This newly invented word is more ownable as a brand since it is entirely original. </span></p>
-<p><span style="font-weight: 400;">In addition, your audience can easily piece together what your new brand is based on the clue from your new brand name.</span></p>
-<p><em><span style="font-weight: 400;">Examples: Grammarly, Typely, Typefully, Contentful, Shopify, Spotify</span></em></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-InventingWords.png" alt="Method 1.1 - transform the noun into an adjective, adverb, or verb, and vice versa" width="1859" height="1132" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-InventingWords-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-InventingWords-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-InventingWords-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-InventingWords-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Method 1.1 - Transform the noun into an adjective, adverb, or verb, and vice versa</span></figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Adverb-Adjective-Suffixes.png" alt="some examples of suffixes you can add to nouns" width="1332" height="842" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Adverb-Adjective-Suffixes-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Adverb-Adjective-Suffixes-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Adverb-Adjective-Suffixes-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Adverb-Adjective-Suffixes-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Examples of suffixes you can add to nouns</span></figcaption>
-</figure>
-<h5>1.2 – Combine Two Words into a Single One </h5>
-<p><span style="font-weight: 400;">You can also invent words by creating a portmanteau, combining two words from your seed list into one name. Your new brand name should have less than four syllables so it is easy for someone to pronounce, remember, and share in a conversation. </span></p>
-<p><em><span style="font-weight: 400;">Examples: Starbucks(Beverage), Facebook(Tech), and Activia (Food).</span></em></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-CombinigTwoWords.png" alt="method 1.2 - combine two words into a single one" width="1857" height="670" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-CombinigTwoWords-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-CombinigTwoWords-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-CombinigTwoWords-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-CombinigTwoWords-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Method 1.2 - combine two words into a single one</span></figcaption>
-</figure>
-<h5>1.3 - Combine a Partial Word and a Word</h5>
-<p><span style="font-weight: 400;">Similar to combining two words, this method joins two name ideas together, but with a twist. Incorporating a partial word, usually a word root, like -gram or insta-, allows us to present two ideas in a much shorter format. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-CombiningPartialWordandWord.png" alt="img: Instagram, Instabase, Ubisoft, Microsoft, Netflix, Skype" width="1857" height="670" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-CombiningPartialWordandWord-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-CombiningPartialWordandWord-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-CombiningPartialWordandWord-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-CombiningPartialWordandWord-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Method 1.3 - Instagram, Instabase, Ubisoft, Microsoft, Netflix, Skype</span></figcaption>
-</figure>
-<p> </p>
-<h5>1.4 – Shorten Words </h5>
-<p><span style="font-weight: 400;">Sometimes, it is better to subtract than to add. You can invent a brand new, shorter word by shortening a longer word into a shorter one or isolating parts of a longer word. For example, Fanta originated from the longer German word, <em>Fantastisch</em>, meaning fantastic. “Pepsi” was initially advertised to relieve dyspepsia. </span></p>
-<p><em><span style="font-weight: 400;">Example: Fanta (Beverage), Pepsi(Beverage)</span></em></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-ShortenWords.png" alt="img - shortened fanta" width="1857" height="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-ShortenWords-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-ShortenWords-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-ShortenWords-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-ShortenWords-lg.png 1024w">
-<figcaption >Fanta is a great example that uses a shortened word as brand name</figcaption>
-</figure>
-<h4>Method 2: Misspelled Words</h4>
-<p><span style="font-weight: 400;">You can create a brand name by creating a misspelled word by adding, omitting, or substituting one or two letters from an essential word to your brand. Your addition, omission, or substitution should be small, so the original word can still be partially seen and understood. </span></p>
-<p><em><span style="font-weight: 400;">Example: Sunkist (Beverage), Lyft (Transportation)</span></em></p>
-<p><em><strong>Special Tip: Remove “non-essential” letters in the word, such as vowels.</strong></em></p>
-<p><span style="font-weight: 400;">This method is so widely used that it has become a trend. Some vowel letters, especially the letter ‘e’, are very insignificant in terms of pronunciation, so why not drop them? The minimalist approach transforms an everyday word into a unique brand name without changing the pronunciation (for the most part). </span></p>
-<p><em><span style="font-weight: 400;">Example: Flickr, Rdio, Tumblr, Scribd, Pixlr, GVE</span></em></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-MisspelledWords.png" alt="deleting letters" width="1857" height="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-MisspelledWords-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-MisspelledWords-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-MisspelledWords-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-MisspelledWords-lg.png 1024w">
-<figcaption >Deleting letters</figcaption>
-</figure>
-<h4>Method 3: Real Words </h4>
-<p><strong>Real words</strong><span style="font-weight: 400;"> are actual words used in real life. When using real words, it is vital to think about whether it could optimized for the search engine. Unless you have a lot of money, a brand name like “Smile” is challenging to own because many other research results are already associated with the keyword “Smile”. </span></p>
-<p><span style="font-weight: 400;">Another way to consider real words is by using a suffix as a brand name. For example, Uber is a brand using the German suffix Über-, meaning over or beyond, as its brand name. It’s short, easy to pronounce and remember, and makes it easy to create sub-brands. </span></p>
-<p><em><span style="font-weight: 400;">Examples: Uber (Transportation), Patagonia (Retail), Sprite(Beverage), Better (mortgage), and Mint (Telecommuting). </span></em></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-RealWord-2.png" alt="Real word branding name example" width="1857" height="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-RealWord-2-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-RealWord-2-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-RealWord-2-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-RealWord-2-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Real word branding name example</span></figcaption>
-</figure>
-<h4>Method 4: Paired Words </h4>
-<p><span style="font-weight: 400;">Another way to generate brand names is by pairing two words. </span></p>
-<p><em><span style="font-weight: 400;">Examples: AllTrails (Outdoor), Care Bear(Toy), and Dr.Peper (Beverage).</span></em></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-PairedWords.png" alt="img: paired words" width="1857" height="670" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-PairedWords-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-PairedWords-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-PairedWords-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-PairedWords-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Paired words</span></figcaption>
-</figure>
-<h4>Method 5: Create an Acronym </h4>
-<p><span style="font-weight: 400;">Creating </span><strong>acronyms</strong><span style="font-weight: 400;"> from words is also a popular method for generating brand names. Creating the acronym from keywords or phrases that matter to your brand would be best. The acronyms itself should also be easy to remember and pronounce.</span></p>
-<p><span style="font-weight: 400;">Example: YMCA (Non-Profit), IBM(Tech), NASA(Tech), ASOS(Fashion)</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/58/Naming-Acronym.png" alt="img: create acronym" width="1857" height="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/Naming-Acronym-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/Naming-Acronym-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/Naming-Acronym-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/Naming-Acronym-lg.png 1024w">
-<figcaption ><span style="font-weight: 400;">Create acronym</span></figcaption>
-</figure>
-<hr>
-<h2>Step 3: A Naming Matrix</h2>
-<p><span style="font-weight: 400;">You can create a naming matrix if you need additional help creating a brand name. Jeremy Miller’s Namescape is an excellent tool for this exact purpose. Namescape helps you craft a brand name based on two axes: </span></p>
-<ol>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Structure of the words</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Types of Names</span></li>
-</ol>
-<h4>Structure of Words </h4>
-<p><span style="font-weight: 400;">Using our identified methods, you can consider different word structures for creating your brand name, such as real, paired, invented, acronyms, or misspelled words. </span></p>
-<h4>Types of Names</h4>
-<p><span style="font-weight: 400;">You can also think about types of names, like descriptive, suggestive, and abstract. Descriptive names, like Mountain Dew, conjure up images and feelings. Suggestive names, like Petco, hint at what a product or service will do. Completely abstract names with memorable sounds, like Figma (Design tool), are easy to share in conversations. </span></p>
-<p><span style="font-weight: 400;">You can create a naming matrix by placing the words’ structure on one side and the types of names on the other. Next, try to come up with names that meet both requirements. It can be helpful to create namescapes of your competitors to analyze naming trends in your industry, helping you generate brand name ideas. </span></p>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/58/NamingMatrix.png" alt="" width="1600" height="840" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/58/responsive/NamingMatrix-xs.png 300w ,https://typogram.co/blog/media/posts/58/responsive/NamingMatrix-sm.png 480w ,https://typogram.co/blog/media/posts/58/responsive/NamingMatrix-md.png 768w ,https://typogram.co/blog/media/posts/58/responsive/NamingMatrix-lg.png 1024w"></figure>
-<hr>
-<h2>Step 4 : Test Your Name</h2>
-<p><span style="font-weight: 400;">Once you have a list of potential names, test them with your target audience, friends, or family. Their feedback can be invaluable and help you catch things you didn’t think of before. </span></p>
-<hr>
-<h2>Don’ts for Naming</h2>
-<h5>Avoid Trends</h5>
-<p><span style="font-weight: 400;">Trendy names can quickly become outdated. Opt for a timeless and enduring name that won’t require frequent rebranding.</span></p>
-<h5>Complex Spellings</h5>
-<p><span style="font-weight: 400;">Complicated or unusual spellings can confuse customers and make it harder for them to find you online. Keep it simple.</span></p>
-<h5>Negative Connotations</h5>
-<p><span style="font-weight: 400;">Be mindful of cultural, linguistic, or regional associations that may have negative connotations. A seemingly innocent name might have unintended meanings in other languages or cultures.</span></p>
-<h5>Overused Words</h5>
-<p><span style="font-weight: 400;">Avoid overused words like “innovative,” “solutions,” or “global” in your brand name unless they genuinely represent your brand’s essence.</span></p>
-<hr>
-<h2>Things to Watch Out For</h2>
-<h5>Legal Issues &amp; Trademarks</h5>
-<p><span style="font-weight: 400;">Before you decide on a brand name, conduct a thorough search to avoid potential complications. Is the brand name already trademarked? Is there a company or product that already has that brand name? Ensure your chosen name is unique and not already trademarked. Trademark infringement can lead to legal issues and rebranding costs. </span></p>
-<h5>Domain Availability</h5>
-<p><span style="font-weight: 400;">Ensure that a matching domain name is available. Your online presence is essential, and a matching domain can make a significant difference.</span></p>
-<h5>Scalability</h5>
-<p><span style="font-weight: 400;">Consider the long-term. Will your chosen name still make sense if your business or product expands or diversifies?</span></p>
-<h5>Cultural Sensitivity</h5>
-<p><span style="font-weight: 400;">Be aware of cultural and social sensitivities. A name that might be harmless in one context could be offensive in another.</span></p>
-<hr>
-<h2>Naming in an Art</h2>
-<p><span style="font-weight: 400;">In conclusion, naming is an art that requires careful consideration. It’s not just about choosing a word; it’s about creating an identity. Take your time, and involve others in the process. A well-thought-out name can only help. </span></p>
-<p><span style="font-weight: 400;">After sketching out names, you can experiment with the names visually. You can explore this through our Brand Personality workshop or start sketching them out inside Typogram!</span></p>
             ]]>
         </content>
     </entry>
