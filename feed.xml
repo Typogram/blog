@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-03-11T19:59:59-04:00</updated>
+    <updated>2025-03-11T20:38:25-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -34,7 +34,7 @@
 <p><span style="font-weight: 400;">A great design starts with a great typeface. Typogram offers premium typefaces that you won’t find anywhere else—perfect for making your design stand out. For this project, we’re using a decorative typeface that includes built-in alternate letter styles. This means we can swap certain letters for different stylistic variations, adding more personality and uniqueness to the design.</span></p>
 <p><span style="font-weight: 400;">To experiment with alternate letters, simply select a letter and browse through the style options in the right-side panel. Play around and mix different versions until you find a combination that feels just right.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/ChoosingAGoodTypeface-3.png" alt="ChoosingAGoodTypeface.png" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/ChoosingAGoodTypeface-3-lg.png 1024w">
-<figcaption >Lubaline is a fantastic typeface with many decorative cursive style alternates.</figcaption>
+<figcaption >Lubaline is a fantastic typeface with many decorative cursive style alternates</figcaption>
 </figure>
 <h2><strong>Step 2: Adjusting Spacing for a Balanced Layout</strong></h2>
 <p><span style="font-weight: 400;">Once we’ve chosen our typeface and alternates, it’s time to focus on spacing. Proper spacing ensures that our design feels premium and intentional. If the letters are too close together, the design can feel cramped; too far apart, and it can lose cohesion.</span></p>
@@ -45,7 +45,7 @@
 <h2><strong>Step 3: Adding an AI-Generated Icon</strong></h2>
 <p><span style="font-weight: 400;">A strong visual element can elevate a typographic design, and Typogram’s AI icon feature makes it easy to add custom illustrations. Since Saint Patrick’s Day is all about clovers and Celtic knots, we’ll generate an AI icon that fits the theme.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/LogoDesignwAi.png" alt="A generated celtic knot icon" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/LogoDesignwAi-lg.png 1024w">
-<figcaption >a generated celtic knot icon created by ai</figcaption>
+<figcaption >a generated Celtic knot icon created by ai</figcaption>
 </figure>
 <p><span style="font-weight: 400;">To do this, we can use the </span><strong>Add Icon</strong><span style="font-weight: 400;"> feature: enter a simple but detailed description describing general look and style of the icon, and let the AI create an SVG icon for us.</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">If we’re not happy with the first result, we can regenerate or choose from previously created icons.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/68/AiIconPrompt.png" alt="create a description to generate ai icon inside typogram" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-xs.png 300w ,https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-sm.png 480w ,https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-md.png 768w ,https://typogram.co/blog/media/posts/68/responsive/AiIconPrompt-lg.png 1024w">
