@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-03-26T23:33:07-04:00</updated>
+    <updated>2025-03-26T23:44:33-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -16,30 +16,30 @@
         </author>
         <link href="https://typogram.co/blog/three-quick-typography-design-tips-to-instantly-improve-your-design/"/>
         <id>https://typogram.co/blog/three-quick-typography-design-tips-to-instantly-improve-your-design/</id>
-        <media:content url="https://typogram.co/blog/media/posts/69/TypographyTipsCover.png" medium="image" />
+        <media:content url="https://typogram.co/blog/media/posts/69/QuickTypographyTipsToImproveYourDesign-1.png" medium="image" />
             <category term="Typography &amp; Fonts"/>
 
         <updated>2025-03-26T23:21:35-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/69/TypographyTipsCover.png" alt="Three Quick Typography Design Tips to Instantly Improve Your Design" />
+                        <img src="https://typogram.co/blog/media/posts/69/QuickTypographyTipsToImproveYourDesign-1.png" alt="Three Quick Typography Design Tips to Instantly Improve Your Design" />
                     Looking for good practices for typography in graphic design? Whether you're designing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://typogram.co/blog/media/posts/69/TypographyTipsCover.png" class="type:primaryImage" alt="Three Quick Typography Design Tips to Instantly Improve Your Design" /></p>
+                    <p><img src="https://typogram.co/blog/media/posts/69/QuickTypographyTipsToImproveYourDesign-1.png" class="type:primaryImage" alt="Three Quick Typography Design Tips to Instantly Improve Your Design" /></p>
                 <p><span style="font-weight: 400;">Looking for good practices for typography in graphic design? Whether you're designing a website, creating a presentation, or building a brand identity, typography plays a crucial role. Clean, readable text enhances your design and ensures your message is clear. In this post, we’re sharing three quick typography design tips to help you instantly level up your typography game. Let’s dive in!</span></p>
 <h2>Tip 1: Enhance Readability for Clearer Typography</h2>
 <h4>Increase Letter Spacing for Better Clarity</h4>
 <p>If your text looks cramped, try adding letter spacing (also known as tracking). This is especially helpful for all-caps text or small font sizes where tighter spacing can reduce legibility. A little breathing room goes a long way.</p>
-<h4>Adjust Line Height for Comfort</h4>
-<p>Line height, or leading, controls the space between lines of text. For body text, a line height of around 1.5 times the font size is generally a good starting point. This creates a comfortable reading experience and prevents your design from feeling cluttered.</p>
 <h4>Use High-Contrast Colors</h4>
 <p>Ensure sufficient contrast between your text and background. Dark text on a light background or vice versa is ideal for readability. Avoid low-contrast color combinations that can strain the reader’s eyes or cause the information to become unreadable. </p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/69/UseHighContrastBackground.png" alt="Use a high contrast background improves readability " width="1200" height="630" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/69/responsive/UseHighContrastBackground-xs.png 300w ,https://typogram.co/blog/media/posts/69/responsive/UseHighContrastBackground-sm.png 480w ,https://typogram.co/blog/media/posts/69/responsive/UseHighContrastBackground-md.png 768w ,https://typogram.co/blog/media/posts/69/responsive/UseHighContrastBackground-lg.png 1024w">
 <figcaption >Use a high contrast background improves readability </figcaption>
 </figure>
+<h4>Adjust Line Height for Comfort</h4>
+<p>Line height, or leading, controls the space between lines of text. For body text, a line height of around 1.5 times the font size is generally a good starting point. This creates a comfortable reading experience and prevents your design from feeling cluttered.</p>
 <hr>
 <h2>Tip 2: Simplify Your Typography Choices</h2>
 <h4>Limit Yourself to Two Fonts for a Cohesive Design</h4>
