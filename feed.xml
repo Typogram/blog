@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-05-05T20:47:36-04:00</updated>
+    <updated>2025-05-05T22:20:51-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -24,13 +24,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://typogram.co/blog/media/posts/76/typogram_studio_cover.png" alt="typogram studio is a new graphic design tool for designers geared towards typography design " />
-                    We've been quietly building something new—a smarter, more powerful way to craft&hellip;
+                    We've been quietly building something new: a simpler, smarter, more powerful way&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://typogram.co/blog/media/posts/76/typogram_studio_cover.png" class="type:primaryImage" alt="typogram studio is a new graphic design tool for designers geared towards typography design " /></p>
-                <p data-pm-slice="0 0 []">We've been quietly building something new—a smarter, more powerful way to craft text-based designs, explore beautiful type, and create thoughtful layouts with typography. It's all happening inside our new tool: Typogram Studio.</p>
+                <p data-pm-slice="0 0 []"><span style="font-weight: 400;">We've been quietly building something new: a simpler, smarter, more powerful way to craft text-based designs, explore beautiful type, and create thoughtful layouts with typography. It's all happening inside our new tool: Typogram Studio.</span></p>
 <p><span style="font-weight: 400;">Typogram Studio is a pro-level typography and vector design tool for creatives working with text. Whether you're building logos, social posts, or layout experiments, it’s a dedicated space for anyone who loves playing with type, shapes, colors, and compositions. In this post, we'll share some sneak peeks of what we got cooking inside our new design tool for designers!</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/76/typogramStudioColorPalette.png" alt="brand new typogram studio" width="1200" height="750" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/76/responsive/typogramStudioColorPalette-xs.png 300w ,https://typogram.co/blog/media/posts/76/responsive/typogramStudioColorPalette-sm.png 480w ,https://typogram.co/blog/media/posts/76/responsive/typogramStudioColorPalette-md.png 768w ,https://typogram.co/blog/media/posts/76/responsive/typogramStudioColorPalette-lg.png 1024w">
 <figcaption >Our brand new Typogram Studio, a typography design tool for designers</figcaption>
@@ -63,7 +63,7 @@
 <figcaption >Typogram Studio's color workspace</figcaption>
 </figure>
 <h3><strong>Discover New Layout Ideas Fast</strong></h3>
-<p><span style="font-weight: 400;">When designing from Typogram Studio, you can start from a blank artboard or generate an artboard using our artboard generation feature. This powerful feature creates layout ideas, font pairings, and lockups based on categories like color, ligature, font style, and more. Think of it as a flexible system for brainstorming and trying new directions.</span></p>
+<p><span style="font-weight: 400;">When designing from Typogram Studio, you can start from a blank artboard or generate an artboard using our artboard generation feature. This powerful feature creates layout ideas and design lockups based on categories like color, ligature, font style, and more. Think of it as a flexible system for brainstorming and trying new directions.</span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/76/typogramStudioArtBoardGenerate.png" alt="typogram studio art board generation " width="1200" height="750" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/76/responsive/typogramStudioArtBoardGenerate-xs.png 300w ,https://typogram.co/blog/media/posts/76/responsive/typogramStudioArtBoardGenerate-sm.png 480w ,https://typogram.co/blog/media/posts/76/responsive/typogramStudioArtBoardGenerate-md.png 768w ,https://typogram.co/blog/media/posts/76/responsive/typogramStudioArtBoardGenerate-lg.png 1024w">
 <figcaption >Use Typogram Studio's generate art board feature to discover and generate new design ideas</figcaption>
 </figure>
