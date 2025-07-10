@@ -3,12 +3,79 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-05-06T16:59:08-04:00</updated>
+    <updated>2025-07-10T15:34:45-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>It’s Almost Time: Typogram Studio Is Launching Next Week</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/its-almost-time-typogram-studio-is-launching-next-week/"/>
+        <id>https://typogram.co/blog/its-almost-time-typogram-studio-is-launching-next-week/</id>
+        <media:content url="https://typogram.co/blog/media/posts/77/ProductUpdate21.png" medium="image" />
+            <category term="Startups"/>
+            <category term="Inside Typogram"/>
+
+        <updated>2025-07-10T15:30:26-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/77/ProductUpdate21.png" alt="discover Typogram Studio, a brand new typography design tool from Typogram" />
+                    Hi Everyone 👋 Hope your week’s going well! It’s been a while.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://typogram.co/blog/media/posts/77/ProductUpdate21.png" class="type:primaryImage" alt="discover Typogram Studio, a brand new typography design tool from Typogram" /></p>
+                <h1 id="61ee" class="rz sa np bf sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw bk" data-selectable-paragraph="">Hi Everyone 👋</h1>
+<p id="b370" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">Hope your week’s going well! It’s been a while. I hope you are having a great summer! I wanted to share a quick update and give you a proper sneak peek of <strong class="sz jt">Typogram Studio, </strong>our brand new design tool built specifically for creating beautiful, custom typography designs.</p>
+<p id="f90a" class="pw-post-body-paragraph sx sy np sz b ta tv tc td te tw tg th ti tx tk tl tm ty to tp tq tz ts tt tu jr bk" data-selectable-paragraph="">We’ve been deep in the work for the past few months, building this from the ground up. And now, it’s finally at a point where I’m excited (and honestly, a little nervous) to show you what we’ve been working on.</p>
+<p id="2286" class="pw-post-body-paragraph sx sy np sz b ta tv tc td te tw tg th ti tx tk tl tm ty to tp tq tz ts tt tu jr bk" data-selectable-paragraph="">Below, I’m highlighting a few of my favorite parts of Typogram Studio — thoughtful, detail-driven features we’ve obsessed over that I think you’ll really enjoy.</p>
+<h1 id="a863" class="rz sa np bf sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw bk" data-selectable-paragraph="">Designing Inside Typogram Studio: Getting Started</h1>
+<p id="c275" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">Getting started designing inside Typogram Studio is pretty straightforward. Just create a blank artboard, add your text, and you’re ready to begin.</p>
+<p id="abab" class="pw-post-body-paragraph sx sy np sz b ta tv tc td te tw tg th ti tx tk tl tm ty to tp tq tz ts tt tu jr bk" data-selectable-paragraph="">If you need inspirations, try our brand new G<em class="ua">enerate Artboard</em> feature. It allows you to instantly browse design ideas based on techniques like ligatures, icon swaps, color and more and filter ideas using tags like “stylish”, “fun”, and more. It’s a great way to stumble upon something new and unexpected.</p>
+<figure class="ue uf ug uh ui uj ub uc paragraph-image">
+<div class="ub uc ud"><figure class="bh rk uk c"><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/0*r3ZFHS7RgdWmg8-M.gif 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/0*r3ZFHS7RgdWmg8-M.gif 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/0*r3ZFHS7RgdWmg8-M.gif 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/0*r3ZFHS7RgdWmg8-M.gif 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/0*r3ZFHS7RgdWmg8-M.gif 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/0*r3ZFHS7RgdWmg8-M.gif 1100w, https://miro.medium.com/v2/resize:fit:1280/format:webp/0*r3ZFHS7RgdWmg8-M.gif 1280w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 640px" type="image/webp"><source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/0*r3ZFHS7RgdWmg8-M.gif 640w, https://miro.medium.com/v2/resize:fit:720/0*r3ZFHS7RgdWmg8-M.gif 720w, https://miro.medium.com/v2/resize:fit:750/0*r3ZFHS7RgdWmg8-M.gif 750w, https://miro.medium.com/v2/resize:fit:786/0*r3ZFHS7RgdWmg8-M.gif 786w, https://miro.medium.com/v2/resize:fit:828/0*r3ZFHS7RgdWmg8-M.gif 828w, https://miro.medium.com/v2/resize:fit:1100/0*r3ZFHS7RgdWmg8-M.gif 1100w, https://miro.medium.com/v2/resize:fit:1280/0*r3ZFHS7RgdWmg8-M.gif 1280w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 640px"><img  role="presentation" src="https://miro.medium.com/v2/resize:fit:640/0*r3ZFHS7RgdWmg8-M.gif" alt="" width="640" height="416" loading="lazy" data-is-external-image="true"></figure></picture></div>
+<figcaption class="ul ew um ub uc un uo bf b bg ab fx" data-selectable-paragraph="">Artboard generation helps you discover ideas if you are feeling stuck</figcaption>
+</figure>
+<h2 id="508d" class="up sa np bf sb uq ur us sf ut uu uv sj ti uw ux uy tm uz va vb tq vc vd ve vf bk" data-selectable-paragraph="">👉 <a class="ag vg" href="https://typogram.co/studio/" rel="noopener ugc nofollow" target="_blank">Explore Typogram Studio</a></h2>
+<h1 id="a32d" class="rz sa np bf sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw bk" data-selectable-paragraph="">Polishing Your Typography: Ligatures, Style Alternates, &amp; Variable Font Gradient</h1>
+<p id="edfa" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">I’ve always believed it’s the small details that make a design feel complete, especially in typography. That idea shaped so much of what we built into Typogram Studio.</p>
+<p id="c39e" class="pw-post-body-paragraph sx sy np sz b ta tv tc td te tw tg th ti tx tk tl tm ty to tp tq tz ts tt tu jr bk" data-selectable-paragraph="">You can swap in alternate letterforms or ligatures with a click. If a font has style alternates, they’ll show up in the side panel, ready for you to explore and substitute into your design. The Letter Select tool lets you mix letters from different fonts — one of my favorite ways to add personality to a design.</p>
+<p id="799b" class="pw-post-body-paragraph sx sy np sz b ta tv tc td te tw tg th ti tx tk tl tm ty to tp tq tz ts tt tu jr bk" data-selectable-paragraph="">For variable font lovers, the Variable Font Gradient tool lets you play with weight, slant, and width using an interactive graph. You can drag to create smooth transitions or use presets to get started quickly. If you want even more custom control, you can tweak individual letters using Letter Select for a completely custom look.</p>
+<figure class="ue uf ug uh ui uj ub uc paragraph-image">
+<div class="vi vj fi vk bh vl" tabindex="0" role="button">
+<div class="ub uc vh"><figure class="bh rk uk c"><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/0*oqi0P9vFWQUcXItt.gif 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/0*oqi0P9vFWQUcXItt.gif 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/0*oqi0P9vFWQUcXItt.gif 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/0*oqi0P9vFWQUcXItt.gif 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/0*oqi0P9vFWQUcXItt.gif 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/0*oqi0P9vFWQUcXItt.gif 1100w, https://miro.medium.com/v2/resize:fit:1400/format:webp/0*oqi0P9vFWQUcXItt.gif 1400w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px" type="image/webp"><source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/0*oqi0P9vFWQUcXItt.gif 640w, https://miro.medium.com/v2/resize:fit:720/0*oqi0P9vFWQUcXItt.gif 720w, https://miro.medium.com/v2/resize:fit:750/0*oqi0P9vFWQUcXItt.gif 750w, https://miro.medium.com/v2/resize:fit:786/0*oqi0P9vFWQUcXItt.gif 786w, https://miro.medium.com/v2/resize:fit:828/0*oqi0P9vFWQUcXItt.gif 828w, https://miro.medium.com/v2/resize:fit:1100/0*oqi0P9vFWQUcXItt.gif 1100w, https://miro.medium.com/v2/resize:fit:1400/0*oqi0P9vFWQUcXItt.gif 1400w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px"><img  role="presentation" src="https://miro.medium.com/v2/resize:fit:700/0*oqi0P9vFWQUcXItt.gif" alt="" width="700" height="455" loading="lazy" data-is-external-image="true"></figure></picture></div>
+</div>
+<figcaption class="ul ew um ub uc un uo bf b bg ab fx" data-selectable-paragraph="">Ligature and Alternate Glyphs inside Typogram Studio</figcaption>
+</figure>
+<h1 id="2a01" class="rz sa np bf sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw bk" data-selectable-paragraph="">Discovering Fonts in Typogram Studio</h1>
+<p id="4d19" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">Finding the right font should feel like play, not a chore. When designing the font menu in Typogram Studio, I wanted the experience to be fun and intuitive. You can filter fonts by traits like variable, ligature, serif, sans serif, display, or import a font you already love. Another way to explore is through our Artboard Generation feature, where you can filter designs by traits like “ligature”, design ideas like “colorful”, or by tone through tags like “stylish.”</p>
+<h2 id="f5bc" class="up sa np bf sb uq ur us sf ut uu uv sj ti uw ux uy tm uz va vb tq vc vd ve vf bk" data-selectable-paragraph="">👉 <a class="ag vg" href="https://typogram.co/studio/" rel="noopener ugc nofollow" target="_blank">Try Typogram Studio Now</a></h2>
+<p id="c76e" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">We’re also lucky to continually work with <a class="ag vg" href="https://thetypefounders.com/" rel="noopener ugc nofollow" target="_blank"><strong class="sz jt">The Type Founders</strong></a>, who help us bring a curated library of premium retail fonts (like Proxima Nova, Mastro, and more) into Typogram Studio — the same high-quality typefaces from top foundries (like Hamiliton Wood Type, P22 Type Foundry and more) you’ll find on Monotype and Adobe Fonts. We’re currently putting together a favorite font guide to help you explore everything inside.</p>
+<figure class="ue uf ug uh ui uj ub uc paragraph-image">
+<div class="vi vj fi vk bh vl" tabindex="0" role="button">
+<div class="ub uc vm"><figure class="bh rk uk c"><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/0*STH2c5PS2n9BffAo.jpeg 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/0*STH2c5PS2n9BffAo.jpeg 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/0*STH2c5PS2n9BffAo.jpeg 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/0*STH2c5PS2n9BffAo.jpeg 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/0*STH2c5PS2n9BffAo.jpeg 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/0*STH2c5PS2n9BffAo.jpeg 1100w, https://miro.medium.com/v2/resize:fit:1400/format:webp/0*STH2c5PS2n9BffAo.jpeg 1400w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px" type="image/webp"><source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/0*STH2c5PS2n9BffAo.jpeg 640w, https://miro.medium.com/v2/resize:fit:720/0*STH2c5PS2n9BffAo.jpeg 720w, https://miro.medium.com/v2/resize:fit:750/0*STH2c5PS2n9BffAo.jpeg 750w, https://miro.medium.com/v2/resize:fit:786/0*STH2c5PS2n9BffAo.jpeg 786w, https://miro.medium.com/v2/resize:fit:828/0*STH2c5PS2n9BffAo.jpeg 828w, https://miro.medium.com/v2/resize:fit:1100/0*STH2c5PS2n9BffAo.jpeg 1100w, https://miro.medium.com/v2/resize:fit:1400/0*STH2c5PS2n9BffAo.jpeg 1400w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 700px"><img  role="presentation" src="https://miro.medium.com/v2/resize:fit:700/0*STH2c5PS2n9BffAo.jpeg" alt="" width="700" height="324" loading="lazy" data-is-external-image="true"></figure></picture></div>
+</div>
+<figcaption class="ul ew um ub uc un uo bf b bg ab fx" data-selectable-paragraph="">Explore beautiful typefaces inside Typogram Studio</figcaption>
+</figure>
+<h1 id="0ad1" class="rz sa np bf sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw bk" data-selectable-paragraph="">Exporting or Copying to Other Tools</h1>
+<p id="3b60" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">When we were building export options in Typogram Studio, I wanted to make sure it felt effortless — whether you’re wrapping up a logo or sharing a quick concept. Just click export, choose SVG or PNG, select size, and toggle on a transparent background if you need it. We also added preset sizes for places like Instagram and Pinterest, so you can export straight from Typogram Studio. And if you’re someone who likes to fine-tune in other tools (like I do), you can copy your design directly into Figma, Canva, Adobe, or Affinity. It’s designed to slide right into workflows you already have.</p>
+<figure class="ue uf ug uh ui uj ub uc paragraph-image">
+<div class="ub uc vn"><figure class="bh rk uk c"><source srcset="https://miro.medium.com/v2/resize:fit:640/format:webp/0*0XuEQcKzSWOww8pB.gif 640w, https://miro.medium.com/v2/resize:fit:720/format:webp/0*0XuEQcKzSWOww8pB.gif 720w, https://miro.medium.com/v2/resize:fit:750/format:webp/0*0XuEQcKzSWOww8pB.gif 750w, https://miro.medium.com/v2/resize:fit:786/format:webp/0*0XuEQcKzSWOww8pB.gif 786w, https://miro.medium.com/v2/resize:fit:828/format:webp/0*0XuEQcKzSWOww8pB.gif 828w, https://miro.medium.com/v2/resize:fit:1100/format:webp/0*0XuEQcKzSWOww8pB.gif 1100w, https://miro.medium.com/v2/resize:fit:1200/format:webp/0*0XuEQcKzSWOww8pB.gif 1200w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 600px" type="image/webp"><source data-testid="og" srcset="https://miro.medium.com/v2/resize:fit:640/0*0XuEQcKzSWOww8pB.gif 640w, https://miro.medium.com/v2/resize:fit:720/0*0XuEQcKzSWOww8pB.gif 720w, https://miro.medium.com/v2/resize:fit:750/0*0XuEQcKzSWOww8pB.gif 750w, https://miro.medium.com/v2/resize:fit:786/0*0XuEQcKzSWOww8pB.gif 786w, https://miro.medium.com/v2/resize:fit:828/0*0XuEQcKzSWOww8pB.gif 828w, https://miro.medium.com/v2/resize:fit:1100/0*0XuEQcKzSWOww8pB.gif 1100w, https://miro.medium.com/v2/resize:fit:1200/0*0XuEQcKzSWOww8pB.gif 1200w" sizes="(min-resolution: 4dppx) and (max-width: 700px) 50vw, (-webkit-min-device-pixel-ratio: 4) and (max-width: 700px) 50vw, (min-resolution: 3dppx) and (max-width: 700px) 67vw, (-webkit-min-device-pixel-ratio: 3) and (max-width: 700px) 65vw, (min-resolution: 2.5dppx) and (max-width: 700px) 80vw, (-webkit-min-device-pixel-ratio: 2.5) and (max-width: 700px) 80vw, (min-resolution: 2dppx) and (max-width: 700px) 100vw, (-webkit-min-device-pixel-ratio: 2) and (max-width: 700px) 100vw, 600px"><img  role="presentation" src="https://miro.medium.com/v2/resize:fit:600/0*0XuEQcKzSWOww8pB.gif" alt="" width="600" height="390" loading="lazy" data-is-external-image="true"></figure></picture></div>
+<figcaption class="ul ew um ub uc un uo bf b bg ab fx" data-selectable-paragraph="">Copy or Export directly from Typogram Studio</figcaption>
+</figure>
+<h1 id="0f09" class="rz sa np bf sb sc sd se sf sg sh si sj sk sl sm sn so sp sq sr ss st su sv sw bk" data-selectable-paragraph="">Launch Perks: Free Fonts &amp; More</h1>
+<p id="8078" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph=""><strong class="sz jt">We’ve got some top-secret launch perks on the way — and here’s a little hint: they involve free premium fonts. </strong>We’ll be sharing all the details soon! In the meantime, if you’re curious, you can take Typogram Studio for a spin right now.</p>
+<h2 id="b785" class="up sa np bf sb uq ur us sf ut uu uv sj ti uw ux uy tm uz va vb tq vc vd ve vf bk" data-selectable-paragraph="">👉 <a class="ag vg" href="https://typogram.co/studio/" rel="noopener ugc nofollow" target="_blank">Explore Typogram Studio</a></h2>
+<p id="d65e" class="pw-post-body-paragraph sx sy np sz b ta tb tc td te tf tg th ti tj tk tl tm tn to tp tq tr ts tt tu jr bk" data-selectable-paragraph="">We’re building this tool with designers like you in mind. Your thoughts and feedback mean everything to me. If you have ideas, suggestions, or just want to say hey? I’d love to hear from you.</p>
+<p id="7ffc" class="pw-post-body-paragraph sx sy np sz b ta tv tc td te tw tg th ti tx tk tl tm ty to tp tq tz ts tt tu jr bk" data-selectable-paragraph="">Thanks again for being here. I can’t wait to see what you create with Typogram Studio!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Inside the Design Tool We’re Building for Typography Lovers</title>
         <author>
@@ -1152,132 +1219,6 @@
 <h3><strong>Conclusion</strong></h3>
 <p><span style="font-weight: 400;">The spring color palette is all about light, energy, and the bea</span><span style="font-weight: 400;">uty of renewal. Whether you’re designing for a seasonal campaign, refreshing your brand identity, or creating a vibrant space, these colors—pastels, bright greens, sunny yellows, and soft neutrals—can evoke a sense of optimism, freshness, and joy.</span></p>
 <p><span style="font-weight: 400;">Ultimately, the spring palette is about creating designs that feel open, fresh, and full of possibility. It's a palette that celebrates new beginnings and invites the viewer to embrace the beauty of growth and change.</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Top Adobe and Canva Alternatives for Designers and Creators in 2025</title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/blog/top-adobe-and-canva-alternatives-for-designers-and-creators-in-2025/"/>
-        <id>https://typogram.co/blog/top-adobe-and-canva-alternatives-for-designers-and-creators-in-2025/</id>
-        <media:content url="https://typogram.co/blog/media/posts/65/top10_adobe_and_canva_alternatives_3.png" medium="image" />
-            <category term="Typography &amp; Fonts"/>
-            <category term="Branding"/>
-
-        <updated>2025-01-27T23:11:40-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/65/top10_adobe_and_canva_alternatives_3.png" alt="" />
-                    Adobe and Canva have long been staples for designers and creators, but&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://typogram.co/blog/media/posts/65/top10_adobe_and_canva_alternatives_3.png" class="type:primaryImage" alt="" /></p>
-                <p><span style="font-weight: 400;">Adobe and Canva have long been staples for designers and creators, but they’re not the only tools in the game. Whether you’re searching for an </span><i><span style="font-weight: 400;">Adobe alternative</span></i><span style="font-weight: 400;"> or exploring </span><i><span style="font-weight: 400;">tools like Canva</span></i><span style="font-weight: 400;"> that fit your budget, this guide will introduce you to top-notch options with many tools having free options. These platforms prioritize affordability, usability, and unique features, making them perfect for those looking to save while maintaining quality. Let’s dive in.</span></p>
-<h3><strong>№1. Affinity Suite: The Designer’s Favorite Adobe Alternative</strong></h3>
-<p><span style="font-weight: 400;">If Adobe’s subscription model is weighing you down, <a href="https://affinity.serif.com/" target="_blank" rel="noopener noreferrer">Affinity</a> is a stellar one-time-purchase alternative. Comprising Affinity Designer, Photo, and Publisher, this suite rivals Adobe Illustrator, Photoshop, and InDesign in functionalities like removing backgrounds and vector editing. (Side note: Affinity design is currently owned by Canva).</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Seamless vector and raster editing, user-friendly interface, and affordable pricing.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Designers who need professional-grade tools without a recurring cost.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: One-time purchase for $60 per app (no subscription).</span><span style="font-weight: 400;"><br></span><a href="https://affinity.serif.com/"></a></li>
-</ul>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/65/affinity.png" alt="Affinity Design" width="1456" height="761" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/65/responsive/affinity-xs.png 300w ,https://typogram.co/blog/media/posts/65/responsive/affinity-sm.png 480w ,https://typogram.co/blog/media/posts/65/responsive/affinity-md.png 768w ,https://typogram.co/blog/media/posts/65/responsive/affinity-lg.png 1024w"></figure>
-<h3><strong>№2. VEED: Online Video Editor</strong></h3>
-<div>For creators looking to edit videos quickly without the learning curve, Veed is an <a href="https://www.veed.io/tools/video-editor" target="_blank" rel="noopener noreferrer">online video editor</a> packed with intuitive tools and smart features.</div>
-<ul>
-<li><strong>Why It’s Great</strong>: Easy to use, includes automatic subtitles, and supports team collaboration.</li>
-<li><strong>Who It’s For</strong>: Content creators, marketers, educators, and social media managers.</li>
-<li><strong>Cost</strong>: Free plan available; paid plans start at $18/month.</li>
-</ul>
-<h3><strong>№3. CorelDRAW: A Comprehensive Vector Design Tool</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/65/corelDraw.png" alt="CorelDRAW: A Comprehensive Vector Design Tool" width="1456" height="761" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/65/responsive/corelDraw-xs.png 300w ,https://typogram.co/blog/media/posts/65/responsive/corelDraw-sm.png 480w ,https://typogram.co/blog/media/posts/65/responsive/corelDraw-md.png 768w ,https://typogram.co/blog/media/posts/65/responsive/corelDraw-lg.png 1024w"></figure>
-<p><span style="font-weight: 400;"><a href="https://www.coreldraw.com/" target="_blank" rel="noopener noreferrer">CorelDRAW</a> offers a powerful suite of tools for vector illustration, layout, and photo editing, making it an excellent alternative to Adobe’s design tools.</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Why It’s Great</strong>: Industry-grade vector tools, advanced color management, and extensive file compatibility.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Who It’s For</strong>: Professional designers and businesses requiring a robust design platform.</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Cost</strong>: Subscription starts at $20.75/month.</span></li>
-</ul>
-<h3><strong>№4. Colorcinch: Effortless AI Photo Editing<br></strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/65/colorcinch-featured-image.png" alt="" width="3506" height="1934" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/65/responsive/colorcinch-featured-image-xs.png 300w ,https://typogram.co/blog/media/posts/65/responsive/colorcinch-featured-image-sm.png 480w ,https://typogram.co/blog/media/posts/65/responsive/colorcinch-featured-image-md.png 768w ,https://typogram.co/blog/media/posts/65/responsive/colorcinch-featured-image-lg.png 1024w"></figure>
-<p><a href="https://www.cartoonize.net/" target="_blank" rel="noopener noreferrer">Colorcinch</a> is a powerful, browser-based photo editor that makes pro-level edits simple—no experience or installs required. It offers AI-powered effects, one-click enhancements, cartoon filters, overlays, and export-ready designs perfect for content creators.</p>
-<ul>
-<li><strong>Why It’s Great:</strong> Clean interface, AI effects, and no learning curve.</li>
-<li><strong>Who It’s For:</strong> Bloggers, Etsy sellers, photographers, and content creators.</li>
-<li><strong>Cost:</strong> Free plan available; Pro starts at $11.99/month.</li>
-</ul>
-<h3><strong>№5. Artboard Studio: A Dynamic Tool for Mockups and Designs</strong></h3>
-<p><span style="font-weight: 400;"><a href="https://artboard.studio/" target="_blank" rel="noopener noreferrer">Artboard Studio</a> is a versatile design platform that specializes in creating stunning mockups and branding presentations, offering a unique alternative to tools like Canva.</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Intuitive mockup editor, access to high-quality templates, and integration with creative workflows.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Designers, marketers, and branding professionals looking for polished presentation tools.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: Free plan available; Pro starts at $15/month.</span></li>
-</ul>
-<h3><strong>№6. Penpot: A Figma Alternative for Open-Source Enthusiasts</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/65/penPot.png" alt="Penpot" width="1456" height="761" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/65/responsive/penPot-xs.png 300w ,https://typogram.co/blog/media/posts/65/responsive/penPot-sm.png 480w ,https://typogram.co/blog/media/posts/65/responsive/penPot-md.png 768w ,https://typogram.co/blog/media/posts/65/responsive/penPot-lg.png 1024w"></figure>
-<p><span style="font-weight: 400;"><a href="https://penpot.app/" target="_blank" rel="noopener noreferrer">Penpot</a> is an open-source design and prototyping tool that provides a collaborative environment similar to Figma and Webflow. As a webflow alternative, Penpot makes it easy for designers and developers to work together to turn pixels into code. </span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Open-source, web-based, and supports SVG natively.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Teams and individuals who prefer open-source solutions and flexibility.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: Free.</span></li>
-</ul>
-<h3><strong>№7. Vectr: A Free Alternative to Adobe Illustrator</strong></h3>
-<p><span style="font-weight: 400;">For creators looking for simplicity, <a href="https://vectr.com/" target="_blank" rel="noopener noreferrer">Vectr</a> is a free vector graphic design tool that operates in your browser or as a desktop app.</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Free to use, collaborative editing, and lightweight for beginners.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Students, hobbyists, and anyone starting with vector graphics.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: Free.</span><span style="font-weight: 400;"><br></span></li>
-</ul>
-<h3><strong>№8. Krita: Free Software for Illustrators</strong></h3>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/65/Krita-2.png" alt="" width="1456" height="761" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/65/responsive/Krita-2-xs.png 300w ,https://typogram.co/blog/media/posts/65/responsive/Krita-2-sm.png 480w ,https://typogram.co/blog/media/posts/65/responsive/Krita-2-md.png 768w ,https://typogram.co/blog/media/posts/65/responsive/Krita-2-lg.png 1024w"></figure>
-<p><span style="font-weight: 400;"><a href="https://krita.org/" target="_blank" rel="noopener noreferrer">Krita</a> is a free, open-source alternative designed for digital artists and illustrators who love digital painting tools, rivaling Adobe’s Photoshop and Procreate. </span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Advanced brush engines, customizable layouts, and a supportive community.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Illustrators and concept artists.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: Free.</span></li>
-</ul>
-<h3><strong>№9. Inkscape: A Robust Vector Graphics Tool</strong></h3>
-<p><span style="font-weight: 400;"><a href="https://inkscape.org/" target="_blank" rel="noopener noreferrer">Inkscape</a> is a free and open-source vector graphics editor that offers a professional-grade alternative to Adobe Illustrator.</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Comprehensive vector design tools, active developer community, and cross-platform support.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Designers who want a powerful and free solution for vector graphics.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: Free.</span></li>
-</ul>
-<h3><strong>№10. Typogram: Tailored Logo and Typography Design Made Simple</strong></h3>
-<div class="flex-shrink-0 flex flex-col relative items-end">
-<div>
-<div class="pt-0">
-<div class="gizmo-bot-avatar flex h-8 w-8 items-center justify-center overflow-hidden rounded-full">
-<div class="relative p-1 rounded-sm flex items-center justify-center bg-token-main-surface-primary text-token-text-primary h-8 w-8"><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/65/Typogram.png" alt="" width="1456" height="761" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/65/responsive/Typogram-xs.png 300w ,https://typogram.co/blog/media/posts/65/responsive/Typogram-sm.png 480w ,https://typogram.co/blog/media/posts/65/responsive/Typogram-md.png 768w ,https://typogram.co/blog/media/posts/65/responsive/Typogram-lg.png 1024w"></figure></div>
-</div>
-</div>
-</div>
-</div>
-<div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
-<div class="flex-col gap-1 md:gap-3">
-<div class="flex max-w-full flex-col flex-grow">
-<div class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5" dir="auto" data-message-author-role="assistant" data-message-id="767780dd-44dd-4609-bc95-4b1d472931e1" data-message-model-slug="gpt-4o">
-<div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
-<div class="markdown prose w-full break-words dark:prose-invert dark">
-<p><a href="https://typogram.co/" target="_blank" rel="noopener noreferrer">Typogram</a> is an intuitive logo editor that makes it easy for anyone to create professional logos and brand kits—no design experience needed. With features like variable fonts, editable icons, and premium fonts, you can customize your logo to perfectly reflect your brand.</p>
-<p>For designers, there's Typogram Studio—a tool built for crafting exceptional typography with precision and innovation. It combines the best features of Typogram into a powerful design tool, empowering you to create unique, standout designs effortlessly.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><strong>Why It’s Great</strong><span style="font-weight: 400;">: Cater to both beginners and pros. Can use as Adobe alternative or Canva alternative. Offers a variable font feature, and intuitive interface, and empowers users to create unique logo designs easily.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Who It’s For</strong><span style="font-weight: 400;">: Small business owners, entrepreneurs, and creators looking to build their brand identity.</span></li>
-<li style="font-weight: 400;" aria-level="1"><strong>Cost</strong><span style="font-weight: 400;">: Free and Paid Tiers Available</span></li>
-</ul>
-<h2><strong>Conclusion</strong><span style="font-weight: 400;"> </span></h2>
-<p><span style="font-weight: 400;">There are many design tools available as </span><i><span style="font-weight: 400;">Adobe</span></i><span style="font-weight: 400;"> and </span><i><span style="font-weight: 400;">Canva alternatives, catering</span></i><span style="font-weight: 400;"> to various budgets and skill levels. From robust suites like Affinity to free platforms like Krita, these options empower you to create without compromise.</span></p>
-<p> </p>
-<p><br><br></p>
             ]]>
         </content>
     </entry>
