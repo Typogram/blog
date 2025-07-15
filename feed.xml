@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-07-15T02:11:37-04:00</updated>
+    <updated>2025-07-15T02:18:11-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -38,7 +38,7 @@
 <figure class="post__image" ><figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/78/Select-Tools-2.png" alt="Selection tools inside Typogram Studio" width="1063" height="688" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/78/responsive/Select-Tools-2-xs.png 300w ,https://typogram.co/blog/media/posts/78/responsive/Select-Tools-2-sm.png 480w ,https://typogram.co/blog/media/posts/78/responsive/Select-Tools-2-md.png 768w ,https://typogram.co/blog/media/posts/78/responsive/Select-Tools-2-lg.png 1024w"></figure>
 <figcaption >Selection tools inside Typogram Studio</figcaption>
 </figure>
-<div class="button-container"><button class="pink-button"><a href="https://typogram.co/studio">Explore Typogram Studio</a></button></div>
+<div class="button-container"><button class="pink-button"><a href="https://typogram.co/studio/landing">Explore Typogram Studio</a></button></div>
 <h2><span style="font-weight: 400;">Artboard Generation: Browse Ideas and Inspiration for Your Typography Designs</span></h2>
 <p><span style="font-weight: 400;">As designers, we all hit moments where a spark of inspiration can take a project to the next level. That’s why Typogram Studio includes the artboard generation feature — a quick and playful way to explore how different fonts and styles might work together for your design.</span></p>
 <p><span style="font-weight: 400;">If you’re looking for fresh ideas, try the Artboard Generation feature. You can browse by categories such as:</span></p>
