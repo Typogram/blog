@@ -3,7 +3,7 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-08-18T21:24:53-04:00</updated>
+    <updated>2025-08-18T21:43:01-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://typogram.co/blog/proxima-nova-the-font-that-quietly-took-over-the-web/"/>
         <id>https://typogram.co/blog/proxima-nova-the-font-that-quietly-took-over-the-web/</id>
         <media:content url="https://typogram.co/blog/media/posts/79/proxima_nova_typeface-2.png" medium="image" />
+            <category term="Typography &amp; Fonts"/>
 
         <updated>2025-08-15T17:03:43-04:00</updated>
             <summary>
@@ -29,7 +30,7 @@
             <![CDATA[
                     <p><img src="https://typogram.co/blog/media/posts/79/proxima_nova_typeface-2.png" class="type:primaryImage" alt="" /></p>
                 <h2>About Proxima Nova</h2>
-<p><span style="font-weight: 400;">In the world of typography, few fonts have had the cultural reach and quiet dominance of Proxima Nova. Designed by <a href="https://www.marksimonson.com/" target="_blank" rel="noopener noreferrer">Mark Simonson </a>and released in 2005, this geometric sans serif has earned a reputation for being both beautifully neutral and quietly stylish. So much so that it’s been called the typeface that </span><i><span style="font-weight: 400;">replaced Helvetica</span></i><span style="font-weight: 400;"> as the world’s most popular font.</span></p>
+<p><span style="font-weight: 400;">In the world of typography, few fonts have had the cultural reach and quiet dominance of Proxima Nova. Designed by <a href="https://www.marksimonson.com/" target="_blank" rel="noopener noreferrer">Mark Simonson </a>and released in 2005, this <a href="https://typogram.co/blog/different-types-of-sans-serifs/" target="_blank" rel="noopener noreferrer">geometric sans serif</a> has earned a reputation for being both beautifully neutral and quietly stylish. So much so that it’s been called the typeface that </span><i><span style="font-weight: 400;">replaced Helvetica</span></i><span style="font-weight: 400;"> as the world’s most popular font.</span></p>
 <p><span style="font-weight: 400;">But how did it get here? Let’s dive into the story behind Proxima Nova — from its early sketches to web font stardom.</span></p>
 <figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/79/proxima_nova_showcase-2.png" alt="" width="2912" height="1522" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-lg.png 1024w"></figure>
 <div class="button-container"><button class="pink-button"><a href="https://typogram.co/studio">Try Proxima Nova Inside Typogram Studio</a></button></div>
@@ -39,6 +40,9 @@
 <h2>A Hybrid of Classic Inspirations</h2>
 <p><span style="font-weight: 400;">The second iteration of the font was called Visigothic, modeled after American Gothic styles. It drew inspiration from a range of classics — Helvetica, Akzidenz Grotesk, Futura, Kabel, and even U.S. highway signage. This mash-up of influences created a unique blend of modern proportions and geometric structure.</span></p>
 <p><span style="font-weight: 400;">In 1994, Simonson released the typeface commercially under the name Proxima Sans with just six styles. But with a full-time job, a new child, and lackluster sales, the project went on pause.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_inspiration_futura.png" alt="futura, another popular geometric sans serif was an inspiration for proxima nova" width="2912" height="1522" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_inspiration_futura-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_inspiration_futura-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_inspiration_futura-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_inspiration_futura-lg.png 1024w">
+<figcaption >futura, another popular geometric sans serif was an inspiration for Proxima Nova. Source: <a href="https://exhibitions.letterformarchive.org/bauhaus/walkthroughs/futura-type-specimen-no-1" target="_blank" rel="noopener noreferrer">Bauhaus Typography</a></figcaption>
+</figure>
 <h2>The Nova Moment</h2>
 <p><span style="font-weight: 400;">That changed in the early 2000s. Designers began reaching out, requesting an expanded family. The key turning point was also when Rolling Stone magazine selected Proxima Sans during a redesign. Proxima Sans ​was featured extensively for headlines, captions, subheads and small texts. The renewed interest inspired Simonson to overhaul the design completely. </span></p>
 <figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_sans_rollingstone-2.jpg" alt="The first issue of Rolling Stone featuring Proxima Sans in 2002, seen in the small text on the cover. source: Mark Simonson" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-md.jpg 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-lg.jpg 1024w">
