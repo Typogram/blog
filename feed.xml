@@ -3,12 +3,80 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-07-16T18:47:36-04:00</updated>
+    <updated>2025-08-18T21:24:53-04:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Proxima Nova: The Font That Quietly Took Over the Web</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/proxima-nova-the-font-that-quietly-took-over-the-web/"/>
+        <id>https://typogram.co/blog/proxima-nova-the-font-that-quietly-took-over-the-web/</id>
+        <media:content url="https://typogram.co/blog/media/posts/79/proxima_nova_typeface-2.png" medium="image" />
+
+        <updated>2025-08-15T17:03:43-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/79/proxima_nova_typeface-2.png" alt="" />
+                    About Proxima Nova In the world of typography, few fonts have had&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://typogram.co/blog/media/posts/79/proxima_nova_typeface-2.png" class="type:primaryImage" alt="" /></p>
+                <h2>About Proxima Nova</h2>
+<p><span style="font-weight: 400;">In the world of typography, few fonts have had the cultural reach and quiet dominance of Proxima Nova. Designed by <a href="https://www.marksimonson.com/" target="_blank" rel="noopener noreferrer">Mark Simonson </a>and released in 2005, this geometric sans serif has earned a reputation for being both beautifully neutral and quietly stylish. So much so that it’s been called the typeface that </span><i><span style="font-weight: 400;">replaced Helvetica</span></i><span style="font-weight: 400;"> as the world’s most popular font.</span></p>
+<p><span style="font-weight: 400;">But how did it get here? Let’s dive into the story behind Proxima Nova — from its early sketches to web font stardom.</span></p>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/79/proxima_nova_showcase-2.png" alt="" width="2912" height="1522" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_showcase-2-lg.png 1024w"></figure>
+<div class="button-container"><button class="pink-button"><a href="https://typogram.co/studio">Try Proxima Nova Inside Typogram Studio</a></button></div>
+<h2>From Zanzibar to Proxima Nova: The Origin Story</h2>
+<p><span style="font-weight: 400;">The journey of Proxima Nova started back in 1981, when Mark Simonson first sketched a typeface he dubbed </span><i><span style="font-weight: 400;">Zanzibar</span></i><span style="font-weight: 400;">, a name chosen simply because </span><a href="#INTERNAL_LINK#/post/NaN" target="_blank" rel="noopener noreferrer"><span style="font-weight: 400;">he liked the way it sounded</span></a><span style="font-weight: 400;">. This early version already showed hints of what Proxima Nova would become, with familiar lowercase forms and evolving uppercase designs.</span></p>
+<p><span style="font-weight: 400;">Fast forward to 1991. While working as art director at </span><i><span style="font-weight: 400;">Business Ethics</span></i><span style="font-weight: 400;"> magazine, Simonson frequently used Gill Sans, but longed for a cleaner, more neutral geometric sans serif with similar charm. Unable to find exactly what he wanted, he revisited his old sketches of Zanzibar and began work on a new typeface.</span></p>
+<h2>A Hybrid of Classic Inspirations</h2>
+<p><span style="font-weight: 400;">The second iteration of the font was called Visigothic, modeled after American Gothic styles. It drew inspiration from a range of classics — Helvetica, Akzidenz Grotesk, Futura, Kabel, and even U.S. highway signage. This mash-up of influences created a unique blend of modern proportions and geometric structure.</span></p>
+<p><span style="font-weight: 400;">In 1994, Simonson released the typeface commercially under the name Proxima Sans with just six styles. But with a full-time job, a new child, and lackluster sales, the project went on pause.</span></p>
+<h2>The Nova Moment</h2>
+<p><span style="font-weight: 400;">That changed in the early 2000s. Designers began reaching out, requesting an expanded family. The key turning point was also when Rolling Stone magazine selected Proxima Sans during a redesign. Proxima Sans ​was featured extensively for headlines, captions, subheads and small texts. The renewed interest inspired Simonson to overhaul the design completely. </span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_sans_rollingstone-2.jpg" alt="The first issue of Rolling Stone featuring Proxima Sans in 2002, seen in the small text on the cover. source: Mark Simonson" width="1200" height="800" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-md.jpg 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_sans_rollingstone-2-lg.jpg 1024w">
+<figcaption ><span style="font-weight: 400;">The first issue of Rolling Stone featuring Proxima Sans in 2002, seen in the small text on the cover. source: </span><a href="https://www.marksimonson.com/notebook/"><span style="font-weight: 400;">Mark Simonson</span></a></figcaption>
+</figure>
+<p>This wasn’t just a refresh. Simonson redrew nearly all the characters, reworked the font weights, rebuilt the hinting for sharper on-screen performance, and increased the character set from 245 to over 1,400 characters. He added OpenType features like small caps, multiple figure styles, fractions, case-sensitive forms, and alternate characters. Kerning and spacing were meticulously refined.</p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_smallcaps_alternates-2.png" alt="Proxima Nova letter &quot;A&quot; in uppercase, lowercase, small cap and alternate " width="1200" height="272" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps_alternates-2-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps_alternates-2-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps_alternates-2-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps_alternates-2-lg.png 1024w">
+<figcaption >Proxima Nova letter "A" in uppercase, lowercase, small cap and alternate </figcaption>
+</figure>
+<p><span style="font-weight: 400;">The redesign was so extensive that mark quickly realized the new design was ot goin ot be backwards -compatible with Proxima Sans, so he came up with a new name for the redesigned typface - Proxima Nova - because </span><a href="https://www.marksimonson.com/notebook/"><span style="font-weight: 400;">in his own words</span></a><span style="font-weight: 400;">, the new typeface took “a cue from Century Nova, the final addition to ATF’s Century family in 1964, and one of the last foundry typefaces to be released.”  In 2005, Proxima Nova was released. </span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_smallcaps-2.png" alt="Proxima Nova regular and small caps comparison " width="1820" height="302" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps-2-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps-2-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps-2-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_smallcaps-2-lg.png 1024w">
+<figcaption >Proxima Nova regular and small cap comparison </figcaption>
+</figure>
+<h2>Why Designers Love Proxima Nova</h2>
+<p>Proxima Nova has grown into a 48-font superfamily, available in eight weights (from Thin to Black) and three widths (Normal, Condensed, Extra Condensed). It supports a wide range of languages, including Greek and Vietnamese, and is widely available through platforms like Adobe Fonts and our very own – Typogram Studio.<br><br></p>
+<div class="button-container"><button class="pink-button"><a href="https://typogram.co/studio">Explore Proxima Nova Inside Typogram Studio</a></button></div>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_specimen-2.jpg" alt="A sample of Proxima Nova Regular. The typeface also comes with Condensed, Extra Condensed, Wide, Extra Wide, with Italic and variable versions." width="1200" height="900" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_specimen-2-xs.jpg 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_specimen-2-sm.jpg 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_specimen-2-md.jpg 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_specimen-2-lg.jpg 1024w">
+<figcaption ><span style="font-weight: 400;">A sample of Proxima Nova Regular. The typeface also comes with Condensed, Extra Condensed, Wide, Extra Wide, with Italic and variable versions.</span></figcaption>
+</figure>
+<p><span style="font-weight: 400;">It’s not just technically robust — it’s visually satisfying. It offers the modernist clarity of Helvetica, but with a softer, more humanist touch. A great example? The lowercase “i”. In Helvetica, it’s dotted with a square. In Proxima Nova? A circle. It’s a tiny detail like this that really showcase Proxima Nova’s warmth.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_logo-2.png" alt="Proxima Nova being used for the logo for Those Architects. Source: FontsInUse" width="1200" height="848" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_logo-2-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_logo-2-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_logo-2-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_logo-2-lg.png 1024w">
+<figcaption ><span style="font-weight: 400;">Proxima Nova being used for the logo for Those Architects. Source: </span><a href="https://fontsinuse.com/uses/34214/those-architects-brand-identity"><span style="font-weight: 400;">FontsInUse</span></a></figcaption>
+</figure>
+<h2>The Typeface of the Web</h2>
+<p><span style="font-weight: 400;">Today, Proxima Nova is one of the most-used commercial typefaces on the web, appearing on thousands of websites and in countless brand identities. Its popularity is owed to its neutral versatility, excellent readability, and a tone that feels professional without being cold.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_web_text.png" alt="Proxima Nova being for web text setting on Ohio University’s website. Source: FontsInUse " width="1200" height="704" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_web_text-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_web_text-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_web_text-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_web_text-lg.png 1024w">
+<figcaption ><span style="font-weight: 400;">Proxima Nova being for web text setting on Ohio University’s website. Source: </span><a href="https://fontsinuse.com/uses/42157/ohio-university-2021"><span style="font-weight: 400;">FontsInUse</span></a></figcaption>
+</figure>
+<p><span style="font-weight: 400;">It has grown far beyond Mark’s original release, with a vastly expanded character set that now includes Greek, Cyrillic, Arabic, Hebrew, Thai, Hangeul, Tamil, and Devanagari. What began as a family of 42 fonts (seven weights, three widths, each with italics) has evolved into 80, boasting eight weights, five widths, and matching italics.</span></p>
+<p><span style="font-weight: 400;">It’s no wonder Proxima Nova has become the go-to choice for designers looking for a modern sans serif that feels just right.</span></p>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/79/proxima_nova_multilingual_support-2-2.png" alt="Proxima Nova offers multilingual support. Source: Mark Simonson" width="1200" height="704" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/79/responsive/proxima_nova_multilingual_support-2-2-xs.png 300w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_multilingual_support-2-2-sm.png 480w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_multilingual_support-2-2-md.png 768w ,https://typogram.co/blog/media/posts/79/responsive/proxima_nova_multilingual_support-2-2-lg.png 1024w">
+<figcaption ><span style="font-weight: 400;">Proxima Nova offers multilingual support. Source: </span><a href="https://www.marksimonson.com/fonts/view/proxima-nova/"><span style="font-weight: 400;">Mark Simonson</span></a></figcaption>
+</figure>
+<p> </p>
+<p><br><br></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Introducing Typogram Studio: A New Tool for Beautiful Typography Design</title>
         <author>
@@ -1002,164 +1070,6 @@
 <figcaption >Use icon swap to generate more ideas for your design</figcaption>
 </figure>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Finding Your Perfect Summer Color Palette</title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/blog/crafting-the-perfect-summer-color-palette/"/>
-        <id>https://typogram.co/blog/crafting-the-perfect-summer-color-palette/</id>
-        <media:content url="https://typogram.co/blog/media/posts/67/spring-color-palette-2.png" medium="image" />
-            <category term="Branding"/>
-
-        <updated>2025-02-19T21:57:48-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/67/spring-color-palette-2.png" alt="summer color palette design inspirations" />
-                    "The sinking sun is taking leave, And sweetly gilds the edge of&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://typogram.co/blog/media/posts/67/spring-color-palette-2.png" class="type:primaryImage" alt="summer color palette design inspirations" /></p>
-                <blockquote>
-<p><i><span style="font-weight: 400;">"The sinking sun is taking leave,<br></span></i><i><span style="font-weight: 400;">And sweetly gilds the edge of eve,<br></span></i><i><span style="font-weight: 400;">While huddling clouds of purple dye<br></span></i><i><span style="font-weight: 400;">Gloomy hang the western sky."</span></i></p>
-<p><i><span style="font-weight: 400;">– John Clare</span></i></p>
-</blockquote>
-<p><span style="font-weight: 400;">Summer is synonymous with warmth, energy, and vibrant outdoor experiences. Nature is in full bloom, the sun shines bright, and the world feels alive with activity. The summer color palette reflects this dynamic energy, filled with bold, bright hues that evoke excitement, joy, and relaxation. The ocean’s deep blues, the Sun’s golden yellows, and an overgrown garden’s lush green are hues that fill the world with vitality. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-sunflowers.png" alt="van gogh's sunflower painting uses plenty of warm yellows" width="1012" height="768" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-sunflowers-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-sunflowers-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-sunflowers-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-sunflowers-lg.png 1024w">
-<figcaption >Van Gogh's sun flower painting uses plenty of warm yellows. Source: Smithsonian </figcaption>
-</figure>
-<p><span style="font-weight: 400;">In design, the summer color palette is often used to create a lively, upbeat atmosphere that captures the essence of summer’s vibrant tones. Whether it’s for a brand campaign, an event, or product packaging, summer colors energize the design and bring it to life. In this article, we’ll explore the summer color palette – how it’s used in design, and provide some examples to inspire your next creative project. </span></p>
-<h2><strong>Understanding the Summer Color Palette</strong></h2>
-<ul>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#brightYellows">Bright Yellow &amp; Golds</a></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#hotPinks">Hot Pinks</a></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#brightReds">Bright Reds</a></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#tropicalBlue">Tropical Blue</a></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#lushGreens">Lush Greens</a></span></p>
-</li>
-</ul>
-<p><span style="font-weight: 400;">Summer color palettes bursts with energy, blending bold, vibrant hues with refreshing, sun-kissed tones. It’s a lively mix that captures the essence of carefree days, outdoor adventures, and the radiant warmth of summer. Tropical blues, fiery hot pinks, sunlit yellows, and lush greens take center stage: colors that feel fun, lively, and full of warmth.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/main-summer-color-palette.png" alt="main summer color palette " width="1012" height="768" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/main-summer-color-palette-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/main-summer-color-palette-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/main-summer-color-palette-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/main-summer-color-palette-lg.png 1024w">
-<figcaption >Main summer color palette featuring vibrant colors</figcaption>
-</figure>
-<p><span style="font-weight: 400;">Summer’s main palette is unapologetically bold and attention-grabbing. It’s about making a statement; whether through eye-catching designs, striking fashion choices, or a dynamic brand visual identity that radiates warmth and joy.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palettes.png" alt="summer color palettes" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palettes-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palettes-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palettes-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palettes-lg.png 1024w">
-<figcaption >Summer color palettes: main vs soft </figcaption>
-</figure>
-<h3><strong>The Soft Summer Color Palette</strong></h3>
-<ul>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#tropicalBlue">Misty Blue</a></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#hotPinks">Pastel Pinks</a></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="#hotPinks">Delicate Lavender</a><br></span></p>
-</li>
-<li style="font-weight: 400;" aria-level="1">
-<p><span style="font-weight: 400;"><a href="https://typogram.co/blog/crafting-the-perfect-spring-color-palette/">Soft Neutrals</a></span></p>
-</li>
-</ul>
-<p><span style="font-weight: 400;"><a href="https://typogram.co/blog/crafting-the-perfect-spring-color-palette/">Similar to pastel spring</a>, the soft summer palette is a more laid-back take on the season’s usual bold and bright colors. Instead of intense, saturated hues, it leans into cooler, muted shades that still capture summer’s energy—just in a gentler way.</span></p>
-<p><span style="font-weight: 400;">Think misty blues, delicate lavenders, and pastel pinks—colors that feel calm, elegant, and effortlessly stylish while holding onto that summery glow. Soft summer tones pair beautifully with neutrals like soft grays and warm whites, creating a balanced and sophisticated look.</span></p>
-<p><span style="font-weight: 400;">Whether for fashion, home decor, or branding, these colors bring a refined yet relaxed summer vibe—perfect for those who love a touch of subtlety with their seasonal style.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/soft-summer-color-palette.png" alt="soft summer color palette featuring pastels " width="1012" height="768" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/soft-summer-color-palette-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/soft-summer-color-palette-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/soft-summer-color-palette-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/soft-summer-color-palette-lg.png 1024w">
-<figcaption >Soft summer color palette featuring pastels </figcaption>
-</figure>
-<h2><strong>Key Colors in the Summer Palette</strong></h2>
-<h3 id="brightYellows"><strong>Bright Yellows and Golds</strong></h3>
-<p><i><span style="font-weight: 400;"><a href="https://www.nga.gov/collection/artist-info.1349.html" target="_blank" rel="noopener noreferrer">Van Gogh</a> once praised "How wonderful yellow is. It stands for the sun."</span></i><span style="font-weight: 400;">  Yellow is the color of sunshine. </span></p>
-<p><span style="font-weight: 400;">In the summer palette, it takes on a rich, warm quality that brings a sense of energy and optimism. Bright yellows evoke the feeling of a perfect summer day, with the sun shining high in the sky.  These vibrant yellows create a sense of happiness, joy, and warmth in designs. They’re ideal for conveying a feeling of energy, optimism, and fun.</span></p>
-<p><span style="font-weight: 400;">In addition, according to psychology research, yellow is often associated with stimulating appetite while evoking freshness and excitement, which makes it a popular choice for packaging in the food and beverage industry. ("Color Psychology and Food Marketing", </span><a href="https://www.sciencedirect.com/journal/journal-of-retailing-and-consumer-services"><span style="font-weight: 400;">Journal of Retailing and Consumer Services</span></a><span style="font-weight: 400;">)</span></p>
-<p><span style="font-weight: 400;">Golds are also a key component of the summer palette, offering a more sophisticated, luxurious take on yellow. Gold is often used for accents and highlights, bringing a touch of glamour and luxury to designs. </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-yellow.png" alt="summer color palette yellow " width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-yellow-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-yellow-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-yellow-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-yellow-lg.png 1024w">
-<figcaption >Citrus hues (bright yellows) and gold are perfect for summer color palettes </figcaption>
-</figure>
-<h3 id="tropicalBlue"><strong>Tropical Blues and Turquoises</strong></h3>
-<p><span style="font-weight: 400;">When we think of summer, the image of clear blue skies and sparkling oceans often comes to mind. Tropical blues and turquoises are central to the summer color palette, evoking the coolness and refreshment of summer waters. These blues are bright and vivid, representing clarity, relaxation, and tranquility.</span></p>
-<p><span style="font-weight: 400;">Tropical blue is an energetic, vibrant shade that brings a sense of vitality to any design. Turquoise, with its greenish undertones, adds a refreshing quality to the palette. These blues and greens create a sense of calm, cooling off the intensity of other warmer colors like yellow and orange, or they can be paired with vibrant tones to bring balance and contrast.</span></p>
-<p><span style="font-weight: 400;">In design, tropical blues and turquoises are often used in the travel and leisure industries, conveying a sense of adventure, escapism, and relaxation. They also work well in fashion, especially for swimwear and resort wear, as they capture the essence of vacation vibes and coastal living.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-blue.png" alt="summer color palette: blue" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-blue-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-blue-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-blue-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-blue-lg.png 1024w">
-<figcaption >Blues bring refreshingness to any palette</figcaption>
-</figure>
-<h3 id="hotPinks"><strong>Hot Pinks and Corals</strong></h3>
-<p><span style="font-weight: 400;">Hot pinks and corals bring a fun, bold pop of color to the summer palette. They’re bright, energetic, and full of personality— perfect for designs that need to feel lively, playful, and exciting. Hot pink, in particular, is a statement color that immediately grabs attention and adds a sense of fun and irreverence to any design.</span></p>
-<p><span style="font-weight: 400;">Coral, a more muted version of pink, adds warmth and depth to the palette. Coral feels fresh, lively, and sophisticated, making it a popular choice in fashion and interior design for creating bold yet balanced looks.</span></p>
-<p><span style="font-weight: 400;">These shades are perfect for summer branding, particularly in the fashion, beauty, and entertainment industries. They’re ideal for products looking to convey a sense of fun, confidence, and adventure.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-pink.png" alt="summer color palette pink" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-pink-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-pink-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-pink-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-pink-lg.png 1024w">
-<figcaption >Magenta and coral are excellent highlight colors</figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/spring-color-palette-Fuchsia-Fantasy.png" alt="spring color palette fuchsia fantasy" width="1000" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Fuchsia-Fantasy-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Fuchsia-Fantasy-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Fuchsia-Fantasy-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Fuchsia-Fantasy-lg.png 1024w">
-<figcaption >Fuchsia Fantasy summer color palette combine highly saturated colors like lime and hot pink with neutrals</figcaption>
-</figure>
-<h3 id="lushGreens"><strong>Fresh Greens</strong></h3>
-<p><span style="font-weight: 400;">Green is a color that represents nature, growth, and vitality, and in the summer palette, it takes on a bright, refreshing quality. Fresh greens evoke the lushness of summer gardens, forests, and fields, bringing a sense of calm and rejuvenation to the palette. These greens are bright and crisp, offering a refreshing contrast to the warmer tones of yellow and pink.</span></p>
-<p><span style="font-weight: 400;">Lime green, apple green, and fresh grass green are all common choices in the summer palette, representing vitality and the vibrancy of the natural world. These shades are perfect for designs that need to feel energetic, fresh, and invigorating. Green also works well in eco-friendly or sustainable brands, as it represents nature and growth.</span></p>
-<p><span style="font-weight: 400;">Brighter, more saturated greens can be used as accent colors in branding or design to create a sense of balance and energy. When paired with brighter hues like yellow or pink, they help to ground the palette and add a refreshing touch.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-green.png" alt="summer color palette: fresh greens" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-green-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-green-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-green-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-green-lg.png 1024w">
-<figcaption >Bright and lush greens bring out summer's freshness</figcaption>
-</figure>
-<h3 id="brightReds"><strong>Bright Reds and Oranges</strong></h3>
-<p><span style="font-weight: 400;">Red and orange capture the essence of summer—glowing sunsets, ripe fruits, and lively outdoor festivals. These fiery hues infuse designs with energy, passion, and warmth. Bold reds evoke power, urgency, and excitement, while vibrant oranges evoke playfulness, enthusiasm, and approachability.</span></p>
-<p><span style="font-weight: 400;">Ideal for eye-catching designs, red is a staple in food and beverage branding, stimulating appetite and creating a sense of urgency. Meanwhile, orange shines in entertainment and retail, radiating fun and friendliness. Together, these colors create dynamic, attention-grabbing visuals that exude warmth and vitality.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-red.png" alt="summer color palette: red and organge" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-red-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-red-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-red-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-red-lg.png 1024w">
-<figcaption >Bright reds and orange tones bring activation and energy</figcaption>
-</figure>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/spring-color-palette-Saffron-Spark.png" alt="spring color palette saffron spark" width="1000" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Saffron-Spark-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Saffron-Spark-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Saffron-Spark-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/spring-color-palette-Saffron-Spark-lg.png 1024w">
-<figcaption >Saffron Spark summer color palette uses mute colors to balance the bright orange</figcaption>
-</figure>
-<h3><strong>How Summer Colors are Used in Design</strong></h3>
-<p><span style="font-weight: 400;">Summer colors are ideal for creating bold and energetic designs. Whether you’re designing for a seasonal campaign, a product launch, or a brand identity, summer colors can help you infuse energy and activation. Here are a few ways in which summer colors are used in design:</span></p>
-<h3><strong>Digital Design</strong></h3>
-<p><span style="font-weight: 400;">In web and graphic design, summer colors are used to create lively, engaging websites that capture the energy and vibrancy of the season. Bright yellows, tropical blues, and hot pinks can be used for backgrounds, buttons, and call-to-action elements, while fresh greens and coral can add balance and contrast.</span></p>
-<p><span style="font-weight: 400;">Summer colors are also popular for seasonal brand campaigns, particularly for events, sales, or promotions. These colors help create a sense of excitement and anticipation, drawing in customers and encouraging them to take action.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-digital-design.png" alt="summer color palette digital design" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-digital-design-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-digital-design-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-digital-design-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-digital-design-lg.png 1024w">
-<figcaption >Bright vibrant colors being used on Oatly oat milk's marketing. Source: Isometric Studio</figcaption>
-</figure>
-<h3><strong>Interior Design</strong></h3>
-<p><span style="font-weight: 400;">In interior design, summer colors are used to create vibrant, energetic spaces that feel open, fresh, and lively. Bright yellows and oranges can be used to create bold accent walls or feature pieces, while tropical blues and greens add a refreshing touch to any room. These colors work particularly well in spaces designed for relaxation and fun, like living rooms, kitchens, and outdoor spaces.</span></p>
-<p><span style="font-weight: 400;">To balance out the boldness of summer colors, designers often incorporate neutral tones like white, beige, or light gray. These neutrals help create a sense of harmony and allow the brighter colors to shine.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-architecture.png" alt="summer color palette: interior design" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-architecture-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-architecture-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-architecture-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-architecture-lg.png 1024w">
-<figcaption >Pastel colors on Miami's architecture. Source: Pinterest</figcaption>
-</figure>
-<h3><strong>Branding and Marketing</strong></h3>
-<p><span style="font-weight: 400;">Brands in the fashion, beauty, and lifestyle industries often use summer colors to convey a sense of energy, fun, and adventure. A summer campaign might feature vibrant pinks, blues, and yellows to capture the vitality of summer, while tropical greens can add a refreshing touch to branding materials.</span></p>
-<p><span style="font-weight: 400;">These colors are also ideal for products that need to feel lively and energizing, like beverages, sports gear, or vacation destinations. The summer palette is perfect for promoting fun, excitement, and a carefree attitude.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-branding.png" alt="summer color palette branding" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-branding-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-branding-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-branding-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-branding-lg.png 1024w">
-<figcaption >Beverage industry loves to use bright colors to communicate freshness. Source: La Croix</figcaption>
-</figure>
-<h3><strong>Fashion Design</strong></h3>
-<p><span style="font-weight: 400;">Summer fashion is all about light, comfortable styles in bright, energetic colors. The summer color palette is ideal for creating vibrant clothing collections, with hot pinks, corals, and bright yellows making bold statements. Tropical blues and greens are often used in swimwear and resort wear, while fresh greens and oranges can add a playful touch to accessories and casual wear.</span></p>
-<p><span style="font-weight: 400;">Summer fashion is known for its boldness, and the colors in this palette help designers create looks that are full of life, personality, and excitement.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/summer-color-palette-fashion.png" alt="summer color palette fashion design" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-fashion-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-fashion-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-fashion-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/summer-color-palette-fashion-lg.png 1024w">
-<figcaption >Bright colors in fashion. Source: Vogue</figcaption>
-</figure>
-<h3><strong>Combining Summer Color Palettes with Other Colors </strong></h3>
-<p><span style="font-weight: 400;">When working with summer palettes, it’s also essential to consider accessibility and legibility, especially since these vibrant colors can sometimes clash or create visual noise. High contrast between text and background is crucial for readability, so pairing bright colors with darker or muted tones helps ensure that content remains clear and accessible to everyone. For example, if you use a bright orange for headlines, pairing it with a deep gray or navy background can create a striking contrast that’s easy to read. Josef Albers highlighted the importance of contrast and color interaction in </span><i></i><a href="https://www.metmuseum.org/art/collection/search/737721" target="_blank" rel="noopener noreferrer"><i><span style="font-weight: 400;">Interaction of Color</span></i></a><span style="font-weight: 400;">, illustrating how colors can influence perception and legibility. In </span><i><span style="font-weight: 400;"><a href="https://shapeofdesignbook.com/" target="_blank" rel="noopener noreferrer">Shape of Design</a></span></i><span style="font-weight: 400;">, Frank Chimero echoes this idea, noting that “colors aren’t just colors; they have a context.” </span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/josef-albers-summer-colors.png" alt="summer color palettes combination" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/josef-albers-summer-colors-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/josef-albers-summer-colors-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/josef-albers-summer-colors-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/josef-albers-summer-colors-lg.png 1024w">
-<figcaption >The bright yellow looks different according to it's background. Source: Metropolitan Museum of Art</figcaption>
-</figure>
-<p><span style="font-weight: 400;">Additionally, incorporating neutral shades can provide visual breaks, making the design more inviting and comfortable for all viewers. Keeping accessibility in mind not only enhances the overall aesthetic but also ensures that your designs are inclusive and effective for a wider audience.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/67/spring-summer-color-palette-Daisy-Chain.png" alt="summer color palette daisy chain" width="1000" height="1500" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/67/responsive/spring-summer-color-palette-Daisy-Chain-xs.png 300w ,https://typogram.co/blog/media/posts/67/responsive/spring-summer-color-palette-Daisy-Chain-sm.png 480w ,https://typogram.co/blog/media/posts/67/responsive/spring-summer-color-palette-Daisy-Chain-md.png 768w ,https://typogram.co/blog/media/posts/67/responsive/spring-summer-color-palette-Daisy-Chain-lg.png 1024w">
-<figcaption >Daisy Chain summer color palette uses mostly neutrals with bright yellow as a highlight</figcaption>
-</figure>
-<h2><strong>Conclusion</strong></h2>
-<p><span style="font-weight: 400;">The summer color palette is all about bold, vibrant hues that capture the energy, warmth, and excitement of the season. Whether you’re designing for a seasonal campaign, refreshing your brand, or creating a space that feels full of life, the summer colors—bright yellows, tropical blues, hot pinks, fresh greens, and warm reds—are sure to bring energy, joy, and vibrancy to your designs. By using these colors in thoughtful and dynamic ways, you can evoke the spirit of summer and create designs that feel as lively and refreshing as the season itself.</span></p>
             ]]>
         </content>
     </entry>
