@@ -3,12 +3,81 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2025-09-29T14:38:35-04:00</updated>
+    <updated>2025-11-12T21:08:07-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
+    <entry>
+        <title>Product Update № 22 : Font Tagging</title>
+        <author>
+            <name>Wenting Zhang</name>
+        </author>
+        <link href="https://typogram.co/blog/product-update-22-font-tagging/"/>
+        <id>https://typogram.co/blog/product-update-22-font-tagging/</id>
+        <media:content url="https://typogram.co/blog/media/posts/82/ProductUpdate22.png" medium="image" />
+            <category term="Startups"/>
+            <category term="Inside Typogram"/>
+
+        <updated>2025-11-12T15:18:03-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/82/ProductUpdate22.png" alt="Product Update № 22 : Font Tagging" />
+                    <p data-pm-slice="1 2 []">Hope your November’s off to a great start! This month, the font menu gets an upgrade — plus, we’ve got two exciting surprises coming: a brand-new plugin and a major collaboration with one of the world’s top type foundries.­</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://typogram.co/blog/media/posts/82/ProductUpdate22.png" class="type:primaryImage" alt="Product Update № 22 : Font Tagging" /></p>
+                <p data-pm-slice="1 2 []">Hope your November’s off to a great start! This month, the font menu gets an upgrade — plus, we’ve got two exciting surprises coming: a brand-new plugin and a major collaboration with one of the world’s top type foundries.­</p>
+
+<h2 data-pm-slice="1 2 []">Feature Updates</h2>
+<p>Ever find yourself stuck discovering the perfect font? Our new <strong>font tags</strong> make it easier than ever to find the right match for your next project. Simply open the font menu, click the filter icon, and select “Tags” to browse fonts by descriptive categories. Already have something in mind? Just type your desired tag or description directly into the search box to discover fonts that fit your vision.<br><br></p>
+<div class="button-container"><a href="https://typogram.co/studio/"><button class="pink-button">Discover Your Next Ideal Font</button></a></div>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><picture></picture>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/82/FontTag-2.png" alt="Discovery more fonts by accessing the font tags from the font filters" width="1153" height="720" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/82/responsive/FontTag-2-xs.png 300w ,https://typogram.co/blog/media/posts/82/responsive/FontTag-2-sm.png 480w ,https://typogram.co/blog/media/posts/82/responsive/FontTag-2-md.png 768w ,https://typogram.co/blog/media/posts/82/responsive/FontTag-2-lg.png 1024w">
+<figcaption >Discovery more fonts by accessing the font tags from the font filters</figcaption>
+</figure>
+</div>
+<figcaption class="image-caption"></figcaption>
+<picture> <source type="image/webp" srcset="https://substackcdn.com/image/fetch/$s_!XNrp!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 424w, https://substackcdn.com/image/fetch/$s_!XNrp!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 848w, https://substackcdn.com/image/fetch/$s_!XNrp!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 1272w, https://substackcdn.com/image/fetch/$s_!XNrp!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 1456w" sizes="100vw"> </picture>
+<figure class="sizing-normal" ><figure class="post__image"><img loading="lazy"  title="You can also directly search our font library using description or existing tags to discover fonts that fit your vision." src="https://substackcdn.com/image/fetch/$s_!XNrp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png" sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!XNrp!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 424w, https://substackcdn.com/image/fetch/$s_!XNrp!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 848w, https://substackcdn.com/image/fetch/$s_!XNrp!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 1272w, https://substackcdn.com/image/fetch/$s_!XNrp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png 1456w" alt="You can also directly search our font library using description or existing tags to discover fonts that fit your vision." width="1153" height="720" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c07cf639-a263-424a-a15a-9aa7d48659f1_1153x720.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:720,&quot;width&quot;:1153,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;You can also directly search our font library using description or existing tags to discover fonts that fit your vision.&quot;,&quot;title&quot;:&quot;You can also directly search our font library using description or existing tags to discover fonts that fit your vision.&quot;,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" data-is-external-image="true"></figure>
+<figcaption >You can also directly search our font library using description or existing tags to discover fonts that fit your vision</figcaption>
+</figure>
+</figure>
+</div>
+<hr>
+<h1>Big News Ahead</h1>
+<h3>A Special Announcement Is Coming Soon</h3>
+<p>We’re teaming up with <a target="_blank" rel="noopener noreferrer" href="https://ekytc.r.ag.d.sendibm3.com/mk/cl/f/sh/6rqJfgq8dIPRQsD89Ld7zmgOAlE/oQUzkPzbncx_">Monotype</a>, one of the world’s leading type foundries, to bring you iconic typefaces like Helvetica, Gotham, Futura, Century Gothic, and more. We can’t wait to share more soon. Stay tuned for the full reveal!<br><br></p>
+<div class="button-container"><a href="https://typogram.co/studio/"><button class="pink-button">Explore Our Current Font Library</button></a></div>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><picture> </picture>
+<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/82/typogramMonotype.png" alt="" width="1153" height="720" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/82/responsive/typogramMonotype-xs.png 300w ,https://typogram.co/blog/media/posts/82/responsive/typogramMonotype-sm.png 480w ,https://typogram.co/blog/media/posts/82/responsive/typogramMonotype-md.png 768w ,https://typogram.co/blog/media/posts/82/responsive/typogramMonotype-lg.png 1024w"><figcaption>Coming soon: Typogram x Monotype Collaboration! You can soon access Monotype fonts inside Typogram and Typogram Studio</figcaption></figure>
+</div>
+</figure>
+</div>
+<h3>Our First Figma Plugin</h3>
+<p>We love creating tools that make design effortless. After our Variable Font (VFonts) plugin for Canva, we’re bringing something new to Figma — a Color Plugin that lets you explore fresh color ideas, build swatch pairings, and access premium Typogram palettes, all right inside your Figma workspace. More details coming soon!<br><br></p>
+<div class="button-container"><a href="https://typogram.co/sign-in"><button class="pink-button">Explore Colors Inside Typogram Studio</button></a></div>
+<div class="captioned-image-container">
+<figure>
+<div class="image2-inset"><picture> <source type="image/webp" srcset="https://substackcdn.com/image/fetch/$s_!uUCJ!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 424w, https://substackcdn.com/image/fetch/$s_!uUCJ!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 848w, https://substackcdn.com/image/fetch/$s_!uUCJ!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 1272w, https://substackcdn.com/image/fetch/$s_!uUCJ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 1456w" sizes="100vw"> </picture>
+<figure class="sizing-normal" ><figure class="post__image"><img loading="lazy"  title="Coming soon: Our first Figma plugin to help you find and create the perfect color inspirations" src="https://substackcdn.com/image/fetch/$s_!uUCJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png" sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!uUCJ!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 424w, https://substackcdn.com/image/fetch/$s_!uUCJ!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 848w, https://substackcdn.com/image/fetch/$s_!uUCJ!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 1272w, https://substackcdn.com/image/fetch/$s_!uUCJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png 1456w" alt="Coming soon: Our first Figma plugin to help you find and create the perfect color inspirations" width="1153" height="438" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/dd1a8bf1-7de9-4fab-b6a3-77ab96c790e4_1153x438.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:438,&quot;width&quot;:1153,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Coming soon: Our first Figma plugin to help you find and create the perfect color inspirations&quot;,&quot;title&quot;:&quot;Coming soon: Our first Figma plugin to help you find and create the perfect color inspirations&quot;,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" data-is-external-image="true"></figure>
+<figcaption >Coming soon: Our first Figma plugin to help you find and create the perfect color inspirations</figcaption>
+</figure>
+</div>
+<figcaption class="image-caption"></figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Winter Color Palette in Design: A Guide to Cool and Elegant Inspiration</title>
         <author>
@@ -1002,84 +1071,6 @@
 </figure>
 
 <p><span style="font-weight: 400;">With so many popular fonts from Monotype now available on Adobe, designers have more power than ever to create with timeless, high-quality typography—without licensing headaches or switching platforms. From the clean neutrality of Helvetica to the </span><span style="font-weight: 400;">expressive flair of Cotford, these fonts bring history, personality, and precision to modern design work.</span></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>3 Essential Graphic Design Principles to Instantly Improve Your Work</title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/blog/3-essential-graphic-design-principles-to-instantly-improve-your-work/"/>
-        <id>https://typogram.co/blog/3-essential-graphic-design-principles-to-instantly-improve-your-work/</id>
-        <media:content url="https://typogram.co/blog/media/posts/71/graphic-design-principles-cover-1.png" medium="image" />
-            <category term="Typography &amp; Fonts"/>
-
-        <updated>2025-04-12T00:17:33-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/71/graphic-design-principles-cover-1.png" alt="graphic design is my passion updated with design principles " />
-                    Great graphic design doesn’t happen accidentally—it’s built on intentional and thoughtful choices.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://typogram.co/blog/media/posts/71/graphic-design-principles-cover-1.png" class="type:primaryImage" alt="graphic design is my passion updated with design principles " /></p>
-                <p><span style="font-weight: 400;">Great graphic design doesn’t happen accidentally—it’s built on intentional and thoughtful choices. Whether you're creating a logo, social post, landing page, or brand identity, applying core </span>graphic design principles<span style="font-weight: 400;"> can immediately improve how your work looks and functions.</span></p>
-<p><span style="font-weight: 400;">In this post, you’ll learn three fundamental graphic design principles that are easy to apply and highly effective—even if you’re just starting out or looking to sharpen your visual skills.</span></p>
-<h3>Use Color Psychology to Create Emotion</h3>
-<p><span style="font-weight: 400;">Color is one of the most powerful tools in graphic design. It sets the emotional tone before your audience reads a single word. That’s why color psychology is considered a foundational graphic design principle.</span></p>
-<p><strong>How to apply this principle:</strong></p>
-<p><strong>1. Choose colors based on emotion</strong></p>
-<p>When you are collecting <a href="https://typogram.co/blog/small-business-marketing-ideas/">design inspirations for mood boarding</a> or building a <a href="https://typogram.co/blog/how-to-choose-branding-color-palette/">brand color palette</a>, consider how each color choice connects to emotion. Using color as an emotional language in your design is key to creating meaningful visuals.</p>
-<p><span style="font-weight: 400;">You can ask questions like:</span></p>
-<ul>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">What mood should this design create?</span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Does this mood fit with the overall energy you are trying to create with your design? </span></li>
-<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Is it legible with the rest of the design?</span><span style="font-weight: 400;"><br></span></li>
-</ul>
-<figure class="post__image"><img loading="lazy"  src="https://typogram.co/blog/media/posts/71/color-warm-to-cool-3.png" alt="colors from warm to cool" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/71/responsive/color-warm-to-cool-3-xs.png 300w ,https://typogram.co/blog/media/posts/71/responsive/color-warm-to-cool-3-sm.png 480w ,https://typogram.co/blog/media/posts/71/responsive/color-warm-to-cool-3-md.png 768w ,https://typogram.co/blog/media/posts/71/responsive/color-warm-to-cool-3-lg.png 1024w"></figure>
-<p><strong>2. Warm tones usually communicate high energy.</strong></p>
-<p><span style="font-weight: 400;">In general, warm tones like reds, oranges, and yellows create urgency and excitement. They work well in calls to action, announcements, and promotional graphics.</span></p>
-<p><strong>3. Cool tones usually communicate calm and trust.</strong></p>
-<p><span style="font-weight: 400;">Blues, greens, and purples bring a sense of professionalism and ease. These are ideal for tech, wellness, or corporate branding.</span></p>
-<p><strong>Design tip:</strong><span style="font-weight: 400;"> Think of color as your emotional language. Use it with the same level of intention as your typography or layout choices.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/71/typography-color-psychology.png" alt="typography-color-psychology" width="1200" height="630" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/71/responsive/typography-color-psychology-xs.png 300w ,https://typogram.co/blog/media/posts/71/responsive/typography-color-psychology-sm.png 480w ,https://typogram.co/blog/media/posts/71/responsive/typography-color-psychology-md.png 768w ,https://typogram.co/blog/media/posts/71/responsive/typography-color-psychology-lg.png 1024w">
-<figcaption >Colors elevate a design</figcaption>
-</figure>
-<h3>Use Font Pairing to Improve Typography</h3>
-<p><span style="font-weight: 400;">Typography is one of the most visible elements of any design, and it plays a big role in how your message is received.</span></p>
-<p>Effective font pairing is a core graphic design principle that helps you build hierarchy and personality in your work.</p>
-<p><strong>How to approach font pairing:</strong></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/71/serif-sans-serif-difference.png" alt="difference between serif and sans serif" width="1012" height="506" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/71/responsive/serif-sans-serif-difference-xs.png 300w ,https://typogram.co/blog/media/posts/71/responsive/serif-sans-serif-difference-sm.png 480w ,https://typogram.co/blog/media/posts/71/responsive/serif-sans-serif-difference-md.png 768w ,https://typogram.co/blog/media/posts/71/responsive/serif-sans-serif-difference-lg.png 1024w">
-<figcaption >Difference between serif and sans serif</figcaption>
-</figure>
-<p><strong>1. Choose a strong font for headlines</strong></p>
-<p><span style="font-weight: 400;">Use a bold, eye-catching <a href="https://typogram.co/blog/different-types-of-sans-serifs/" target="_blank" rel="noopener noreferrer">sans serif</a> or <a href="https://typogram.co/blog/essential-terms-you-must-know-about-typography/#Display" target="_blank" rel="noopener noreferrer">display typeface</a> to create visual impact at the top of your design.</span></p>
-<p><strong>2. Pair it with a clean serif for body text</strong></p>
-<p><span style="font-weight: 400;">A <a href="https://typogram.co/blog/common-styles-of-serif-fonts-you-must-know-to-improve-your-design" target="_blank" rel="noopener noreferrer">serif font</a> adds structure and elegance while improving readability for longer text.</span></p>
-<p><strong>3. Focus on contrast with balance</strong></p>
-<p><span style="font-weight: 400;">Avoid using fonts that are too similar as much as you can, unless you have a good reason. Instead, mix styles that complement each other but offer enough contrast to make each element stand out.</span></p>
-<p><strong>Design tip:</strong><span style="font-weight: 400;"> Good font pairing is like a visual dialogue—each typeface plays a role, but together they create a unified voice.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/71/typograhy-font-pairing.png" alt="typograhy font pairing" width="1200" height="630" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/71/responsive/typograhy-font-pairing-xs.png 300w ,https://typogram.co/blog/media/posts/71/responsive/typograhy-font-pairing-sm.png 480w ,https://typogram.co/blog/media/posts/71/responsive/typograhy-font-pairing-md.png 768w ,https://typogram.co/blog/media/posts/71/responsive/typograhy-font-pairing-lg.png 1024w">
-<figcaption >A good font pairing help adding contrast to design</figcaption>
-</figure>
-<h3>Use Contrast to Guide the Viewer’s Eye</h3>
-<p><span style="font-weight: 400;">Contrast is a simple yet powerful graphic design principle that brings clarity and direction to your design. It helps you create a visual hierarchy and improves how easily your message is understood.</span></p>
-<p><strong>How to use contrast effectively:</strong></p>
-<p><strong>1. Identify visual monotony</strong></p>
-<p><span style="font-weight: 400;">If everything on your page is the same size, color, or weight, nothing grabs your audience’s attention—and your design will feel flat.</span></p>
-<p><strong>2. Create clear focal points</strong></p>
-<p><span style="font-weight: 400;">Contrast is about tension created by differences in shapes, colors, and textures. Think about where in your design you can create moments of tension. This could be: Add more contrast to font pairings, like using serifs with sans serifs. Make headings larger and bolder. Use color or spacing to separate sections. Highlight important elements with different type weights or background colors.</span></p>
-<p><strong>3. Build hierarchy through contrast</strong></p>
-<p><span style="font-weight: 400;">Visual hierarchy tells the viewer where to start and what to notice next. It’s key for creating intuitive, communicative designs.</span></p>
-<p><strong>Design tip:</strong><span style="font-weight: 400;"> When in doubt, add more contrast. It improves readability, guides attention, and strengthens your layout.</span></p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/71/typograph-tip-add-contrast.png" alt="typography tip add contrast" width="1200" height="630" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/71/responsive/typograph-tip-add-contrast-xs.png 300w ,https://typogram.co/blog/media/posts/71/responsive/typograph-tip-add-contrast-sm.png 480w ,https://typogram.co/blog/media/posts/71/responsive/typograph-tip-add-contrast-md.png 768w ,https://typogram.co/blog/media/posts/71/responsive/typograph-tip-add-contrast-lg.png 1024w">
-<figcaption >Adding contrast can make your design pop</figcaption>
-</figure>
-<h3>Final Thoughts: Mastering Graphic Design Principles</h3>
-<p>These three graphic design principles—color psychology, typography, and visual contrast—are the building blocks of clear, emotionally effective design. When you apply them with intention, your work becomes more cohesive, engaging, and professional.</p>
-<p><br><br></p>
             ]]>
         </content>
     </entry>
