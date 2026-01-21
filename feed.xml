@@ -3,45 +3,12 @@
     <title>Typogram Blog</title>
     <link href="https://typogram.co/blog/feed.xml" rel="self" />
     <link href="https://typogram.co/blog" />
-    <updated>2026-01-21T00:00:43-05:00</updated>
+    <updated>2026-01-21T00:02:51-05:00</updated>
     <author>
         <name>Wenting Zhang</name>
     </author>
     <id>https://typogram.co/blog</id>
 
-    <entry>
-        <title>Product Update № 23: Free Font Calendar &amp; Upcoming Figma Plugin </title>
-        <author>
-            <name>Hua Shu</name>
-        </author>
-        <link href="https://typogram.co/blog/free-font-calendar-and-upcoming-figma-plugin/"/>
-        <id>https://typogram.co/blog/free-font-calendar-and-upcoming-figma-plugin/</id>
-        <media:content url="https://typogram.co/blog/media/posts/86/ProductUpdate23.png" medium="image" />
-            <category term="Inside Typogram"/>
-
-        <updated>2026-01-20T23:32:43-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://typogram.co/blog/media/posts/86/ProductUpdate23.png" alt="" />
-                    Happy 2026! We’re kicking off the new year with a few things&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://typogram.co/blog/media/posts/86/ProductUpdate23.png" class="type:primaryImage" alt="" /></p>
-                <p>Happy <span style="font-weight: 400;">2026! We’re kicking off the new year with a few things we’re excited to share at Typogram Studio.</span></p>
-<h2 data-start="121" data-end="153">Our Brand-New Free Font Calendar</h2>
-<p data-start="155" data-end="389">We’re excited to introduce our new monthly font giveaway page — a creative calendar with something fresh to discover every month. Each release features a curated selection of premium fonts built around a unique theme, all free to use. Every font is crafted by top-tier foundries and comes with a full commercial license, so you can use them freely in personal projects or client work.</p>
-<p data-start="542" data-end="731">This month’s collection highlights decorative swashes, expressive display typefaces, and distinctive serif and sans-serif fonts — perfect for kicking off New Year projects with personality. If you love discovering great type, this is one you’ll want to bookmark.</p>
-<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/86/TypogramFreebiePage.png" alt="check out our new monthly freebie calendar!" width="2912" height="1522" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-xs.png 300w ,https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-sm.png 480w ,https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-md.png 768w ,https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-lg.png 1024w">
-<figcaption >Discover free fonts through our brand new monthly freebie calendar!</figcaption>
-</figure>
-<h2>Sneak Peek: Our Upcoming Figma Plugin</h2>
-<p><span style="font-weight: 400;">We love building tools that simplify design workflow and makes it fun. After launching our Variable Font (VFonts) plugin for Canva, we’re now about to release a brand new plugin for Figma! It’s a color plugin that helps you discover fresh color ideas, pairings, and palettes from Typogram, right inside your Figma workspace. Here is a sneak peek!</span></p>
-<p><a href="https://www.youtube.com/@wentinz"><div class="post__iframe"><iframe loading="lazy" width="auto" height="auto" style="width: 788px; height: 416px;" src="https://www.youtube.com/watch?v=0zxykoX3RHg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></a></p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>The Typogram Freebie Calendar: Curated Monthly Free Fonts for Designers</title>
         <author>
@@ -87,6 +54,40 @@
 <h3>Stay in the Loop</h3>
 <p><span style="font-weight: 400;">To make sure you never miss our monthly free fonts, bookmark the Freebie Calendar and check back regularly. You can also subscribe to <a href="https://fontdiscovery.typogram.co/" target="_blank" rel="noopener noreferrer">our newsletter</a> for updates and share your favorite finds with the design community.</span></p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Product Update № 23: Free Font Calendar &amp; Upcoming Figma Plugin </title>
+        <author>
+            <name>Hua Shu</name>
+        </author>
+        <link href="https://typogram.co/blog/free-font-calendar-and-upcoming-figma-plugin/"/>
+        <id>https://typogram.co/blog/free-font-calendar-and-upcoming-figma-plugin/</id>
+        <media:content url="https://typogram.co/blog/media/posts/86/ProductUpdate23.png" medium="image" />
+            <category term="Inside Typogram"/>
+
+        <updated>2026-01-12T23:32:00-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://typogram.co/blog/media/posts/86/ProductUpdate23.png" alt="" />
+                    Happy 2026! We’re kicking off the new year with a few things&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://typogram.co/blog/media/posts/86/ProductUpdate23.png" class="type:primaryImage" alt="" /></p>
+                <p>Happy <span style="font-weight: 400;">2026! We’re kicking off the new year with a few things we’re excited to share at Typogram Studio.</span></p>
+<h2 data-start="121" data-end="153">Our Brand-New Free Font Calendar</h2>
+<p data-start="155" data-end="389">We’re excited to introduce our new monthly font giveaway page — a creative calendar with something fresh to discover every month. Each release features a curated selection of premium fonts built around a unique theme, all free to use. Every font is crafted by top-tier foundries and comes with a full commercial license, so you can use them freely in personal projects or client work.</p>
+<p data-start="542" data-end="731">This month’s collection highlights decorative swashes, expressive display typefaces, and distinctive serif and sans-serif fonts — perfect for kicking off New Year projects with personality. If you love discovering great type, this is one you’ll want to bookmark.</p>
+<div class="button-container"><button class="pink-button"><a href="https://typogram.co/freebie">Check out the Freebies</a></button></div>
+<figure class="post__image" ><img loading="lazy" src="https://typogram.co/blog/media/posts/86/TypogramFreebiePage.png" alt="check out our new monthly freebie calendar!" width="2912" height="1522" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-xs.png 300w ,https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-sm.png 480w ,https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-md.png 768w ,https://typogram.co/blog/media/posts/86/responsive/TypogramFreebiePage-lg.png 1024w">
+<figcaption >Discover free fonts through our brand new monthly freebie calendar!</figcaption>
+</figure>
+<h2>Sneak Peek: Our Upcoming Figma Plugin</h2>
+<p><span style="font-weight: 400;">We love building tools that simplify design workflow and makes it fun. After launching our Variable Font (VFonts) plugin for Canva, we’re now about to release a brand new plugin for Figma! It’s a color plugin that helps you discover fresh color ideas, pairings, and palettes from Typogram, right inside your Figma workspace. Here is a sneak peek!</span></p>
+<p><a href="https://www.youtube.com/@wentinz"><div class="post__iframe"><iframe loading="lazy" width="auto" height="auto" style="width: 788px; height: 416px;" src="https://www.youtube.com/watch?v=0zxykoX3RHg" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div></a></p>
             ]]>
         </content>
     </entry>
